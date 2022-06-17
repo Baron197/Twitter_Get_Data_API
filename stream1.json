@@ -1,0 +1,2005 @@
+[
+    {
+        "created_at": "Wed Oct 17 06:42:53 +0000 2018",
+        "id": 1052449854809624578,
+        "id_str": "1052449854809624578",
+        "text": "Google will charge Android manufacturers for their apps in Europe https://t.co/lAqw0IjJD1 https://t.co/1JGPNVY3zS",
+        "display_text_range": [
+            0,
+            89
+        ],
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 26001977,
+            "id_str": "26001977",
+            "name": "Geeky Gadgets",
+            "screen_name": "GeekyGadgets",
+            "location": null,
+            "url": "https://www.geeky-gadgets.com",
+            "description": "Gadgets & Technology News since 2007",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 21468,
+            "friends_count": 273,
+            "listed_count": 976,
+            "favourites_count": 0,
+            "statuses_count": 94218,
+            "created_at": "Mon Mar 23 13:41:43 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "3D72A4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/925045925583695872/_5obnjwv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/925045925583695872/_5obnjwv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26001977/1509429849",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lAqw0IjJD1",
+                    "expanded_url": "http://dlvr.it/Qnb2kd",
+                    "display_url": "dlvr.it/Qnb2kd",
+                    "indices": [
+                        66,
+                        89
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1052449851865264128,
+                    "id_str": "1052449851865264128",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DpsNkGxXcAA0LDu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DpsNkGxXcAA0LDu.jpg",
+                    "url": "https://t.co/1JGPNVY3zS",
+                    "display_url": "pic.twitter.com/1JGPNVY3zS",
+                    "expanded_url": "https://twitter.com/GeekyGadgets/status/1052449854809624578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1052449851865264128,
+                    "id_str": "1052449851865264128",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DpsNkGxXcAA0LDu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DpsNkGxXcAA0LDu.jpg",
+                    "url": "https://t.co/1JGPNVY3zS",
+                    "display_url": "pic.twitter.com/1JGPNVY3zS",
+                    "expanded_url": "https://twitter.com/GeekyGadgets/status/1052449854809624578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 525,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758573616"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:54 +0000 2018",
+        "id": 1052449858416726017,
+        "id_str": "1052449858416726017",
+        "text": "King of dark fantasy. Summon today. App Store: https://t.co/XS3AaKwMd2 Google Play: https://t.co/I36KfTpJXd #DarkSummoner",
+        "source": "<a href=\"http://www.darksummoner.com\" rel=\"nofollow\">Dark Summoner</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14535292,
+            "id_str": "14535292",
+            "name": "rblprd",
+            "screen_name": "rblprd",
+            "location": "29.584046,-98.306263",
+            "url": "http://www.rblprd.com",
+            "description": "Just a cranky rebel driving a truck in texas. 90% of my Tumblr links are NSFW, so hededs up #HillaryForPrison",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 105,
+            "friends_count": 233,
+            "listed_count": 5,
+            "favourites_count": 45,
+            "statuses_count": 4699,
+            "created_at": "Fri Apr 25 22:01:27 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2305366506/image_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2305366506/image_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DarkSummoner",
+                    "indices": [
+                        108,
+                        121
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/XS3AaKwMd2",
+                    "expanded_url": "http://bit.ly/AzhyKP",
+                    "display_url": "bit.ly/AzhyKP",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                },
+                {
+                    "url": "https://t.co/I36KfTpJXd",
+                    "expanded_url": "http://bit.ly/NtcNTs",
+                    "display_url": "bit.ly/NtcNTs",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758574476"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:55 +0000 2018",
+        "id": 1052449860975284227,
+        "id_str": "1052449860975284227",
+        "text": "RT @richardcalhoun: #Grieve represents the @BeaconsfieldCCA constituency who voted #Leave - his change of position says it all from ' I do\u2026",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14368178,
+            "id_str": "14368178",
+            "name": "Tom Brook",
+            "screen_name": "DrTEB",
+            "location": "Ealing, London",
+            "url": null,
+            "description": "Classical liberal. Free Trade. Capitalism. Small government. Subsistence welfare state. No intervention. No fiat money. EDM. Phy-Chem PhD, now in fintech.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 698,
+            "friends_count": 708,
+            "listed_count": 47,
+            "favourites_count": 58028,
+            "statuses_count": 53344,
+            "created_at": "Sat Apr 12 10:35:51 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1015441338760867840/FAzKqSOU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015441338760867840/FAzKqSOU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14368178/1538650266",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 20:36:19 +0000 2018",
+            "id": 1052297207234396160,
+            "id_str": "1052297207234396160",
+            "text": "#Grieve represents the @BeaconsfieldCCA constituency who voted #Leave - his change of position says it all from ' I\u2026 https://t.co/bqRUftq0TW",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 7349062,
+                "id_str": "7349062",
+                "name": "Richard Calhoun",
+                "screen_name": "richardcalhoun",
+                "location": "South Bucks - England UK",
+                "url": "http://richardcalhoun.blogspot.com",
+                "description": "#NeoLiberalism  #FreeMarkets  #FlatTaxes    #SmallGovt #FreedomOfTheIndividual #Brexit",
+                "translator_type": "regular",
+                "protected": false,
+                "verified": false,
+                "followers_count": 17989,
+                "friends_count": 8083,
+                "listed_count": 533,
+                "favourites_count": 63,
+                "statuses_count": 304099,
+                "created_at": "Mon Jul 09 15:22:17 +0000 2007",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/929696103884144640/-NogAn3x_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/929696103884144640/-NogAn3x_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/7349062/1413121066",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1052296320306872320,
+            "quoted_status_id_str": "1052296320306872320",
+            "quoted_status": {
+                "created_at": "Tue Oct 16 20:32:48 +0000 2018",
+                "id": 1052296320306872320,
+                "id_str": "1052296320306872320",
+                "text": "On this week's Cross Question on Wednesday at 8pm on @LBC...\n\nDominic Grieve\n@lucianaberger \n@SuzanneEvans1\u2026 https://t.co/jhVLzAGNYQ",
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1048662309864984576,
+                    "id_str": "1048662309864984576",
+                    "name": "LBC Cross Question",
+                    "screen_name": "question_cross",
+                    "location": "London, England",
+                    "url": "https://www.lbc.co.uk/radio/presenters/iain-dale/cross-question-send-us-your-question-for-the-panel/",
+                    "description": "Cross Question is LBC Radio's weekly political debate programme hosted by Iain Dale. Wednesdays 8-9pm. Podcast on iTunes & Google. #lbccq",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 380,
+                    "friends_count": 264,
+                    "listed_count": 1,
+                    "favourites_count": 0,
+                    "statuses_count": 3,
+                    "created_at": "Sat Oct 06 19:52:32 +0000 2018",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1048702077969616896/gDU7BNJ4_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048702077969616896/gDU7BNJ4_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048662309864984576/1538857332",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "On this week's Cross Question on Wednesday at 8pm on @LBC...\n\nDominic Grieve\n@lucianaberger \n@SuzanneEvans1 \n@zoesqwilliams \n\nDownload last week's episode on Apple or Google Podcasts now! https://t.co/1R2Tldp8GP",
+                    "display_text_range": [
+                        0,
+                        187
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [
+                            {
+                                "screen_name": "LBC",
+                                "name": "LBC",
+                                "id": 20973388,
+                                "id_str": "20973388",
+                                "indices": [
+                                    53,
+                                    57
+                                ]
+                            },
+                            {
+                                "screen_name": "lucianaberger",
+                                "name": "Luciana Berger",
+                                "id": 20992801,
+                                "id_str": "20992801",
+                                "indices": [
+                                    77,
+                                    91
+                                ]
+                            },
+                            {
+                                "screen_name": "SuzanneEvans1",
+                                "name": "Suzanne Evans",
+                                "id": 35760904,
+                                "id_str": "35760904",
+                                "indices": [
+                                    93,
+                                    107
+                                ]
+                            },
+                            {
+                                "screen_name": "zoesqwilliams",
+                                "name": "(((Zoe Williams)))",
+                                "id": 370589204,
+                                "id_str": "370589204",
+                                "indices": [
+                                    109,
+                                    123
+                                ]
+                            }
+                        ],
+                        "symbols": [],
+                        "media": [
+                            {
+                                "id": 1052296214769623040,
+                                "id_str": "1052296214769623040",
+                                "indices": [
+                                    188,
+                                    211
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                                "url": "https://t.co/1R2Tldp8GP",
+                                "display_url": "pic.twitter.com/1R2Tldp8GP",
+                                "expanded_url": "https://twitter.com/question_cross/status/1052296320306872320/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "large": {
+                                        "w": 2000,
+                                        "h": 1000,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 340,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 1200,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1052296214769623040,
+                                "id_str": "1052296214769623040",
+                                "indices": [
+                                    188,
+                                    211
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                                "url": "https://t.co/1R2Tldp8GP",
+                                "display_url": "pic.twitter.com/1R2Tldp8GP",
+                                "expanded_url": "https://twitter.com/question_cross/status/1052296320306872320/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "large": {
+                                        "w": 2000,
+                                        "h": 1000,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 340,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 1200,
+                                        "h": 600,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "favorite_count": 5,
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/jhVLzAGNYQ",
+                            "expanded_url": "https://twitter.com/i/web/status/1052296320306872320",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                109,
+                                132
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LBC",
+                            "name": "LBC",
+                            "id": 20973388,
+                            "id_str": "20973388",
+                            "indices": [
+                                53,
+                                57
+                            ]
+                        },
+                        {
+                            "screen_name": "lucianaberger",
+                            "name": "Luciana Berger",
+                            "id": 20992801,
+                            "id_str": "20992801",
+                            "indices": [
+                                77,
+                                91
+                            ]
+                        },
+                        {
+                            "screen_name": "SuzanneEvans1",
+                            "name": "Suzanne Evans",
+                            "id": 35760904,
+                            "id_str": "35760904",
+                            "indices": [
+                                93,
+                                107
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "quoted_status_permalink": {
+                "url": "https://t.co/okwWRjieWq",
+                "expanded": "https://twitter.com/question_cross/status/1052296320306872320",
+                "display": "twitter.com/question_cross\u2026"
+            },
+            "is_quote_status": true,
+            "extended_tweet": {
+                "full_text": "#Grieve represents the @BeaconsfieldCCA constituency who voted #Leave - his change of position says it all from ' I do not wish to deny brexit delivery' to now supporting a 'people's vote' - the man is a charlatan https://t.co/okwWRjieWq",
+                "display_text_range": [
+                    0,
+                    213
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Grieve",
+                            "indices": [
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "text": "Leave",
+                            "indices": [
+                                63,
+                                69
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/okwWRjieWq",
+                            "expanded_url": "https://twitter.com/question_cross/status/1052296320306872320",
+                            "display_url": "twitter.com/question_cross\u2026",
+                            "indices": [
+                                214,
+                                237
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "BeaconsfieldCCA",
+                            "name": "Beaconsfield Tories",
+                            "id": 843835474280103939,
+                            "id_str": "843835474280103939",
+                            "indices": [
+                                23,
+                                39
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8,
+            "favorite_count": 13,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Grieve",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "text": "Leave",
+                        "indices": [
+                            63,
+                            69
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bqRUftq0TW",
+                        "expanded_url": "https://twitter.com/i/web/status/1052297207234396160",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BeaconsfieldCCA",
+                        "name": "Beaconsfield Tories",
+                        "id": 843835474280103939,
+                        "id_str": "843835474280103939",
+                        "indices": [
+                            23,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_id": 1052296320306872320,
+        "quoted_status_id_str": "1052296320306872320",
+        "quoted_status": {
+            "created_at": "Tue Oct 16 20:32:48 +0000 2018",
+            "id": 1052296320306872320,
+            "id_str": "1052296320306872320",
+            "text": "On this week's Cross Question on Wednesday at 8pm on @LBC...\n\nDominic Grieve\n@lucianaberger \n@SuzanneEvans1\u2026 https://t.co/jhVLzAGNYQ",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1048662309864984576,
+                "id_str": "1048662309864984576",
+                "name": "LBC Cross Question",
+                "screen_name": "question_cross",
+                "location": "London, England",
+                "url": "https://www.lbc.co.uk/radio/presenters/iain-dale/cross-question-send-us-your-question-for-the-panel/",
+                "description": "Cross Question is LBC Radio's weekly political debate programme hosted by Iain Dale. Wednesdays 8-9pm. Podcast on iTunes & Google. #lbccq",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 380,
+                "friends_count": 264,
+                "listed_count": 1,
+                "favourites_count": 0,
+                "statuses_count": 3,
+                "created_at": "Sat Oct 06 19:52:32 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1048702077969616896/gDU7BNJ4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048702077969616896/gDU7BNJ4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048662309864984576/1538857332",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "On this week's Cross Question on Wednesday at 8pm on @LBC...\n\nDominic Grieve\n@lucianaberger \n@SuzanneEvans1 \n@zoesqwilliams \n\nDownload last week's episode on Apple or Google Podcasts now! https://t.co/1R2Tldp8GP",
+                "display_text_range": [
+                    0,
+                    187
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LBC",
+                            "name": "LBC",
+                            "id": 20973388,
+                            "id_str": "20973388",
+                            "indices": [
+                                53,
+                                57
+                            ]
+                        },
+                        {
+                            "screen_name": "lucianaberger",
+                            "name": "Luciana Berger",
+                            "id": 20992801,
+                            "id_str": "20992801",
+                            "indices": [
+                                77,
+                                91
+                            ]
+                        },
+                        {
+                            "screen_name": "SuzanneEvans1",
+                            "name": "Suzanne Evans",
+                            "id": 35760904,
+                            "id_str": "35760904",
+                            "indices": [
+                                93,
+                                107
+                            ]
+                        },
+                        {
+                            "screen_name": "zoesqwilliams",
+                            "name": "(((Zoe Williams)))",
+                            "id": 370589204,
+                            "id_str": "370589204",
+                            "indices": [
+                                109,
+                                123
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1052296214769623040,
+                            "id_str": "1052296214769623040",
+                            "indices": [
+                                188,
+                                211
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                            "url": "https://t.co/1R2Tldp8GP",
+                            "display_url": "pic.twitter.com/1R2Tldp8GP",
+                            "expanded_url": "https://twitter.com/question_cross/status/1052296320306872320/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2000,
+                                    "h": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 600,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1052296214769623040,
+                            "id_str": "1052296214769623040",
+                            "indices": [
+                                188,
+                                211
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DpqB1P_U4AA7oVq.jpg",
+                            "url": "https://t.co/1R2Tldp8GP",
+                            "display_url": "pic.twitter.com/1R2Tldp8GP",
+                            "expanded_url": "https://twitter.com/question_cross/status/1052296320306872320/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2000,
+                                    "h": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 600,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 2,
+            "favorite_count": 5,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/jhVLzAGNYQ",
+                        "expanded_url": "https://twitter.com/i/web/status/1052296320306872320",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "LBC",
+                        "name": "LBC",
+                        "id": 20973388,
+                        "id_str": "20973388",
+                        "indices": [
+                            53,
+                            57
+                        ]
+                    },
+                    {
+                        "screen_name": "lucianaberger",
+                        "name": "Luciana Berger",
+                        "id": 20992801,
+                        "id_str": "20992801",
+                        "indices": [
+                            77,
+                            91
+                        ]
+                    },
+                    {
+                        "screen_name": "SuzanneEvans1",
+                        "name": "Suzanne Evans",
+                        "id": 35760904,
+                        "id_str": "35760904",
+                        "indices": [
+                            93,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/okwWRjieWq",
+            "expanded": "https://twitter.com/question_cross/status/1052296320306872320",
+            "display": "twitter.com/question_cross\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Grieve",
+                    "indices": [
+                        20,
+                        27
+                    ]
+                },
+                {
+                    "text": "Leave",
+                    "indices": [
+                        83,
+                        89
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "richardcalhoun",
+                    "name": "Richard Calhoun",
+                    "id": 7349062,
+                    "id_str": "7349062",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "BeaconsfieldCCA",
+                    "name": "Beaconsfield Tories",
+                    "id": 843835474280103939,
+                    "id_str": "843835474280103939",
+                    "indices": [
+                        43,
+                        59
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758575086"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:55 +0000 2018",
+        "id": 1052449862271291394,
+        "id_str": "1052449862271291394",
+        "text": "RT @oLo5NdA7VTElVBX: Google play - &gt;https://t.co/lgs0Z1y7ZE",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 42011312,
+            "id_str": "42011312",
+            "name": "4everwithUleesunho",
+            "screen_name": "nayd_dyan",
+            "location": "barcelona/philippines",
+            "url": "http://yanneskie.tumblr.com/",
+            "description": "I AM KLINGY & SHCJ PHILIPPINES",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 365,
+            "friends_count": 215,
+            "listed_count": 18,
+            "favourites_count": 12726,
+            "statuses_count": 102760,
+            "created_at": "Sat May 23 11:17:42 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "020E14",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/995766215749627904/_Mr9oNIy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/995766215749627904/_Mr9oNIy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42011312/1517615727",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 08:33:02 +0000 2018",
+            "id": 1052115184968331265,
+            "id_str": "1052115184968331265",
+            "text": "Google play - &gt;https://t.co/lgs0Z1y7ZE",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 1052044917332037632,
+            "in_reply_to_status_id_str": "1052044917332037632",
+            "in_reply_to_user_id": 1034090739108466688,
+            "in_reply_to_user_id_str": "1034090739108466688",
+            "in_reply_to_screen_name": "oLo5NdA7VTElVBX",
+            "user": {
+                "id": 1034090739108466688,
+                "id_str": "1034090739108466688",
+                "name": "324324324",
+                "screen_name": "oLo5NdA7VTElVBX",
+                "location": null,
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 0,
+                "friends_count": 0,
+                "listed_count": 0,
+                "favourites_count": 3,
+                "statuses_count": 119,
+                "created_at": "Mon Aug 27 14:50:19 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1034115482498940930/kZzbfPg0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034115482498940930/kZzbfPg0_normal.jpg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lgs0Z1y7ZE",
+                        "expanded_url": "https://play.google.com/store/apps/details?id=kr.starple.kstar",
+                        "display_url": "play.google.com/store/apps/det\u2026",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lgs0Z1y7ZE",
+                    "expanded_url": "https://play.google.com/store/apps/details?id=kr.starple.kstar",
+                    "display_url": "play.google.com/store/apps/det\u2026",
+                    "indices": [
+                        39,
+                        62
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "oLo5NdA7VTElVBX",
+                    "name": "324324324",
+                    "id": 1034090739108466688,
+                    "id_str": "1034090739108466688",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758575395"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:55 +0000 2018",
+        "id": 1052449862741106688,
+        "id_str": "1052449862741106688",
+        "text": "RT @JillWineBanks: Outrageous attempt to keep workers from signing up for healthcare on their day off. \nObamacare signup site to be shut do\u2026",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 289639293,
+            "id_str": "289639293",
+            "name": "Noam",
+            "screen_name": "i_am_noam",
+            "location": "California, USA",
+            "url": null,
+            "description": "exhausted.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 40,
+            "friends_count": 673,
+            "listed_count": 0,
+            "favourites_count": 8920,
+            "statuses_count": 3083,
+            "created_at": "Fri Apr 29 00:13:40 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1041928786999042048/0oHXs4wa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041928786999042048/0oHXs4wa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/289639293/1507448224",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 15 17:53:31 +0000 2018",
+            "id": 1051893850434936832,
+            "id_str": "1051893850434936832",
+            "text": "Outrageous attempt to keep workers from signing up for healthcare on their day off. \nObamacare signup site to be sh\u2026 https://t.co/MToE5QPVE6",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 454071012,
+                "id_str": "454071012",
+                "name": "Jill Wine-Banks",
+                "screen_name": "JillWineBanks",
+                "location": "Chicago, IL",
+                "url": "http://www.jillwinebanks.com",
+                "description": "@NBCNews & @MSNBC Contributor. Speaker. Watergate prosecutor. GC Army. COO ABA. Int'l business exec. Head of career & tech education for Chicago Public Schools.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 144585,
+                "friends_count": 186,
+                "listed_count": 860,
+                "favourites_count": 47336,
+                "statuses_count": 11063,
+                "created_at": "Tue Jan 03 15:58:57 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "050A82",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/996117550428811265/Iyxeo1vW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/996117550428811265/Iyxeo1vW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/454071012/1539615577",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Outrageous attempt to keep workers from signing up for healthcare on their day off. \nObamacare signup site to be shut down for 12 hours nearly every Sunday of open enrollment | PBS NewsHour https://t.co/pIadA29fZg",
+                "display_text_range": [
+                    0,
+                    213
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/pIadA29fZg",
+                            "expanded_url": "https://www.pbs.org/newshour/amp/health/obamacare-signup-site-shut-12-hours-nearly-every-sunday-open-enrollment#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s",
+                            "display_url": "pbs.org/newshour/amp/h\u2026",
+                            "indices": [
+                                190,
+                                213
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 320,
+            "reply_count": 300,
+            "retweet_count": 4873,
+            "favorite_count": 4245,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MToE5QPVE6",
+                        "expanded_url": "https://twitter.com/i/web/status/1051893850434936832",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JillWineBanks",
+                    "name": "Jill Wine-Banks",
+                    "id": 454071012,
+                    "id_str": "454071012",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758575507"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:55 +0000 2018",
+        "id": 1052449864733388801,
+        "id_str": "1052449864733388801",
+        "text": "King of dark fantasy. Summon today. App Store: https://t.co/iUixM6xLon Google Play: https://t.co/VLH2DXJFOG #DarkSummoner",
+        "source": "<a href=\"http://www.darksummoner.com\" rel=\"nofollow\">Dark Summoner Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2845275821,
+            "id_str": "2845275821",
+            "name": "Chunk Eee",
+            "screen_name": "chunky5523",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1,
+            "friends_count": 0,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 1233,
+            "created_at": "Sun Oct 26 14:49:47 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DarkSummoner",
+                    "indices": [
+                        108,
+                        121
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/iUixM6xLon",
+                    "expanded_url": "http://bit.ly/AzhyKP",
+                    "display_url": "bit.ly/AzhyKP",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                },
+                {
+                    "url": "https://t.co/VLH2DXJFOG",
+                    "expanded_url": "http://bit.ly/NtcNTs",
+                    "display_url": "bit.ly/NtcNTs",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758575982"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:56 +0000 2018",
+        "id": 1052449864943054853,
+        "id_str": "1052449864943054853",
+        "text": "RT @HNIJohnMiller: 20) The James Damore Google Memo. You didn\u2019t read it. None of you fuckers read the whole thing. You got a few pages in,\u2026",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 756119370686984192,
+            "id_str": "756119370686984192",
+            "name": "mh01701",
+            "screen_name": "Marsh01701",
+            "location": "Beantown",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 9,
+            "friends_count": 50,
+            "listed_count": 0,
+            "favourites_count": 368,
+            "statuses_count": 310,
+            "created_at": "Thu Jul 21 13:31:20 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026281449668919296/ien_l-68_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026281449668919296/ien_l-68_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 22:55:27 +0000 2018",
+            "id": 1052332221955284992,
+            "id_str": "1052332221955284992",
+            "text": "20) The James Damore Google Memo. You didn\u2019t read it. None of you fuckers read the whole thing. You got a few pages\u2026 https://t.co/wU5HkYRmkl",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+            "truncated": true,
+            "in_reply_to_status_id": 1052331789119905793,
+            "in_reply_to_status_id_str": "1052331789119905793",
+            "in_reply_to_user_id": 890634935438118912,
+            "in_reply_to_user_id_str": "890634935438118912",
+            "in_reply_to_screen_name": "HNIJohnMiller",
+            "user": {
+                "id": 890634935438118912,
+                "id_str": "890634935438118912",
+                "name": "Kyle",
+                "screen_name": "HNIJohnMiller",
+                "location": null,
+                "url": null,
+                "description": "I am Bourbon Anon #banon #followthevomittrail World's only 1932 Emu War expert Founder of the Bourbon Lantern Corps",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 21039,
+                "friends_count": 128,
+                "listed_count": 182,
+                "favourites_count": 47865,
+                "statuses_count": 28417,
+                "created_at": "Thu Jul 27 18:08:10 +0000 2017",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/956333593323810816/-QgViGQC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/956333593323810816/-QgViGQC_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/890634935438118912/1527255806",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "20) The James Damore Google Memo. You didn\u2019t read it. None of you fuckers read the whole thing. You got a few pages in, hit the key points, sure. Definitely more than the liberals. DEFINITELY more than anyone who had ever interviewed Damore about the memo.",
+                "display_text_range": [
+                    0,
+                    256
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 67,
+            "favorite_count": 392,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/wU5HkYRmkl",
+                        "expanded_url": "https://twitter.com/i/web/status/1052332221955284992",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HNIJohnMiller",
+                    "name": "Kyle",
+                    "id": 890634935438118912,
+                    "id_str": "890634935438118912",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758576032"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:56 +0000 2018",
+        "id": 1052449865823911938,
+        "id_str": "1052449865823911938",
+        "text": "Google to Encrypt Android Cloud Backups With Your Lock Screen Password https://t.co/lox19KhhvA via @TheHackersNews",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18251249,
+            "id_str": "18251249",
+            "name": "Scripter",
+            "screen_name": "thomas_metz",
+            "location": "Milky Way",
+            "url": null,
+            "description": "Computer-Sicherheit, #Datenschutz. Allgemeine Neuigkeiten aus dem IT-Sektor. #JavaScript- und #PHP-begeistert. #Termux. #Bash. #ShellScripting.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1912,
+            "friends_count": 1590,
+            "listed_count": 231,
+            "favourites_count": 573,
+            "statuses_count": 16474,
+            "created_at": "Fri Dec 19 20:44:55 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "de",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "A7B3C7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "2635BF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C7D1E0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/876147112005836802/J8n6XolG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/876147112005836802/J8n6XolG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18251249/1401121088",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lox19KhhvA",
+                    "expanded_url": "https://thehackernews.com/2018/10/android-cloud-backup.html",
+                    "display_url": "thehackernews.com/2018/10/androi\u2026",
+                    "indices": [
+                        71,
+                        94
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "TheHackersNews",
+                    "name": "The Hacker News",
+                    "id": 209811713,
+                    "id_str": "209811713",
+                    "indices": [
+                        99,
+                        114
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758576242"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:58 +0000 2018",
+        "id": 1052449874199932928,
+        "id_str": "1052449874199932928",
+        "text": "Apple, Google, Microsoft, and Mozilla have announced a unified plan to deprecate the use of TLS 1.0 and 1.1 in thei\u2026 https://t.co/a7e69WbkLC",
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 983213188811337730,
+            "id_str": "983213188811337730",
+            "name": "Crazy Movie",
+            "screen_name": "crazymoviega",
+            "location": "India",
+            "url": "http://www.crazymovie.ga/",
+            "description": "I am a website content poster of https://dawncinema.blogspot.com/",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 0,
+            "friends_count": 19,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 6305,
+            "created_at": "Mon Apr 09 05:21:06 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028709523266068480/D9P729zk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028709523266068480/D9P729zk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/983213188811337730/1529342026",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Apple, Google, Microsoft, and Mozilla have announced a unified plan to deprecate the use of TLS 1.0 and 1.1 in their web browsers in early 2020 (Peter Bright/Ars\u00a0Technica) https://t.co/1lo9S7vvrm",
+            "display_text_range": [
+                0,
+                195
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/1lo9S7vvrm",
+                        "expanded_url": "http://www.techspecial.cf/2018/10/apple-google-microsoft-and-mozilla-have-announced-a-unified-plan-to-deprecate-the-use-of-tls-1-0-and-1-1-in-their-web-browsers-in-early-2020-peter-bright-ars-technica",
+                        "display_url": "techspecial.cf/2018/10/apple-\u2026",
+                        "indices": [
+                            172,
+                            195
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/a7e69WbkLC",
+                    "expanded_url": "https://twitter.com/i/web/status/1052449874199932928",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758578239"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:42:58 +0000 2018",
+        "id": 1052449876737445888,
+        "id_str": "1052449876737445888",
+        "text": "@Gavuza88 These Google guys can eat a \ud83c\udf46",
+        "display_text_range": [
+            10,
+            39
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1052449652249890816,
+        "in_reply_to_status_id_str": "1052449652249890816",
+        "in_reply_to_user_id": 526611105,
+        "in_reply_to_user_id_str": "526611105",
+        "in_reply_to_screen_name": "Gavuza88",
+        "user": {
+            "id": 975422131,
+            "id_str": "975422131",
+            "name": "\u2022 umXhosa \u2022",
+            "screen_name": "qPhiwez",
+            "location": "Johannesburg, South Africa",
+            "url": null,
+            "description": "\u2662 He hails from the dusty streets of B-Town, well not so dusty \u2662 #InterviewTips4U \u25cf #TwitterGlossary \u25cf #GiftedTips4U \u25cf #CountryDuty \u25cf #LetBursariesFindYou \u25cf",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2155,
+            "friends_count": 2458,
+            "listed_count": 1,
+            "favourites_count": 3735,
+            "statuses_count": 8176,
+            "created_at": "Wed Nov 28 05:20:21 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1032131653924265984/BXUMq2fs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131653924265984/BXUMq2fs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/975422131/1507210684",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Gavuza88",
+                    "name": "\ud83d\ude06\ud83d\udcb0Gavillionaire\ud83d\udcb0\ud83d\ude06",
+                    "id": 526611105,
+                    "id_str": "526611105",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758578844"
+    }
+    ]
+    

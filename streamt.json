@@ -1,0 +1,1984 @@
+[
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463963374592000,
+        "id_str": "1052463963374592000",
+        "text": "I liked a @YouTube video https://t.co/3euH6LSuNt We Are All Puppets!",
+        "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2845417890,
+            "id_str": "2845417890",
+            "name": "\ud83d\udda4M\u034d\u032ba\u0328\u0318\u032a\u0339\u0326r\u034f\u0320i\u0361\u0347s\u0326\u0329\u0325\u0354\u0359\u0325s\u0489\u032a\u032b\u0347\u0331\u0354\u0325\u034ea\u0338\ud83d\udda4",
+            "screen_name": "ShortStuff29",
+            "location": "Ohio, USA",
+            "url": "http://shortstuff1229.tumblr.com/",
+            "description": "Wonk uoy naht noitceffa erom deen I \ud83d\udda4\ud83c\udfa7",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1176,
+            "friends_count": 4545,
+            "listed_count": 2,
+            "favourites_count": 99918,
+            "statuses_count": 38964,
+            "created_at": "Wed Oct 08 00:45:18 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "7401DF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1045109114437857283/4-ZWg5h6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045109114437857283/4-ZWg5h6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2845417890/1535517076",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3euH6LSuNt",
+                    "expanded_url": "http://youtu.be/JxIJP22SX04?a",
+                    "display_url": "youtu.be/JxIJP22SX04?a",
+                    "indices": [
+                        25,
+                        48
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        10,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937360"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463963135496192,
+        "id_str": "1052463963135496192",
+        "text": "RT @LindseyGrahamSC: Now speaking at @Heritage.  \n\nWatch online at the link below. https://t.co/QOVj23KZ1p",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 186765545,
+            "id_str": "186765545",
+            "name": "mattin",
+            "screen_name": "tap1832",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 58,
+            "friends_count": 184,
+            "listed_count": 4,
+            "favourites_count": 16170,
+            "statuses_count": 12445,
+            "created_at": "Sat Sep 04 09:57:12 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/945445643488604160/MLLpJFyr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/945445643488604160/MLLpJFyr_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Oct 17 00:21:04 +0000 2018",
+            "id": 1052353765188280320,
+            "id_str": "1052353765188280320",
+            "text": "Now speaking at @Heritage.  \n\nWatch online at the link below. https://t.co/QOVj23KZ1p",
+            "display_text_range": [
+                0,
+                61
+            ],
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 432895323,
+                "id_str": "432895323",
+                "name": "Lindsey Graham",
+                "screen_name": "LindseyGrahamSC",
+                "location": "South Carolina",
+                "url": null,
+                "description": "The official Twitter feed for United States Senator Lindsey Graham.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 541121,
+                "friends_count": 2183,
+                "listed_count": 4273,
+                "favourites_count": 70,
+                "statuses_count": 8532,
+                "created_at": "Fri Dec 09 22:21:03 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "033C82",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "20285C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EBEBEB",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1045473448783466496/XnZoIj-Q_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045473448783466496/XnZoIj-Q_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/432895323/1484242172",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1052349112702693377,
+            "quoted_status_id_str": "1052349112702693377",
+            "quoted_status": {
+                "created_at": "Wed Oct 17 00:02:34 +0000 2018",
+                "id": 1052349112702693377,
+                "id_str": "1052349112702693377",
+                "text": "LIVE from the Heritage Foundation President's Club in Washington, D.C. Senator @LindseyGraham and @senatemajldr are\u2026 https://t.co/xjYNFpoMtt",
+                "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 10168082,
+                    "id_str": "10168082",
+                    "name": "Heritage Foundation",
+                    "screen_name": "Heritage",
+                    "location": "Washington, DC",
+                    "url": "http://heritage.org",
+                    "description": "A think tank devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": true,
+                    "followers_count": 635595,
+                    "friends_count": 31388,
+                    "listed_count": 11729,
+                    "favourites_count": 2603,
+                    "statuses_count": 78201,
+                    "created_at": "Mon Nov 12 01:50:27 +0000 2007",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "004B8E",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_link_color": "000080",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "E0FF92",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/624989495243505665/KEyG9zNZ_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/624989495243505665/KEyG9zNZ_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/10168082/1464813555",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "LIVE from the Heritage Foundation President's Club in Washington, D.C. Senator @LindseyGraham and @senatemajldr are about to speak \n\nWatch: https://t.co/XWqMhVwKbO",
+                    "display_text_range": [
+                        0,
+                        163
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/XWqMhVwKbO",
+                                "expanded_url": "https://www.youtube.com/watch?v=2AFCPAZLTXg&feature=youtu.be",
+                                "display_url": "youtube.com/watch?v=2AFCPA\u2026",
+                                "indices": [
+                                    140,
+                                    163
+                                ]
+                            }
+                        ],
+                        "user_mentions": [
+                            {
+                                "screen_name": "LindseyGraham",
+                                "name": "I AM NOT A SENATOR",
+                                "id": 7006752,
+                                "id_str": "7006752",
+                                "indices": [
+                                    79,
+                                    93
+                                ]
+                            },
+                            {
+                                "screen_name": "senatemajldr",
+                                "name": "Leader McConnell",
+                                "id": 1249982359,
+                                "id_str": "1249982359",
+                                "indices": [
+                                    98,
+                                    111
+                                ]
+                            }
+                        ],
+                        "symbols": []
+                    }
+                },
+                "quote_count": 4,
+                "reply_count": 95,
+                "retweet_count": 89,
+                "favorite_count": 292,
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xjYNFpoMtt",
+                            "expanded_url": "https://twitter.com/i/web/status/1052349112702693377",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LindseyGraham",
+                            "name": "I AM NOT A SENATOR",
+                            "id": 7006752,
+                            "id_str": "7006752",
+                            "indices": [
+                                79,
+                                93
+                            ]
+                        },
+                        {
+                            "screen_name": "senatemajldr",
+                            "name": "Leader McConnell",
+                            "id": 1249982359,
+                            "id_str": "1249982359",
+                            "indices": [
+                                98,
+                                111
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "quoted_status_permalink": {
+                "url": "https://t.co/QOVj23KZ1p",
+                "expanded": "https://twitter.com/Heritage/status/1052349112702693377",
+                "display": "twitter.com/Heritage/statu\u2026"
+            },
+            "is_quote_status": true,
+            "quote_count": 11,
+            "reply_count": 223,
+            "retweet_count": 125,
+            "favorite_count": 659,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/QOVj23KZ1p",
+                        "expanded_url": "https://twitter.com/Heritage/status/1052349112702693377",
+                        "display_url": "twitter.com/Heritage/statu\u2026",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Heritage",
+                        "name": "Heritage Foundation",
+                        "id": 10168082,
+                        "id_str": "10168082",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_id": 1052349112702693377,
+        "quoted_status_id_str": "1052349112702693377",
+        "quoted_status": {
+            "created_at": "Wed Oct 17 00:02:34 +0000 2018",
+            "id": 1052349112702693377,
+            "id_str": "1052349112702693377",
+            "text": "LIVE from the Heritage Foundation President's Club in Washington, D.C. Senator @LindseyGraham and @senatemajldr are\u2026 https://t.co/xjYNFpoMtt",
+            "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 10168082,
+                "id_str": "10168082",
+                "name": "Heritage Foundation",
+                "screen_name": "Heritage",
+                "location": "Washington, DC",
+                "url": "http://heritage.org",
+                "description": "A think tank devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 635595,
+                "friends_count": 31388,
+                "listed_count": 11729,
+                "favourites_count": 2603,
+                "statuses_count": 78201,
+                "created_at": "Mon Nov 12 01:50:27 +0000 2007",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "004B8E",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "000080",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/624989495243505665/KEyG9zNZ_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/624989495243505665/KEyG9zNZ_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10168082/1464813555",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "LIVE from the Heritage Foundation President's Club in Washington, D.C. Senator @LindseyGraham and @senatemajldr are about to speak \n\nWatch: https://t.co/XWqMhVwKbO",
+                "display_text_range": [
+                    0,
+                    163
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/XWqMhVwKbO",
+                            "expanded_url": "https://www.youtube.com/watch?v=2AFCPAZLTXg&feature=youtu.be",
+                            "display_url": "youtube.com/watch?v=2AFCPA\u2026",
+                            "indices": [
+                                140,
+                                163
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LindseyGraham",
+                            "name": "I AM NOT A SENATOR",
+                            "id": 7006752,
+                            "id_str": "7006752",
+                            "indices": [
+                                79,
+                                93
+                            ]
+                        },
+                        {
+                            "screen_name": "senatemajldr",
+                            "name": "Leader McConnell",
+                            "id": 1249982359,
+                            "id_str": "1249982359",
+                            "indices": [
+                                98,
+                                111
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 4,
+            "reply_count": 95,
+            "retweet_count": 89,
+            "favorite_count": 292,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/xjYNFpoMtt",
+                        "expanded_url": "https://twitter.com/i/web/status/1052349112702693377",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "LindseyGraham",
+                        "name": "I AM NOT A SENATOR",
+                        "id": 7006752,
+                        "id_str": "7006752",
+                        "indices": [
+                            79,
+                            93
+                        ]
+                    },
+                    {
+                        "screen_name": "senatemajldr",
+                        "name": "Leader McConnell",
+                        "id": 1249982359,
+                        "id_str": "1249982359",
+                        "indices": [
+                            98,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/QOVj23KZ1p",
+            "expanded": "https://twitter.com/Heritage/status/1052349112702693377",
+            "display": "twitter.com/Heritage/statu\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QOVj23KZ1p",
+                    "expanded_url": "https://twitter.com/Heritage/status/1052349112702693377",
+                    "display_url": "twitter.com/Heritage/statu\u2026",
+                    "indices": [
+                        83,
+                        106
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "LindseyGrahamSC",
+                    "name": "Lindsey Graham",
+                    "id": 432895323,
+                    "id_str": "432895323",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "Heritage",
+                    "name": "Heritage Foundation",
+                    "id": 10168082,
+                    "id_str": "10168082",
+                    "indices": [
+                        37,
+                        46
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937303"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463963311562754,
+        "id_str": "1052463963311562754",
+        "text": "RT @Pornhub: Who needs @YouTube when you have @Pornhub?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 889689468843819009,
+            "id_str": "889689468843819009",
+            "name": "ThugsOfHindostan\ud83d\udd25Brahmastra\ud83d\udc4a",
+            "screen_name": "RanbirAamirfc",
+            "location": "Patna, India",
+            "url": "https://youtu.be/zI-Pux4uaqM",
+            "description": "#Sanju =600CR (Blockbuster) \n#ThugsOfHindostan =8 Nov 2018 #Brahmastra = Aug 2019\n#RanbirKapoor @aamir_khan @imVkohli\n\nThugs OF Hindostan Trailer \ud83d\udc47",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 379,
+            "friends_count": 156,
+            "listed_count": 1,
+            "favourites_count": 30214,
+            "statuses_count": 12771,
+            "created_at": "Tue Jul 25 03:31:13 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049210820695977984/M1N1TOtl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049210820695977984/M1N1TOtl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/889689468843819009/1537514774",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Oct 17 01:31:10 +0000 2018",
+            "id": 1052371409903726593,
+            "id_str": "1052371409903726593",
+            "text": "Who needs @YouTube when you have @Pornhub?",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 74466455,
+                "id_str": "74466455",
+                "name": "Pornhub ARIA",
+                "screen_name": "Pornhub",
+                "location": null,
+                "url": "http://www.pornhub.com",
+                "description": "Official Pornhub Twitter. I'm Aria, no I don't do porn. Add me on snapchat: http://www.snapchat.com/add/ph-official",
+                "translator_type": "regular",
+                "protected": false,
+                "verified": true,
+                "followers_count": 1064641,
+                "friends_count": 9708,
+                "listed_count": 4226,
+                "favourites_count": 93173,
+                "statuses_count": 72662,
+                "created_at": "Tue Sep 15 14:55:56 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "999999",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/980764029378531328/-noRfvfo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/980764029378531328/-noRfvfo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/74466455/1435697465",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 2482,
+            "reply_count": 898,
+            "retweet_count": 14523,
+            "favorite_count": 30401,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "YouTube",
+                        "name": "YouTube",
+                        "id": 10228272,
+                        "id_str": "10228272",
+                        "indices": [
+                            10,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "Pornhub",
+                        "name": "Pornhub ARIA",
+                        "id": 74466455,
+                        "id_str": "74466455",
+                        "indices": [
+                            33,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Pornhub",
+                    "name": "Pornhub ARIA",
+                    "id": 74466455,
+                    "id_str": "74466455",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        23,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "Pornhub",
+                    "name": "Pornhub ARIA",
+                    "id": 74466455,
+                    "id_str": "74466455",
+                    "indices": [
+                        46,
+                        54
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937345"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463963441680384,
+        "id_str": "1052463963441680384",
+        "text": "New video is out. Go watch. \nDo like share and subscribe also.\n\nhttps://t.co/YqJWEmqfJT",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1041372642471751682,
+            "id_str": "1041372642471751682",
+            "name": "dogla_punti",
+            "screen_name": "DoglaPunti",
+            "location": null,
+            "url": "https://www.youtube.com/channel/UCG0Tavxq7toqKsjjt4I86EA",
+            "description": "Everybody in this world is DOGLA, Kyu na kuch dogla_punti ho jaye. Follow us on Socials to have a blast of FUN & Bakchodi.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 57,
+            "friends_count": 250,
+            "listed_count": 0,
+            "favourites_count": 62,
+            "statuses_count": 95,
+            "created_at": "Sun Sep 16 17:06:00 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1042315238459297792/YsOjbPR7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042315238459297792/YsOjbPR7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041372642471751682/1537342316",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YqJWEmqfJT",
+                    "expanded_url": "https://www.youtube.com/watch?v=pdZmdOl9ETcl",
+                    "display_url": "youtube.com/watch?v=pdZmdO\u2026",
+                    "indices": [
+                        64,
+                        87
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937376"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463964502847488,
+        "id_str": "1052463964502847488",
+        "text": "RT @Dewestmusic243: A Personal Message To CNN\u2019s Don Lemon https://t.co/LqwS7xsSiq via @YouTube",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 847640861177294849,
+            "id_str": "847640861177294849",
+            "name": "Dewest Music",
+            "screen_name": "Dewestmusic243",
+            "location": null,
+            "url": null,
+            "description": "Christian, blessed husband and father of 4 sons and 2 daughters. Keeps my beautiful wife and I very happy and very busy... I support @POTUS #MAGA #ProLife #2A",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 8058,
+            "friends_count": 8201,
+            "listed_count": 10,
+            "favourites_count": 12873,
+            "statuses_count": 13911,
+            "created_at": "Fri Mar 31 02:45:04 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/847656318278156288/ByYr-lxV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/847656318278156288/ByYr-lxV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/847640861177294849/1490932082",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 07:22:56 +0000 2018",
+            "id": 1052097544983990272,
+            "id_str": "1052097544983990272",
+            "text": "A Personal Message To CNN\u2019s Don Lemon https://t.co/LqwS7xsSiq via @YouTube",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 847640861177294849,
+                "id_str": "847640861177294849",
+                "name": "Dewest Music",
+                "screen_name": "Dewestmusic243",
+                "location": null,
+                "url": null,
+                "description": "Christian, blessed husband and father of 4 sons and 2 daughters. Keeps my beautiful wife and I very happy and very busy... I support @POTUS #MAGA #ProLife #2A",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 8058,
+                "friends_count": 8201,
+                "listed_count": 10,
+                "favourites_count": 12873,
+                "statuses_count": 13910,
+                "created_at": "Fri Mar 31 02:45:04 +0000 2017",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/847656318278156288/ByYr-lxV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/847656318278156288/ByYr-lxV_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/847640861177294849/1490932082",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/LqwS7xsSiq",
+                        "expanded_url": "https://youtu.be/gqO9dyb3v8s",
+                        "display_url": "youtu.be/gqO9dyb3v8s",
+                        "indices": [
+                            38,
+                            61
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "YouTube",
+                        "name": "YouTube",
+                        "id": 10228272,
+                        "id_str": "10228272",
+                        "indices": [
+                            66,
+                            74
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LqwS7xsSiq",
+                    "expanded_url": "https://youtu.be/gqO9dyb3v8s",
+                    "display_url": "youtu.be/gqO9dyb3v8s",
+                    "indices": [
+                        58,
+                        81
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Dewestmusic243",
+                    "name": "Dewest Music",
+                    "id": 847640861177294849,
+                    "id_str": "847640861177294849",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        86,
+                        94
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937629"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463964456669186,
+        "id_str": "1052463964456669186",
+        "text": "carbon and its compounds class 10/part2: https://t.co/9cZdVOcIrS via @YouTube",
+        "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 320919506,
+            "id_str": "320919506",
+            "name": "rahul singh",
+            "screen_name": "rahulsingh196",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 21,
+            "friends_count": 50,
+            "listed_count": 0,
+            "favourites_count": 3,
+            "statuses_count": 172,
+            "created_at": "Mon Jun 20 18:53:09 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9cZdVOcIrS",
+                    "expanded_url": "http://youtu.be/5ZXwlyVlZfg?a",
+                    "display_url": "youtu.be/5ZXwlyVlZfg?a",
+                    "indices": [
+                        41,
+                        64
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        69,
+                        77
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937618"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463964817256448,
+        "id_str": "1052463964817256448",
+        "text": "RT @dearillegirl: Since YouTube is back I\u2019m here to promote the most underrated bts music video ever that you all can\u2019t even give it 50M vi\u2026",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3347635179,
+            "id_str": "3347635179",
+            "name": "sp00ky 0rkan Percy\u2019ego ( \uff89\uff9f\u2200\uff9f)\uff89",
+            "screen_name": "SassyMargaryna",
+            "location": null,
+            "url": "https://curiouscat.me/SassyMargaryna",
+            "description": "\u2764\ufe0f Take my hands now, you are the cause of my euphoria @ucantbetheworst \ud83d\udc9c",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3043,
+            "friends_count": 2790,
+            "listed_count": 32,
+            "favourites_count": 56860,
+            "statuses_count": 79978,
+            "created_at": "Sat Jun 27 16:09:18 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "pl",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1032985197137014784/SEg7nxhv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032985197137014784/SEg7nxhv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3347635179/1534535729",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Oct 17 03:10:26 +0000 2018",
+            "id": 1052396390888890369,
+            "id_str": "1052396390888890369",
+            "text": "Since YouTube is back I\u2019m here to promote the most underrated bts music video ever that you all can\u2019t even give it\u2026 https://t.co/fpXR8x0CHw",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2347813572,
+                "id_str": "2347813572",
+                "name": "silvia",
+                "screen_name": "dearillegirl",
+                "location": "Guatemala \ud83c\uddec\ud83c\uddf9",
+                "url": "https://twitter.com/BTS_twt/status/314075222078808064",
+                "description": "ah ah annyeong | bts | jb | patd | 26/10/13 - BT",
+                "translator_type": "regular",
+                "protected": false,
+                "verified": false,
+                "followers_count": 18810,
+                "friends_count": 10418,
+                "listed_count": 385,
+                "favourites_count": 118555,
+                "statuses_count": 31466,
+                "created_at": "Mon Feb 17 03:12:38 +0000 2014",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1052401377899622400/LX9NKTCk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052401377899622400/LX9NKTCk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347813572/1539747017",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Since YouTube is back I\u2019m here to promote the most underrated bts music video ever that you all can\u2019t even give it 50M views #YouTubeDOWN https://t.co/zmRw9edso6",
+                "display_text_range": [
+                    0,
+                    137
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "YouTubeDOWN",
+                            "indices": [
+                                125,
+                                137
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1052396382823350274,
+                            "id_str": "1052396382823350274",
+                            "indices": [
+                                138,
+                                161
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dprc7zEXgAItwKG.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dprc7zEXgAItwKG.jpg",
+                            "url": "https://t.co/zmRw9edso6",
+                            "display_url": "pic.twitter.com/zmRw9edso6",
+                            "expanded_url": "https://twitter.com/dearillegirl/status/1052396390888890369/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 750,
+                                    "h": 648,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 750,
+                                    "h": 648,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 588,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1052396382856900608,
+                            "id_str": "1052396382856900608",
+                            "indices": [
+                                138,
+                                161
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dprc7zMXcAAXODq.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dprc7zMXcAAXODq.jpg",
+                            "url": "https://t.co/zmRw9edso6",
+                            "display_url": "pic.twitter.com/zmRw9edso6",
+                            "expanded_url": "https://twitter.com/dearillegirl/status/1052396390888890369/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 832,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 832,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 553,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1052396382823350274,
+                            "id_str": "1052396382823350274",
+                            "indices": [
+                                138,
+                                161
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dprc7zEXgAItwKG.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dprc7zEXgAItwKG.jpg",
+                            "url": "https://t.co/zmRw9edso6",
+                            "display_url": "pic.twitter.com/zmRw9edso6",
+                            "expanded_url": "https://twitter.com/dearillegirl/status/1052396390888890369/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 750,
+                                    "h": 648,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 750,
+                                    "h": 648,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 588,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1052396382856900608,
+                            "id_str": "1052396382856900608",
+                            "indices": [
+                                138,
+                                161
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dprc7zMXcAAXODq.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dprc7zMXcAAXODq.jpg",
+                            "url": "https://t.co/zmRw9edso6",
+                            "display_url": "pic.twitter.com/zmRw9edso6",
+                            "expanded_url": "https://twitter.com/dearillegirl/status/1052396390888890369/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 832,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 832,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 553,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 17,
+            "reply_count": 24,
+            "retweet_count": 628,
+            "favorite_count": 1608,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/fpXR8x0CHw",
+                        "expanded_url": "https://twitter.com/i/web/status/1052396390888890369",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "dearillegirl",
+                    "name": "silvia",
+                    "id": 2347813572,
+                    "id_str": "2347813572",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937704"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463965106827265,
+        "id_str": "1052463965106827265",
+        "text": "RT @EthanDolan: YouTube is back from the dead it really is spooky season",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 562544299,
+            "id_str": "562544299",
+            "name": "haley \ud83c\udde6\ud83c\uddeb",
+            "screen_name": "haleyswiz",
+            "location": "downstairs",
+            "url": null,
+            "description": "\u0647\u064a\u0644\u064a",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 611,
+            "friends_count": 475,
+            "listed_count": 1,
+            "favourites_count": 24811,
+            "statuses_count": 11419,
+            "created_at": "Wed Apr 25 02:59:58 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F7F7F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "00FF00",
+            "profile_text_color": "00FFED",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051717743752302592/88ecKGrM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051717743752302592/88ecKGrM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/562544299/1533680419",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Oct 17 02:43:01 +0000 2018",
+            "id": 1052389488973008896,
+            "id_str": "1052389488973008896",
+            "text": "YouTube is back from the dead it really is spooky season",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2156299840,
+                "id_str": "2156299840",
+                "name": "Ethan Dolan",
+                "screen_name": "EthanDolan",
+                "location": null,
+                "url": "https://youtu.be/6jJE8XVkMh8",
+                "description": "18. I make vidoes with my twin brother \u2022 snapchat- ethandolan \u2022 NEW VIDEOS EVERY TUESDAY! LINK BELOW",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 6679534,
+                "friends_count": 18398,
+                "listed_count": 7112,
+                "favourites_count": 21421,
+                "statuses_count": 6478,
+                "created_at": "Sun Oct 27 20:36:58 +0000 2013",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991408218034368512/6RX5ucw4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991408218034368512/6RX5ucw4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2156299840/1512761424",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 56,
+            "reply_count": 1284,
+            "retweet_count": 2770,
+            "favorite_count": 27334,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EthanDolan",
+                    "name": "Ethan Dolan",
+                    "id": 2156299840,
+                    "id_str": "2156299840",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937773"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463965236850688,
+        "id_str": "1052463965236850688",
+        "text": "RT @CryptoUB: For those that don't know:\n\nI have a Youtube channel where I post my daily morning scans of the market. \n\nI even post explana\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 841695544871391232,
+            "id_str": "841695544871391232",
+            "name": "Gidjaa",
+            "screen_name": "CryptoL0ver",
+            "location": "La R\u00e9union",
+            "url": null,
+            "description": "Not a Trader, not a financial blabla....\nLook! Am a dog!\nI Never buy above my line 1.( 80% of the time) \n | Bullish on crypto in Long Term \ud83d\ude1c",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 51,
+            "friends_count": 89,
+            "listed_count": 0,
+            "favourites_count": 1866,
+            "statuses_count": 440,
+            "created_at": "Tue Mar 14 17:00:30 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/980507542639071232/3Baw7b4S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/980507542639071232/3Baw7b4S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/841695544871391232/1522606524",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Oct 17 00:45:31 +0000 2018",
+            "id": 1052359920757211137,
+            "id_str": "1052359920757211137",
+            "text": "For those that don't know:\n\nI have a Youtube channel where I post my daily morning scans of the market. \n\nI even po\u2026 https://t.co/1PiGVFHIo9",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 949749627418562561,
+                "id_str": "949749627418562561",
+                "name": "UB",
+                "screen_name": "CryptoUB",
+                "location": null,
+                "url": "http://Youtube.com/CryptoUB",
+                "description": "| #Cryptocurrency Trader | DMs Open | https://discord.gg/RKJ52EJ | #Bitcoin | Contact: CryptoUB@protonmail.com",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 6964,
+                "friends_count": 88,
+                "listed_count": 132,
+                "favourites_count": 3484,
+                "statuses_count": 1735,
+                "created_at": "Sat Jan 06 21:08:51 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/992427326192345088/B8Vdm3FB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/992427326192345088/B8Vdm3FB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/949749627418562561/1525363010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "For those that don't know:\n\nI have a Youtube channel where I post my daily morning scans of the market. \n\nI even post explanations of certain entries I take. \n\nYou may find some helpful information there: https://t.co/NULaXTozyV",
+                "display_text_range": [
+                    0,
+                    228
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/NULaXTozyV",
+                            "expanded_url": "https://www.youtube.com/cryptoub",
+                            "display_url": "youtube.com/cryptoub",
+                            "indices": [
+                                205,
+                                228
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 15,
+            "favorite_count": 108,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/1PiGVFHIo9",
+                        "expanded_url": "https://twitter.com/i/web/status/1052359920757211137",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CryptoUB",
+                    "name": "UB",
+                    "id": 949749627418562561,
+                    "id_str": "949749627418562561",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937804"
+    } ,
+    {
+        "created_at": "Wed Oct 17 07:38:57 +0000 2018",
+        "id": 1052463965509443584,
+        "id_str": "1052463965509443584",
+        "text": "TOP 10 ~ SAVAGE LEVEL 2,000% GOLD DIGGER PRANKS https://t.co/lyoSG7YPuF via @YouTube",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 783638960476188672,
+            "id_str": "783638960476188672",
+            "name": "Jason",
+            "screen_name": "Jason_MI5",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 61,
+            "friends_count": 152,
+            "listed_count": 1,
+            "favourites_count": 1742,
+            "statuses_count": 64811,
+            "created_at": "Wed Oct 05 12:04:22 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en-gb",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lyoSG7YPuF",
+                    "expanded_url": "https://youtu.be/wzOsjCTqAhU",
+                    "display_url": "youtu.be/wzOsjCTqAhU",
+                    "indices": [
+                        48,
+                        71
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        76,
+                        84
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539761937869"
+    } 
+    ]
+    

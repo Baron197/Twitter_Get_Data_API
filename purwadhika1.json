@@ -1,0 +1,1641 @@
+{
+    "statuses": [
+        {
+            "created_at": "Thu Feb 07 16:50:36 +0000 2019",
+            "id": 1093552618733858816,
+            "id_str": "1093552618733858816",
+            "text": "Dear @kempanrb dan @BKNgoid apakah PNS/ASN yg share posting seperti ini di akun FBnya tdk menyalahi aturan netralitas?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kempanrb",
+                        "name": "Kementerian PANRB",
+                        "id": 1240689786,
+                        "id_str": "1240689786",
+                        "indices": [
+                            5,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "BKNgoid",
+                        "name": "#ASNKiniBeda",
+                        "id": 393838920,
+                        "id_str": "393838920",
+                        "indices": [
+                            19,
+                            27
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00a0for\u00a0Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 237283752,
+                "id_str": "237283752",
+                "name": "Budi 'Beppe' PH",
+                "screen_name": "purwadhika",
+                "location": "WNG-Batavia Noord-Ngalam-JBG",
+                "description": "Aremania - Milanisti - De Borussien ::Wonogiri - Jakarta - Malang::",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 231,
+                "friends_count": 167,
+                "listed_count": 5,
+                "created_at": "Wed Jan 12 14:03:14 +0000 2011",
+                "favourites_count": 402,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8755,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1086678239618072576/7DcxSA90_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086678239618072576/7DcxSA90_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 16:59:06 +0000 2019",
+            "id": 1093192372316323840,
+            "id_str": "1093192372316323840",
+            "text": "RT @JeniusConnect: Sekarang kamu bisa belajar membuat aplikasi dengan kerangka React Native, coding dan UI design dengan Jenius Tech Team.\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JeniusConnect",
+                        "name": "Jenius Connect",
+                        "id": 704560477196521475,
+                        "id_str": "704560477196521475",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 427510607,
+                "id_str": "427510607",
+                "name": "Orang Indonesia",
+                "screen_name": "WongIndonesiaOK",
+                "location": "Surabaya",
+                "description": "",
+                "url": "https://t.co/RaPc3tVIf4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RaPc3tVIf4",
+                                "expanded_url": "http://belumpunya.com",
+                                "display_url": "belumpunya.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32,
+                "friends_count": 67,
+                "listed_count": 0,
+                "created_at": "Sat Dec 03 16:30:09 +0000 2011",
+                "favourites_count": 226,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 720,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/920884365957021696/_b12FNHS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/920884365957021696/_b12FNHS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Feb 06 13:03:07 +0000 2019",
+                "id": 1093132985858023424,
+                "id_str": "1093132985858023424",
+                "text": "Sekarang kamu bisa belajar membuat aplikasi dengan kerangka React Native, coding dan UI design dengan Jenius Tech T\u2026 https://t.co/q1lnH3URtr",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/q1lnH3URtr",
+                            "expanded_url": "https://twitter.com/i/web/status/1093132985858023424",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1093132972960624645,
+                "in_reply_to_status_id_str": "1093132972960624645",
+                "in_reply_to_user_id": 704560477196521475,
+                "in_reply_to_user_id_str": "704560477196521475",
+                "in_reply_to_screen_name": "JeniusConnect",
+                "user": {
+                    "id": 704560477196521475,
+                    "id_str": "704560477196521475",
+                    "name": "Jenius Connect",
+                    "screen_name": "JeniusConnect",
+                    "location": "",
+                    "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                    "url": "https://t.co/reVj6iDLK8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/reVj6iDLK8",
+                                    "expanded_url": "http://www.jenius.com",
+                                    "display_url": "jenius.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 39726,
+                    "friends_count": 58,
+                    "listed_count": 30,
+                    "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                    "favourites_count": 599,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 27382,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 16:58:54 +0000 2019",
+            "id": 1093192319262543872,
+            "id_str": "1093192319262543872",
+            "text": "RT @JeniusConnect: Yang ditunggu-tunggu akhirnya tiba nih. Kali ini Jenius X @Purwadhika_ID berkolaborasi untuk membuat rangkaian acara tal\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JeniusConnect",
+                        "name": "Jenius Connect",
+                        "id": 704560477196521475,
+                        "id_str": "704560477196521475",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "Purwadhika_ID",
+                        "name": "Purwadhika",
+                        "id": 794021953392836608,
+                        "id_str": "794021953392836608",
+                        "indices": [
+                            77,
+                            91
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 427510607,
+                "id_str": "427510607",
+                "name": "Orang Indonesia",
+                "screen_name": "WongIndonesiaOK",
+                "location": "Surabaya",
+                "description": "",
+                "url": "https://t.co/RaPc3tVIf4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RaPc3tVIf4",
+                                "expanded_url": "http://belumpunya.com",
+                                "display_url": "belumpunya.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32,
+                "friends_count": 67,
+                "listed_count": 0,
+                "created_at": "Sat Dec 03 16:30:09 +0000 2011",
+                "favourites_count": 226,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 720,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/920884365957021696/_b12FNHS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/920884365957021696/_b12FNHS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Feb 06 13:02:50 +0000 2019",
+                "id": 1093132912638054400,
+                "id_str": "1093132912638054400",
+                "text": "Yang ditunggu-tunggu akhirnya tiba nih. Kali ini Jenius X @Purwadhika_ID berkolaborasi untuk membuat rangkaian acar\u2026 https://t.co/0b8XAMT6F5",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Purwadhika_ID",
+                            "name": "Purwadhika",
+                            "id": 794021953392836608,
+                            "id_str": "794021953392836608",
+                            "indices": [
+                                58,
+                                72
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/0b8XAMT6F5",
+                            "expanded_url": "https://twitter.com/i/web/status/1093132912638054400",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 704560477196521475,
+                    "id_str": "704560477196521475",
+                    "name": "Jenius Connect",
+                    "screen_name": "JeniusConnect",
+                    "location": "",
+                    "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                    "url": "https://t.co/reVj6iDLK8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/reVj6iDLK8",
+                                    "expanded_url": "http://www.jenius.com",
+                                    "display_url": "jenius.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 39726,
+                    "friends_count": 58,
+                    "listed_count": 30,
+                    "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                    "favourites_count": 599,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 27382,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:06:50 +0000 2019",
+            "id": 1093133921275981824,
+            "id_str": "1093133921275981824",
+            "text": "RT @JeniusConnect: Yang ditunggu-tunggu akhirnya tiba nih. Kali ini Jenius X @Purwadhika_ID berkolaborasi untuk membuat rangkaian acara tal\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JeniusConnect",
+                        "name": "Jenius Connect",
+                        "id": 704560477196521475,
+                        "id_str": "704560477196521475",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "Purwadhika_ID",
+                        "name": "Purwadhika",
+                        "id": 794021953392836608,
+                        "id_str": "794021953392836608",
+                        "indices": [
+                            77,
+                            91
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 136520403,
+                "id_str": "136520403",
+                "name": "Indah RJ.",
+                "screen_name": "indahrje",
+                "location": "Jakarta, Indonesia",
+                "description": "Personally, I like writing and reading.",
+                "url": "https://t.co/vpjubYHU94",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vpjubYHU94",
+                                "expanded_url": "http://ask.fm/indahbahsyar",
+                                "display_url": "ask.fm/indahbahsyar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1039,
+                "friends_count": 488,
+                "listed_count": 3,
+                "created_at": "Sat Apr 24 05:04:33 +0000 2010",
+                "favourites_count": 43,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 30751,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_link_color": "1A1B1F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Feb 06 13:02:50 +0000 2019",
+                "id": 1093132912638054400,
+                "id_str": "1093132912638054400",
+                "text": "Yang ditunggu-tunggu akhirnya tiba nih. Kali ini Jenius X @Purwadhika_ID berkolaborasi untuk membuat rangkaian acar\u2026 https://t.co/0b8XAMT6F5",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Purwadhika_ID",
+                            "name": "Purwadhika",
+                            "id": 794021953392836608,
+                            "id_str": "794021953392836608",
+                            "indices": [
+                                58,
+                                72
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/0b8XAMT6F5",
+                            "expanded_url": "https://twitter.com/i/web/status/1093132912638054400",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 704560477196521475,
+                    "id_str": "704560477196521475",
+                    "name": "Jenius Connect",
+                    "screen_name": "JeniusConnect",
+                    "location": "",
+                    "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                    "url": "https://t.co/reVj6iDLK8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/reVj6iDLK8",
+                                    "expanded_url": "http://www.jenius.com",
+                                    "display_url": "jenius.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 39726,
+                    "friends_count": 58,
+                    "listed_count": 30,
+                    "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                    "favourites_count": 599,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 27382,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:06:43 +0000 2019",
+            "id": 1093133888442880002,
+            "id_str": "1093133888442880002",
+            "text": "RT @JeniusConnect: Sekarang kamu bisa belajar membuat aplikasi dengan kerangka React Native, coding dan UI design dengan Jenius Tech Team.\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JeniusConnect",
+                        "name": "Jenius Connect",
+                        "id": 704560477196521475,
+                        "id_str": "704560477196521475",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 136520403,
+                "id_str": "136520403",
+                "name": "Indah RJ.",
+                "screen_name": "indahrje",
+                "location": "Jakarta, Indonesia",
+                "description": "Personally, I like writing and reading.",
+                "url": "https://t.co/vpjubYHU94",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vpjubYHU94",
+                                "expanded_url": "http://ask.fm/indahbahsyar",
+                                "display_url": "ask.fm/indahbahsyar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1039,
+                "friends_count": 488,
+                "listed_count": 3,
+                "created_at": "Sat Apr 24 05:04:33 +0000 2010",
+                "favourites_count": 43,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 30751,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_link_color": "1A1B1F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Feb 06 13:03:07 +0000 2019",
+                "id": 1093132985858023424,
+                "id_str": "1093132985858023424",
+                "text": "Sekarang kamu bisa belajar membuat aplikasi dengan kerangka React Native, coding dan UI design dengan Jenius Tech T\u2026 https://t.co/q1lnH3URtr",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/q1lnH3URtr",
+                            "expanded_url": "https://twitter.com/i/web/status/1093132985858023424",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1093132972960624645,
+                "in_reply_to_status_id_str": "1093132972960624645",
+                "in_reply_to_user_id": 704560477196521475,
+                "in_reply_to_user_id_str": "704560477196521475",
+                "in_reply_to_screen_name": "JeniusConnect",
+                "user": {
+                    "id": 704560477196521475,
+                    "id_str": "704560477196521475",
+                    "name": "Jenius Connect",
+                    "screen_name": "JeniusConnect",
+                    "location": "",
+                    "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                    "url": "https://t.co/reVj6iDLK8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/reVj6iDLK8",
+                                    "expanded_url": "http://www.jenius.com",
+                                    "display_url": "jenius.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 39726,
+                    "friends_count": 58,
+                    "listed_count": 30,
+                    "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                    "favourites_count": 599,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 27382,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:06:36 +0000 2019",
+            "id": 1093133859716124674,
+            "id_str": "1093133859716124674",
+            "text": "RT @JeniusConnect: Buat yang tertarik dengan workshop kreatif Jenius X @Purwadhika_ID Nantikan informasi terbarunya ya!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JeniusConnect",
+                        "name": "Jenius Connect",
+                        "id": 704560477196521475,
+                        "id_str": "704560477196521475",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "Purwadhika_ID",
+                        "name": "Purwadhika",
+                        "id": 794021953392836608,
+                        "id_str": "794021953392836608",
+                        "indices": [
+                            71,
+                            85
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 136520403,
+                "id_str": "136520403",
+                "name": "Indah RJ.",
+                "screen_name": "indahrje",
+                "location": "Jakarta, Indonesia",
+                "description": "Personally, I like writing and reading.",
+                "url": "https://t.co/vpjubYHU94",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vpjubYHU94",
+                                "expanded_url": "http://ask.fm/indahbahsyar",
+                                "display_url": "ask.fm/indahbahsyar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1039,
+                "friends_count": 488,
+                "listed_count": 3,
+                "created_at": "Sat Apr 24 05:04:33 +0000 2010",
+                "favourites_count": 43,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 30751,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010760725403299840/MmuBBKrS_normal.jpg",
+                "profile_link_color": "1A1B1F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Feb 06 13:03:08 +0000 2019",
+                "id": 1093132989599379456,
+                "id_str": "1093132989599379456",
+                "text": "Buat yang tertarik dengan workshop kreatif Jenius X @Purwadhika_ID Nantikan informasi terbarunya ya!",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Purwadhika_ID",
+                            "name": "Purwadhika",
+                            "id": 794021953392836608,
+                            "id_str": "794021953392836608",
+                            "indices": [
+                                52,
+                                66
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1093132985858023424,
+                "in_reply_to_status_id_str": "1093132985858023424",
+                "in_reply_to_user_id": 704560477196521475,
+                "in_reply_to_user_id_str": "704560477196521475",
+                "in_reply_to_screen_name": "JeniusConnect",
+                "user": {
+                    "id": 704560477196521475,
+                    "id_str": "704560477196521475",
+                    "name": "Jenius Connect",
+                    "screen_name": "JeniusConnect",
+                    "location": "",
+                    "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                    "url": "https://t.co/reVj6iDLK8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/reVj6iDLK8",
+                                    "expanded_url": "http://www.jenius.com",
+                                    "display_url": "jenius.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 39726,
+                    "friends_count": 58,
+                    "listed_count": 30,
+                    "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                    "favourites_count": 599,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 27382,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:03:08 +0000 2019",
+            "id": 1093132989599379456,
+            "id_str": "1093132989599379456",
+            "text": "Buat yang tertarik dengan workshop kreatif Jenius X @Purwadhika_ID Nantikan informasi terbarunya ya!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Purwadhika_ID",
+                        "name": "Purwadhika",
+                        "id": 794021953392836608,
+                        "id_str": "794021953392836608",
+                        "indices": [
+                            52,
+                            66
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093132985858023424,
+            "in_reply_to_status_id_str": "1093132985858023424",
+            "in_reply_to_user_id": 704560477196521475,
+            "in_reply_to_user_id_str": "704560477196521475",
+            "in_reply_to_screen_name": "JeniusConnect",
+            "user": {
+                "id": 704560477196521475,
+                "id_str": "704560477196521475",
+                "name": "Jenius Connect",
+                "screen_name": "JeniusConnect",
+                "location": "",
+                "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                "url": "https://t.co/reVj6iDLK8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/reVj6iDLK8",
+                                "expanded_url": "http://www.jenius.com",
+                                "display_url": "jenius.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 39726,
+                "friends_count": 58,
+                "listed_count": 30,
+                "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                "favourites_count": 599,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 27382,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:03:07 +0000 2019",
+            "id": 1093132985858023424,
+            "id_str": "1093132985858023424",
+            "text": "Sekarang kamu bisa belajar membuat aplikasi dengan kerangka React Native, coding dan UI design dengan Jenius Tech T\u2026 https://t.co/q1lnH3URtr",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/q1lnH3URtr",
+                        "expanded_url": "https://twitter.com/i/web/status/1093132985858023424",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093132972960624645,
+            "in_reply_to_status_id_str": "1093132972960624645",
+            "in_reply_to_user_id": 704560477196521475,
+            "in_reply_to_user_id_str": "704560477196521475",
+            "in_reply_to_screen_name": "JeniusConnect",
+            "user": {
+                "id": 704560477196521475,
+                "id_str": "704560477196521475",
+                "name": "Jenius Connect",
+                "screen_name": "JeniusConnect",
+                "location": "",
+                "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                "url": "https://t.co/reVj6iDLK8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/reVj6iDLK8",
+                                "expanded_url": "http://www.jenius.com",
+                                "display_url": "jenius.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 39726,
+                "friends_count": 58,
+                "listed_count": 30,
+                "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                "favourites_count": 599,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 27382,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:03:04 +0000 2019",
+            "id": 1093132972960624645,
+            "id_str": "1093132972960624645",
+            "text": "Temukan kesempatan untuk bertemu narasumber yang akan berbagi pengalaman dan insight di bidang finansial &amp; teknolog\u2026 https://t.co/epiuUiSDyX",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/epiuUiSDyX",
+                        "expanded_url": "https://twitter.com/i/web/status/1093132972960624645",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1093132912638054400,
+            "in_reply_to_status_id_str": "1093132912638054400",
+            "in_reply_to_user_id": 704560477196521475,
+            "in_reply_to_user_id_str": "704560477196521475",
+            "in_reply_to_screen_name": "JeniusConnect",
+            "user": {
+                "id": 704560477196521475,
+                "id_str": "704560477196521475",
+                "name": "Jenius Connect",
+                "screen_name": "JeniusConnect",
+                "location": "",
+                "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                "url": "https://t.co/reVj6iDLK8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/reVj6iDLK8",
+                                "expanded_url": "http://www.jenius.com",
+                                "display_url": "jenius.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 39726,
+                "friends_count": 58,
+                "listed_count": 30,
+                "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                "favourites_count": 599,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 27382,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Wed Feb 06 13:02:50 +0000 2019",
+            "id": 1093132912638054400,
+            "id_str": "1093132912638054400",
+            "text": "Yang ditunggu-tunggu akhirnya tiba nih. Kali ini Jenius X @Purwadhika_ID berkolaborasi untuk membuat rangkaian acar\u2026 https://t.co/0b8XAMT6F5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Purwadhika_ID",
+                        "name": "Purwadhika",
+                        "id": 794021953392836608,
+                        "id_str": "794021953392836608",
+                        "indices": [
+                            58,
+                            72
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/0b8XAMT6F5",
+                        "expanded_url": "https://twitter.com/i/web/status/1093132912638054400",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 704560477196521475,
+                "id_str": "704560477196521475",
+                "name": "Jenius Connect",
+                "screen_name": "JeniusConnect",
+                "location": "",
+                "description": "Say hi to Jenius! Cara baru mengatur keuangan dan hidup dengan mudah di smartphone kamu.\nCall Center: 1500 365\nEmail: jenius-help@btpn.com",
+                "url": "https://t.co/reVj6iDLK8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/reVj6iDLK8",
+                                "expanded_url": "http://www.jenius.com",
+                                "display_url": "jenius.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 39726,
+                "friends_count": 58,
+                "listed_count": 30,
+                "created_at": "Tue Mar 01 06:54:42 +0000 2016",
+                "favourites_count": 599,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 27382,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080313930096959488/lHcyLojB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/704560477196521475/1546242731",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.031,
+        "max_id": 1093552618733858816,
+        "max_id_str": "1093552618733858816",
+        "next_results": "?max_id=1093132912638054399&q=purwadhika&lang=id&count=10&include_entities=1&result_type=recent",
+        "query": "purwadhika",
+        "refresh_url": "?since_id=1093552618733858816&q=purwadhika&lang=id&result_type=recent&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

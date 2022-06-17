@@ -1,0 +1,1042 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sun Apr 07 13:24:25 +0000 2019",
+            "id": 1114881615258218497,
+            "id_str": "1114881615258218497",
+            "text": "@bramsaputraa walaaaah skrng motornya udah bisa di unboxing alias scoopy? \ud83e\udd23",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bramsaputraa",
+                        "name": "Bram Saputra",
+                        "id": 2943951475,
+                        "id_str": "2943951475",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1114870343242473472,
+            "in_reply_to_status_id_str": "1114870343242473472",
+            "in_reply_to_user_id": 2943951475,
+            "in_reply_to_user_id_str": "2943951475",
+            "in_reply_to_screen_name": "bramsaputraa",
+            "user": {
+                "id": 2799713704,
+                "id_str": "2799713704",
+                "name": "mood",
+                "screen_name": "rismawy_",
+                "location": "Bandung, Indonesia",
+                "description": "So, be a good person. So you'll end up with a better person. InshaAllah.",
+                "url": "https://t.co/qrO9fo09xx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qrO9fo09xx",
+                                "expanded_url": "http://Instagram.com/rismawy",
+                                "display_url": "Instagram.com/rismawy",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3507,
+                "friends_count": 2298,
+                "listed_count": 2,
+                "created_at": "Thu Oct 02 10:53:22 +0000 2014",
+                "favourites_count": 1894,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 39792,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114765766434230273/y9vaHBbn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114765766434230273/y9vaHBbn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799713704/1554717273",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Sat Apr 06 12:16:42 +0000 2019",
+            "id": 1114502188951166976,
+            "id_str": "1114502188951166976",
+            "text": "@koernaen ini badan bukan scoopy yang di unboxing adi saputra ya",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "koernaen",
+                        "name": "Teguh",
+                        "id": 39168383,
+                        "id_str": "39168383",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1114502029911576577,
+            "in_reply_to_status_id_str": "1114502029911576577",
+            "in_reply_to_user_id": 39168383,
+            "in_reply_to_user_id_str": "39168383",
+            "in_reply_to_screen_name": "koernaen",
+            "user": {
+                "id": 435587738,
+                "id_str": "435587738",
+                "name": "Widya Kridawidyani",
+                "screen_name": "wdykrd",
+                "location": "Jakarta Capital Region",
+                "description": "sering ketiduran pas lagi nonton film di bioskop",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 456,
+                "friends_count": 233,
+                "listed_count": 1,
+                "created_at": "Tue Dec 13 06:51:27 +0000 2011",
+                "favourites_count": 1336,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12522,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1115289165694812161/Itdd4rEd_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115289165694812161/Itdd4rEd_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/435587738/1553085395",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Sat Apr 06 08:26:25 +0000 2019",
+            "id": 1114444233589395456,
+            "id_str": "1114444233589395456",
+            "text": "RT @gukgukguk_: \u2728 Cie viral\n\nJanuari : 80jt\nFebruari : unboxing scoopy\nMaret : maudy ayunda\nApril : selebtwat yg demen eue",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gukgukguk_",
+                        "name": "Heni\ud83c\udf31",
+                        "id": 533814110,
+                        "id_str": "533814110",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1165789080,
+                "id_str": "1165789080",
+                "name": "\ud83e\udd40",
+                "screen_name": "rhosinante",
+                "location": "",
+                "description": "indomi seleraku. sedaap kelaut aja",
+                "url": "https://t.co/AycTnjg8Q6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/AycTnjg8Q6",
+                                "expanded_url": "http://instagram.com/fadeldharma",
+                                "display_url": "instagram.com/fadeldharma",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 279,
+                "friends_count": 106,
+                "listed_count": 0,
+                "created_at": "Sun Feb 10 12:35:36 +0000 2013",
+                "favourites_count": 142,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5059,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "4A913C",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114143228968570880/as4ufBD4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114143228968570880/as4ufBD4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165789080/1549724443",
+                "profile_link_color": "FFCC4D",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Apr 06 08:10:47 +0000 2019",
+                "id": 1114440301542686720,
+                "id_str": "1114440301542686720",
+                "text": "\u2728 Cie viral\n\nJanuari : 80jt\nFebruari : unboxing scoopy\nMaret : maudy ayunda\nApril : selebtwat yg demen eue",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 533814110,
+                    "id_str": "533814110",
+                    "name": "Heni\ud83c\udf31",
+                    "screen_name": "gukgukguk_",
+                    "location": "Paris, France",
+                    "description": "\ud83d\udc83\ud83c\udffb\ud83d\udeaa\ud83d\udecf\ufe0f\ud83d\udeaa\ud83d\udecb\ufe0f\ud83d\udeaa\ud83d\udebd\ud83d\udeaa\ud83d\udec1\ud83d\udeaa",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1619,
+                    "friends_count": 1397,
+                    "listed_count": 0,
+                    "created_at": "Fri Mar 23 03:18:49 +0000 2012",
+                    "favourites_count": 93,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1873,
+                    "lang": "id",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "709397",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/533814110/1554701637",
+                    "profile_link_color": "FF3300",
+                    "profile_sidebar_border_color": "86A4A6",
+                    "profile_sidebar_fill_color": "A0C5C7",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Sat Apr 06 08:14:23 +0000 2019",
+            "id": 1114441204672880640,
+            "id_str": "1114441204672880640",
+            "text": "RT @gukgukguk_: \u2728 Cie viral\n\nJanuari : 80jt\nFebruari : unboxing scoopy\nMaret : maudy ayunda\nApril : selebtwat yg demen eue",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gukgukguk_",
+                        "name": "Heni\ud83c\udf31",
+                        "id": 533814110,
+                        "id_str": "533814110",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1005807329655156736,
+                "id_str": "1005807329655156736",
+                "name": "sunflawahh\ud83c\udf49",
+                "screen_name": "sproutsqueezy",
+                "location": "",
+                "description": "aku introvert tapi bacot",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 421,
+                "friends_count": 524,
+                "listed_count": 0,
+                "created_at": "Sun Jun 10 13:42:09 +0000 2018",
+                "favourites_count": 750,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1283,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1112434324526108672/hKqe-Uza_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112434324526108672/hKqe-Uza_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005807329655156736/1553863720",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Apr 06 08:10:47 +0000 2019",
+                "id": 1114440301542686720,
+                "id_str": "1114440301542686720",
+                "text": "\u2728 Cie viral\n\nJanuari : 80jt\nFebruari : unboxing scoopy\nMaret : maudy ayunda\nApril : selebtwat yg demen eue",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "in",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 533814110,
+                    "id_str": "533814110",
+                    "name": "Heni\ud83c\udf31",
+                    "screen_name": "gukgukguk_",
+                    "location": "Paris, France",
+                    "description": "\ud83d\udc83\ud83c\udffb\ud83d\udeaa\ud83d\udecf\ufe0f\ud83d\udeaa\ud83d\udecb\ufe0f\ud83d\udeaa\ud83d\udebd\ud83d\udeaa\ud83d\udec1\ud83d\udeaa",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1619,
+                    "friends_count": 1397,
+                    "listed_count": 0,
+                    "created_at": "Fri Mar 23 03:18:49 +0000 2012",
+                    "favourites_count": 93,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1873,
+                    "lang": "id",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "709397",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/533814110/1554701637",
+                    "profile_link_color": "FF3300",
+                    "profile_sidebar_border_color": "86A4A6",
+                    "profile_sidebar_fill_color": "A0C5C7",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Sat Apr 06 08:10:47 +0000 2019",
+            "id": 1114440301542686720,
+            "id_str": "1114440301542686720",
+            "text": "\u2728 Cie viral\n\nJanuari : 80jt\nFebruari : unboxing scoopy\nMaret : maudy ayunda\nApril : selebtwat yg demen eue",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 533814110,
+                "id_str": "533814110",
+                "name": "Heni\ud83c\udf31",
+                "screen_name": "gukgukguk_",
+                "location": "Paris, France",
+                "description": "\ud83d\udc83\ud83c\udffb\ud83d\udeaa\ud83d\udecf\ufe0f\ud83d\udeaa\ud83d\udecb\ufe0f\ud83d\udeaa\ud83d\udebd\ud83d\udeaa\ud83d\udec1\ud83d\udeaa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1619,
+                "friends_count": 1397,
+                "listed_count": 0,
+                "created_at": "Fri Mar 23 03:18:49 +0000 2012",
+                "favourites_count": 93,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1873,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115212473215229953/gLBqr9k1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/533814110/1554701637",
+                "profile_link_color": "FF3300",
+                "profile_sidebar_border_color": "86A4A6",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Thu Apr 04 15:19:56 +0000 2019",
+            "id": 1113823522726375425,
+            "id_str": "1113823522726375425",
+            "text": "males baca peraturan, giliran salah marah2. pake ngata2in. ga ada bedanya lu sama si mas2 yg unboxing scoopy. uda salah, ngamuk lg \ud83d\ude11",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 40858608,
+                "id_str": "40858608",
+                "name": "\ud835\udcdd\ud835\udcf2\ud835\udcf7\ud835\udced\ud835\udd02\ud835\udcea",
+                "screen_name": "putnindya",
+                "location": "",
+                "description": "\ud83d\udc8a pharmacist // \u2696 een en ondeelbaar //  Denpasar - Yogyakarta - Jakarta",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 590,
+                "friends_count": 151,
+                "listed_count": 5,
+                "created_at": "Mon May 18 11:53:40 +0000 2009",
+                "favourites_count": 466,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 37212,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FF6699",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1113823953477197824/VsOOdq5__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113823953477197824/VsOOdq5__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/40858608/1532659836",
+                "profile_link_color": "D1517C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Tue Apr 02 14:34:22 +0000 2019",
+            "id": 1113087281466826752,
+            "id_str": "1113087281466826752",
+            "text": "@renjhuwn @nctjaernin yaudah mending saya unboxing scoopy aja deh \ud83d\ude44",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "renjhuwn",
+                        "name": "\ub7f0\ub4a4\uc704\uc704\uc708.",
+                        "id": 4570555163,
+                        "id_str": "4570555163",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "nctjaernin",
+                        "name": "Jaemin\u3002",
+                        "id": 1280650680,
+                        "id_str": "1280650680",
+                        "indices": [
+                            10,
+                            21
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1113086700438282240,
+            "in_reply_to_status_id_str": "1113086700438282240",
+            "in_reply_to_user_id": 4570555163,
+            "in_reply_to_user_id_str": "4570555163",
+            "in_reply_to_screen_name": "renjhuwn",
+            "user": {
+                "id": 841177204163727360,
+                "id_str": "841177204163727360",
+                "name": "\uc820",
+                "screen_name": "nctjyeno",
+                "location": "Dare to DREAM.",
+                "description": "\u300c \u274f RP / 2000 \u300d\u21e2 NCT's face genius, Lee Jeno/\uc774\uc81c\ub178. Charms: eye smile, sharp dance moves, funny jokes.",
+                "url": "https://t.co/RaoekDSBtR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RaoekDSBtR",
+                                "expanded_url": "http://curiouscat.me/ayamgeprek",
+                                "display_url": "curiouscat.me/ayamgeprek",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 83,
+                "friends_count": 87,
+                "listed_count": 0,
+                "created_at": "Mon Mar 13 06:40:48 +0000 2017",
+                "favourites_count": 164,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 950,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1113073213196525569/Oh7M2Bc__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113073213196525569/Oh7M2Bc__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/841177204163727360/1553276385",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Tue Apr 02 09:52:58 +0000 2019",
+            "id": 1113016462627622912,
+            "id_str": "1113016462627622912",
+            "text": "@taegguk @daraprayoga_ Ada motor scoopy yg unboxing gk ? \ud83d\ude02",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "taegguk",
+                        "name": "jannah",
+                        "id": 1659931658,
+                        "id_str": "1659931658",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "daraprayoga_",
+                        "name": "oka landakgaul \ud83d\udcad",
+                        "id": 44755860,
+                        "id_str": "44755860",
+                        "indices": [
+                            9,
+                            22
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1112580474336010240,
+            "in_reply_to_status_id_str": "1112580474336010240",
+            "in_reply_to_user_id": 1659931658,
+            "in_reply_to_user_id_str": "1659931658",
+            "in_reply_to_screen_name": "taegguk",
+            "user": {
+                "id": 995259820251824129,
+                "id_str": "995259820251824129",
+                "name": "dian maria",
+                "screen_name": "dianmaria15",
+                "location": "Bali, Indonesia",
+                "description": "bodo amat",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 20,
+                "friends_count": 25,
+                "listed_count": 0,
+                "created_at": "Sat May 12 11:10:06 +0000 2018",
+                "favourites_count": 44,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2096,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114927401291489280/9__3RijN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114927401291489280/9__3RijN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/995259820251824129/1539000983",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "Mon Apr 01 14:29:31 +0000 2019",
+            "id": 1112723671884267522,
+            "id_str": "1112723671884267522",
+            "text": "@bacotamatda Aku maunya scoopy. Biar di unboxing\ud83c\udf1a",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bacotamatda",
+                        "name": "sasa.",
+                        "id": 2290684206,
+                        "id_str": "2290684206",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1112723410704957446,
+            "in_reply_to_status_id_str": "1112723410704957446",
+            "in_reply_to_user_id": 2290684206,
+            "in_reply_to_user_id_str": "2290684206",
+            "in_reply_to_screen_name": "bacotamatda",
+            "user": {
+                "id": 1098857834538663938,
+                "id_str": "1098857834538663938",
+                "name": "fan\ud83d\udc27",
+                "screen_name": "popicelatte",
+                "location": "",
+                "description": "aerina",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 569,
+                "friends_count": 606,
+                "listed_count": 0,
+                "created_at": "Fri Feb 22 08:11:38 +0000 2019",
+                "favourites_count": 199,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3163,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1115192635486904320/70MgmfQX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115192635486904320/70MgmfQX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098857834538663938/1554602203",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.029,
+        "max_id": 1114881615258218497,
+        "max_id_str": "1114881615258218497",
+        "next_results": "?max_id=1112723671884267521&q=unboxing%20scoopy&lang=id&count=10&include_entities=1&result_type=recent",
+        "query": "unboxing+scoopy",
+        "refresh_url": "?since_id=1114881615258218497&q=unboxing%20scoopy&lang=id&result_type=recent&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

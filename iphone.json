@@ -1,0 +1,2325 @@
+[
+    {
+        "created_at": "Mon Feb 04 05:54:27 +0000 2019",
+        "id": 1092300332359512066,
+        "id_str": "1092300332359512066",
+        "text": "RT @QueenGives: Winner has been Contacted via DM! https://t.co/E4jN4uSCEw",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1092221296853737477,
+            "id_str": "1092221296853737477",
+            "name": "Zlay",
+            "screen_name": "Zlay09003235",
+            "location": null,
+            "url": null,
+            "description": "Fan acc for zayn",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1,
+            "friends_count": 8,
+            "listed_count": 0,
+            "favourites_count": 27,
+            "statuses_count": 42,
+            "created_at": "Mon Feb 04 00:40:24 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092221416047398912/F2AdhmaT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092221416047398912/F2AdhmaT_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 02 15:49:41 +0000 2019",
+            "id": 1091725351728877569,
+            "id_str": "1091725351728877569",
+            "text": "Winner has been Contacted via DM! https://t.co/E4jN4uSCEw",
+            "display_text_range": [
+                0,
+                33
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1079785493649330177,
+                "id_str": "1079785493649330177",
+                "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                "screen_name": "QueenGives",
+                "location": "dm for promo",
+                "url": "http://queen.com",
+                "description": "Daily Giveaway\u2019s - winners contacted via DM.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 12394,
+                "friends_count": 9095,
+                "listed_count": 2,
+                "favourites_count": 39,
+                "statuses_count": 103,
+                "created_at": "Mon Dec 31 17:04:57 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079785493649330177/1547059415",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1091288468532146176,
+            "quoted_status_id_str": "1091288468532146176",
+            "quoted_status": {
+                "created_at": "Fri Feb 01 10:53:40 +0000 2019",
+                "id": 1091288468532146176,
+                "id_str": "1091288468532146176",
+                "text": "2x IPhone XR Yellow Giveaway! \n\n\ud83d\udd25RT\n\ud83d\udd25Follow Us!\n\ud83d\udd25Reply to this tweet saying \u201cdone\u201d when finished! \n\n\ud83d\udd1c Ends in 24 ho\u2026 https://t.co/NzuXOVUpzN",
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1079785493649330177,
+                    "id_str": "1079785493649330177",
+                    "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                    "screen_name": "QueenGives",
+                    "location": "dm for promo",
+                    "url": "http://queen.com",
+                    "description": "Daily Giveaway\u2019s - winners contacted via DM.",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 12394,
+                    "friends_count": 9095,
+                    "listed_count": 2,
+                    "favourites_count": 39,
+                    "statuses_count": 103,
+                    "created_at": "Mon Dec 31 17:04:57 +0000 2018",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079785493649330177/1547059415",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "2x IPhone XR Yellow Giveaway! \n\n\ud83d\udd25RT\n\ud83d\udd25Follow Us!\n\ud83d\udd25Reply to this tweet saying \u201cdone\u201d when finished! \n\n\ud83d\udd1c Ends in 24 hours! \u26a1\ufe0fACT FAST\u26a1\ufe0f https://t.co/yEMKT5k8pU",
+                    "display_text_range": [
+                        0,
+                        132
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": [],
+                        "media": [
+                            {
+                                "id": 1091288463649980416,
+                                "id_str": "1091288463649980416",
+                                "indices": [
+                                    133,
+                                    156
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                                "url": "https://t.co/yEMKT5k8pU",
+                                "display_url": "pic.twitter.com/yEMKT5k8pU",
+                                "expanded_url": "https://twitter.com/QueenGives/status/1091288468532146176/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 491,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 1124,
+                                        "h": 811,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 1124,
+                                        "h": 811,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1091288463649980416,
+                                "id_str": "1091288463649980416",
+                                "indices": [
+                                    133,
+                                    156
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                                "url": "https://t.co/yEMKT5k8pU",
+                                "display_url": "pic.twitter.com/yEMKT5k8pU",
+                                "expanded_url": "https://twitter.com/QueenGives/status/1091288468532146176/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 491,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 1124,
+                                        "h": 811,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 1124,
+                                        "h": 811,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "quote_count": 40,
+                "reply_count": 815,
+                "retweet_count": 879,
+                "favorite_count": 845,
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/NzuXOVUpzN",
+                            "expanded_url": "https://twitter.com/i/web/status/1091288468532146176",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "quoted_status_permalink": {
+                "url": "https://t.co/E4jN4uSCEw",
+                "expanded": "https://twitter.com/queengives/status/1091288468532146176",
+                "display": "twitter.com/queengives/sta\u2026"
+            },
+            "is_quote_status": true,
+            "quote_count": 2,
+            "reply_count": 32,
+            "retweet_count": 49,
+            "favorite_count": 152,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/E4jN4uSCEw",
+                        "expanded_url": "https://twitter.com/queengives/status/1091288468532146176",
+                        "display_url": "twitter.com/queengives/sta\u2026",
+                        "indices": [
+                            34,
+                            57
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_id": 1091288468532146176,
+        "quoted_status_id_str": "1091288468532146176",
+        "quoted_status": {
+            "created_at": "Fri Feb 01 10:53:40 +0000 2019",
+            "id": 1091288468532146176,
+            "id_str": "1091288468532146176",
+            "text": "2x IPhone XR Yellow Giveaway! \n\n\ud83d\udd25RT\n\ud83d\udd25Follow Us!\n\ud83d\udd25Reply to this tweet saying \u201cdone\u201d when finished! \n\n\ud83d\udd1c Ends in 24 ho\u2026 https://t.co/NzuXOVUpzN",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1079785493649330177,
+                "id_str": "1079785493649330177",
+                "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                "screen_name": "QueenGives",
+                "location": "dm for promo",
+                "url": "http://queen.com",
+                "description": "Daily Giveaway\u2019s - winners contacted via DM.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 12394,
+                "friends_count": 9095,
+                "listed_count": 2,
+                "favourites_count": 39,
+                "statuses_count": 103,
+                "created_at": "Mon Dec 31 17:04:57 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079785493649330177/1547059415",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "2x IPhone XR Yellow Giveaway! \n\n\ud83d\udd25RT\n\ud83d\udd25Follow Us!\n\ud83d\udd25Reply to this tweet saying \u201cdone\u201d when finished! \n\n\ud83d\udd1c Ends in 24 hours! \u26a1\ufe0fACT FAST\u26a1\ufe0f https://t.co/yEMKT5k8pU",
+                "display_text_range": [
+                    0,
+                    132
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1091288463649980416,
+                            "id_str": "1091288463649980416",
+                            "indices": [
+                                133,
+                                156
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                            "url": "https://t.co/yEMKT5k8pU",
+                            "display_url": "pic.twitter.com/yEMKT5k8pU",
+                            "expanded_url": "https://twitter.com/QueenGives/status/1091288468532146176/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 491,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1124,
+                                    "h": 811,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1124,
+                                    "h": 811,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1091288463649980416,
+                            "id_str": "1091288463649980416",
+                            "indices": [
+                                133,
+                                156
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DyUJE2dWwAATL77.jpg",
+                            "url": "https://t.co/yEMKT5k8pU",
+                            "display_url": "pic.twitter.com/yEMKT5k8pU",
+                            "expanded_url": "https://twitter.com/QueenGives/status/1091288468532146176/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 491,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1124,
+                                    "h": 811,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1124,
+                                    "h": 811,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 40,
+            "reply_count": 815,
+            "retweet_count": 879,
+            "favorite_count": 845,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NzuXOVUpzN",
+                        "expanded_url": "https://twitter.com/i/web/status/1091288468532146176",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/E4jN4uSCEw",
+            "expanded": "https://twitter.com/queengives/status/1091288468532146176",
+            "display": "twitter.com/queengives/sta\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/E4jN4uSCEw",
+                    "expanded_url": "https://twitter.com/queengives/status/1091288468532146176",
+                    "display_url": "twitter.com/queengives/sta\u2026",
+                    "indices": [
+                        50,
+                        73
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "QueenGives",
+                    "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                    "id": 1079785493649330177,
+                    "id_str": "1079785493649330177",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259667850"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:31 +0000 2019",
+        "id": 1092300346276249602,
+        "id_str": "1092300346276249602",
+        "text": "RT @kaybest__: iPhone 6 in an iPhone 7 case \nPhotoshopped nails \nThis girl is already in 2032 https://t.co/u5CeJQDxYa",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1675001990,
+            "id_str": "1675001990",
+            "name": "ded",
+            "screen_name": "_irrsyadd_",
+            "location": "no where",
+            "url": "http://ded.com",
+            "description": "It's okay i was never good enough.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 186,
+            "friends_count": 153,
+            "listed_count": 1,
+            "favourites_count": 2303,
+            "statuses_count": 16068,
+            "created_at": "Fri Aug 16 06:37:03 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799647187084800000/g2L4diQx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799647187084800000/g2L4diQx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675001990/1479485721",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Feb 01 13:24:20 +0000 2019",
+            "id": 1091326383983419394,
+            "id_str": "1091326383983419394",
+            "text": "iPhone 6 in an iPhone 7 case \nPhotoshopped nails \nThis girl is already in 2032 https://t.co/u5CeJQDxYa",
+            "display_text_range": [
+                0,
+                78
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 779778108136226816,
+                "id_str": "779778108136226816",
+                "name": "Kaybest",
+                "screen_name": "kaybest__",
+                "location": null,
+                "url": null,
+                "description": "Promoter | Media strategist |Online influencer | Social Media Account Builder |",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 19809,
+                "friends_count": 21642,
+                "listed_count": 23,
+                "favourites_count": 1210,
+                "statuses_count": 13756,
+                "created_at": "Sat Sep 24 20:22:43 +0000 2016",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1082604932711223296/k0GKA2dR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082604932711223296/k0GKA2dR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/779778108136226816/1544976920",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1091173958035087361,
+            "quoted_status_id_str": "1091173958035087361",
+            "quoted_status": {
+                "created_at": "Fri Feb 01 03:18:39 +0000 2019",
+                "id": 1091173958035087361,
+                "id_str": "1091173958035087361",
+                "text": "my AirPods came with wires attached https://t.co/Sla4EW5v1T",
+                "display_text_range": [
+                    0,
+                    35
+                ],
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1088568410638815238,
+                    "id_str": "1088568410638815238",
+                    "name": "TEE $t.",
+                    "screen_name": "sugartilly",
+                    "location": null,
+                    "url": "http://instagram.com/imteest",
+                    "description": "sugar momma who lost all her babies \ud83d\ude22| IG: imteest",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 3727,
+                    "friends_count": 1559,
+                    "listed_count": 1,
+                    "favourites_count": 117,
+                    "statuses_count": 152,
+                    "created_at": "Thu Jan 24 22:45:08 +0000 2019",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": "",
+                    "profile_background_image_url_https": "",
+                    "profile_background_tile": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1091081195415355392/npsnVKGT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091081195415355392/npsnVKGT_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088568410638815238/1549120939",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "quote_count": 616,
+                "reply_count": 207,
+                "retweet_count": 738,
+                "favorite_count": 7436,
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1091173948677513216,
+                            "id_str": "1091173948677513216",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                            "url": "https://t.co/Sla4EW5v1T",
+                            "display_url": "pic.twitter.com/Sla4EW5v1T",
+                            "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1242,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1091173948677513216,
+                            "id_str": "1091173948677513216",
+                            "indices": [
+                                36,
+                                59
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                            "url": "https://t.co/Sla4EW5v1T",
+                            "display_url": "pic.twitter.com/Sla4EW5v1T",
+                            "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1242,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "quoted_status_permalink": {
+                "url": "https://t.co/u5CeJQDxYa",
+                "expanded": "https://twitter.com/sugartilly/status/1091173958035087361",
+                "display": "twitter.com/sugartilly/sta\u2026"
+            },
+            "is_quote_status": true,
+            "quote_count": 184,
+            "reply_count": 187,
+            "retweet_count": 11033,
+            "favorite_count": 20449,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/u5CeJQDxYa",
+                        "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361",
+                        "display_url": "twitter.com/sugartilly/sta\u2026",
+                        "indices": [
+                            79,
+                            102
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_id": 1091173958035087361,
+        "quoted_status_id_str": "1091173958035087361",
+        "quoted_status": {
+            "created_at": "Fri Feb 01 03:18:39 +0000 2019",
+            "id": 1091173958035087361,
+            "id_str": "1091173958035087361",
+            "text": "my AirPods came with wires attached https://t.co/Sla4EW5v1T",
+            "display_text_range": [
+                0,
+                35
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088568410638815238,
+                "id_str": "1088568410638815238",
+                "name": "TEE $t.",
+                "screen_name": "sugartilly",
+                "location": null,
+                "url": "http://instagram.com/imteest",
+                "description": "sugar momma who lost all her babies \ud83d\ude22| IG: imteest",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 3727,
+                "friends_count": 1559,
+                "listed_count": 1,
+                "favourites_count": 117,
+                "statuses_count": 152,
+                "created_at": "Thu Jan 24 22:45:08 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1091081195415355392/npsnVKGT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091081195415355392/npsnVKGT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088568410638815238/1549120939",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 616,
+            "reply_count": 207,
+            "retweet_count": 738,
+            "favorite_count": 7436,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1091173948677513216,
+                        "id_str": "1091173948677513216",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                        "url": "https://t.co/Sla4EW5v1T",
+                        "display_url": "pic.twitter.com/Sla4EW5v1T",
+                        "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1242,
+                                "h": 1242,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1091173948677513216,
+                        "id_str": "1091173948677513216",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DySg7M8VYAAf2IB.jpg",
+                        "url": "https://t.co/Sla4EW5v1T",
+                        "display_url": "pic.twitter.com/Sla4EW5v1T",
+                        "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1242,
+                                "h": 1242,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/u5CeJQDxYa",
+            "expanded": "https://twitter.com/sugartilly/status/1091173958035087361",
+            "display": "twitter.com/sugartilly/sta\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/u5CeJQDxYa",
+                    "expanded_url": "https://twitter.com/sugartilly/status/1091173958035087361",
+                    "display_url": "twitter.com/sugartilly/sta\u2026",
+                    "indices": [
+                        94,
+                        117
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "kaybest__",
+                    "name": "Kaybest",
+                    "id": 779778108136226816,
+                    "id_str": "779778108136226816",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259671168"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:31 +0000 2019",
+        "id": 1092300348750991360,
+        "id_str": "1092300348750991360",
+        "text": "Or they be using a ass of emojis \ud83d\udc80\ud83d\udc80",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 870720990,
+            "id_str": "870720990",
+            "name": "N A D I A \ud83d\udc95",
+            "screen_name": "QueennnNadiaaa",
+            "location": null,
+            "url": null,
+            "description": "2 0 1 7 \ud83d\udc69\ud83c\udffe\u200d\ud83c\udf93|#SCSU21 \u2764\ufe0f\ud83d\udc36\ud83d\udc99|Political Science/Pre-Law major \ud83d\udcda",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1080,
+            "friends_count": 1072,
+            "listed_count": 7,
+            "favourites_count": 11385,
+            "statuses_count": 28882,
+            "created_at": "Tue Oct 09 22:50:57 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "2CB0C7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "D10471",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1087764438856491008/rpqrsZ0T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087764438856491008/rpqrsZ0T_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/870720990/1549175792",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1092300044311687169,
+        "quoted_status_id_str": "1092300044311687169",
+        "quoted_status": {
+            "created_at": "Mon Feb 04 05:53:19 +0000 2019",
+            "id": 1092300044311687169,
+            "id_str": "1092300044311687169",
+            "text": "mfs get a iphone n wanna ft \ud83d\ude2dbitch yu don\u2019t even kno how to use the phone yet .\ud83e\udd23",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3145373718,
+                "id_str": "3145373718",
+                "name": "\uf8ff\ud83e\udd85",
+                "screen_name": "RollingPlaness",
+                "location": "OutOfSpace\u2744\ufe0f",
+                "url": "https://m.youtube.com/channel/UCd26w56csjduEpKVNL2jOYA",
+                "description": "Instagram: @hotboytay_\ud83d\udde3",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 53638,
+                "friends_count": 58392,
+                "listed_count": 355,
+                "favourites_count": 43999,
+                "statuses_count": 58920,
+                "created_at": "Thu Apr 09 00:14:33 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1091854964304039937/f4gaPgzY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091854964304039937/f4gaPgzY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3145373718/1549153485",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "c7ef5f3368b68777",
+                "url": "https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json",
+                "place_type": "city",
+                "name": "Baton Rouge",
+                "full_name": "Baton Rouge, LA",
+                "country_code": "US",
+                "country": "United States",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -91.218994,
+                                30.354161
+                            ],
+                            [
+                                -91.218994,
+                                30.564039
+                            ],
+                            [
+                                -90.962605,
+                                30.564039
+                            ],
+                            [
+                                -90.962605,
+                                30.354161
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/xqYOcWz7NG",
+            "expanded": "https://twitter.com/rollingplaness/status/1092300044311687169",
+            "display": "twitter.com/rollingplaness\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259671758"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:37 +0000 2019",
+        "id": 1092300371014438913,
+        "id_str": "1092300371014438913",
+        "text": "For my birthday i want the new iPhone and a apple watch.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1052338367185203200,
+            "id_str": "1052338367185203200",
+            "name": "\ud835\udce2\ud835\udcf5\ud835\udcf2\ud835\udcf6\ud835\udcf6.\ud83c\udf39",
+            "screen_name": "ThaReallSlimm",
+            "location": "Erie, PA",
+            "url": null,
+            "description": "IG:THAREALLSLIMM\u2728 SC:SLIMM_SHAADY\u2728 Business Account: Labellelashextensions\ud83d\udc41 Website to book: http://Slimmlabelle.as.me/ \u2653\ufe0f\u2653\ufe0f\u2653\ufe0f\u2653\ufe0f",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 254,
+            "friends_count": 210,
+            "listed_count": 0,
+            "favourites_count": 1673,
+            "statuses_count": 1666,
+            "created_at": "Tue Oct 16 23:19:53 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091043696013950978/rZZAVzdO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091043696013950978/rZZAVzdO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052338367185203200/1548013508",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259677066"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:39 +0000 2019",
+        "id": 1092300381948829696,
+        "id_str": "1092300381948829696",
+        "text": "EMERGENCY! My wife fell asleep on my left arm, but Do Not Disturb isn\u2019t activated on her iPhone across the room. Ho\u2026 https://t.co/6EKrq7yj0I",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 8642282,
+            "id_str": "8642282",
+            "name": "The Comic-Con Don, Cultural Trailblazer & Jerk",
+            "screen_name": "hannibaltabu",
+            "location": "Lost Scandalous, CA",
+            "url": "http://www.hannibaltabu.com",
+            "description": "The Buy Pile @CBR, sourcebooks @AspenComics, 2012 @TopCow Talent Hunt winner, 2018-2019 @Culture_LA Cultural Trailblazer @itskomplicated @operativenet",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2292,
+            "friends_count": 404,
+            "listed_count": 201,
+            "favourites_count": 1205,
+            "statuses_count": 54977,
+            "created_at": "Tue Sep 04 10:41:39 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "80081C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E06B00",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/479111989491269632/xkDWRtxR_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/479111989491269632/xkDWRtxR_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8642282/1403064261",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "EMERGENCY! My wife fell asleep on my left arm, but Do Not Disturb isn\u2019t activated on her iPhone across the room. How can I remotely silence her notifications? HALP!",
+            "display_text_range": [
+                0,
+                164
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6EKrq7yj0I",
+                    "expanded_url": "https://twitter.com/i/web/status/1092300381948829696",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259679673"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:39 +0000 2019",
+        "id": 1092300383244832768,
+        "id_str": "1092300383244832768",
+        "text": "RT @chaengkachu: blinks! onces! i need help! please help me get this tweet to 500 likes and retweet. please help me win an iphone x! my bir\u2026",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1078853612443394048,
+            "id_str": "1078853612443394048",
+            "name": "strawberry",
+            "screen_name": "chaengkachu",
+            "location": "seoul",
+            "url": null,
+            "description": "fan account of our strawberry baby tiger.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 11,
+            "friends_count": 27,
+            "listed_count": 0,
+            "favourites_count": 488,
+            "statuses_count": 332,
+            "created_at": "Sat Dec 29 03:22:00 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1084742316038926336/hAZsJGLy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084742316038926336/hAZsJGLy_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Feb 04 04:51:38 +0000 2019",
+            "id": 1092284523784486912,
+            "id_str": "1092284523784486912",
+            "text": "blinks! onces! i need help! please help me get this tweet to 500 likes and retweet. please help me win an iphone x!\u2026 https://t.co/ZouGgYssqJ",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1078853612443394048,
+                "id_str": "1078853612443394048",
+                "name": "strawberry",
+                "screen_name": "chaengkachu",
+                "location": "seoul",
+                "url": null,
+                "description": "fan account of our strawberry baby tiger.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 11,
+                "friends_count": 27,
+                "listed_count": 0,
+                "favourites_count": 488,
+                "statuses_count": 331,
+                "created_at": "Sat Dec 29 03:22:00 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1084742316038926336/hAZsJGLy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084742316038926336/hAZsJGLy_normal.jpg",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "blinks! onces! i need help! please help me get this tweet to 500 likes and retweet. please help me win an iphone x! my birthday is coming on april so this can be an appreciated gift from you guys! please! i only have one week to do this. thank you guys! \u2764\ufe0f https://t.co/Xf5VaoDRg1",
+                "display_text_range": [
+                    0,
+                    256
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1092283457122660352,
+                            "id_str": "1092283457122660352",
+                            "indices": [
+                                257,
+                                280
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DyiSBF_U8AAYnjI.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DyiSBF_U8AAYnjI.jpg",
+                            "url": "https://t.co/Xf5VaoDRg1",
+                            "display_url": "pic.twitter.com/Xf5VaoDRg1",
+                            "expanded_url": "https://twitter.com/chaengkachu/status/1092284523784486912/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1004,
+                                    "h": 494,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1004,
+                                    "h": 494,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 335,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1092283457122660352,
+                            "id_str": "1092283457122660352",
+                            "indices": [
+                                257,
+                                280
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DyiSBF_U8AAYnjI.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DyiSBF_U8AAYnjI.jpg",
+                            "url": "https://t.co/Xf5VaoDRg1",
+                            "display_url": "pic.twitter.com/Xf5VaoDRg1",
+                            "expanded_url": "https://twitter.com/chaengkachu/status/1092284523784486912/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1004,
+                                    "h": 494,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1004,
+                                    "h": 494,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 335,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZouGgYssqJ",
+                        "expanded_url": "https://twitter.com/i/web/status/1092284523784486912",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chaengkachu",
+                    "name": "strawberry",
+                    "id": 1078853612443394048,
+                    "id_str": "1078853612443394048",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259679982"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:45 +0000 2019",
+        "id": 1092300404950515714,
+        "id_str": "1092300404950515714",
+        "text": "@iam_promiz @sa_tuz @GREATGRAYClOUS There's nothing to discover in am iPhone, its locked and you do only what Apple\u2026 https://t.co/NXiXzVyav5",
+        "display_text_range": [
+            36,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1092123339789950982,
+        "in_reply_to_status_id_str": "1092123339789950982",
+        "in_reply_to_user_id": 2784648809,
+        "in_reply_to_user_id_str": "2784648809",
+        "in_reply_to_screen_name": "iam_promiz",
+        "user": {
+            "id": 982959718497955840,
+            "id_str": "982959718497955840",
+            "name": "@mthobisi360",
+            "screen_name": "mthobisi360",
+            "location": "Barberton, South Africa",
+            "url": null,
+            "description": "New. Simple. Crazy. PC Technician.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 21,
+            "friends_count": 126,
+            "listed_count": 0,
+            "favourites_count": 316,
+            "statuses_count": 435,
+            "created_at": "Sun Apr 08 12:33:54 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1089176563336257536/XOcNLeKX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089176563336257536/XOcNLeKX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/982959718497955840/1549040387",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@iam_promiz @sa_tuz @GREATGRAYClOUS There's nothing to discover in am iPhone, its locked and you do only what Apple wants you to do.\nYou can't even customise the damn home screen so shhh.",
+            "display_text_range": [
+                36,
+                187
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "iam_promiz",
+                        "name": "promise zubi",
+                        "id": 2784648809,
+                        "id_str": "2784648809",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "sa_tuz",
+                        "name": "SaT",
+                        "id": 1084704895796723713,
+                        "id_str": "1084704895796723713",
+                        "indices": [
+                            12,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "GREATGRAYClOUS",
+                        "name": "GREAT GRACIOUS #BBNaija",
+                        "id": 1940474334,
+                        "id_str": "1940474334",
+                        "indices": [
+                            20,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/NXiXzVyav5",
+                    "expanded_url": "https://twitter.com/i/web/status/1092300404950515714",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "iam_promiz",
+                    "name": "promise zubi",
+                    "id": 2784648809,
+                    "id_str": "2784648809",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "sa_tuz",
+                    "name": "SaT",
+                    "id": 1084704895796723713,
+                    "id_str": "1084704895796723713",
+                    "indices": [
+                        12,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "GREATGRAYClOUS",
+                    "name": "GREAT GRACIOUS #BBNaija",
+                    "id": 1940474334,
+                    "id_str": "1940474334",
+                    "indices": [
+                        20,
+                        35
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259685157"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:45 +0000 2019",
+        "id": 1092300406426726400,
+        "id_str": "1092300406426726400",
+        "text": "Someone please correct me if I'm wrong, but did the Treasurer just slam AppleCare for your iPhone (without naming A\u2026 https://t.co/7DuIqx8fOP",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 561711031,
+            "id_str": "561711031",
+            "name": "Nathan Carter",
+            "screen_name": "nathanrcarter",
+            "location": "Sydney",
+            "url": null,
+            "description": "Opinionated dude in Sydney | journalism graduate | risk analyst | all about dat data #rstats",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 233,
+            "friends_count": 870,
+            "listed_count": 6,
+            "favourites_count": 1873,
+            "statuses_count": 2362,
+            "created_at": "Tue Apr 24 04:02:07 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "6B6B6B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/720101946829455361/XoMFGH3X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/720101946829455361/XoMFGH3X_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/561711031/1409110762",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Someone please correct me if I'm wrong, but did the Treasurer just slam AppleCare for your iPhone (without naming Apple itself) and threaten to make changes to it? #BankingRC",
+            "display_text_range": [
+                0,
+                174
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BankingRC",
+                        "indices": [
+                            164,
+                            174
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7DuIqx8fOP",
+                    "expanded_url": "https://twitter.com/i/web/status/1092300406426726400",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259685509"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:49 +0000 2019",
+        "id": 1092300422331547650,
+        "id_str": "1092300422331547650",
+        "text": "RT @QueenGives: iPhone X Giveaway!\ud83d\udd25 (2 Winners)\n\n\u2714\ufe0fRT\n\u2714\ufe0fFollow Us &amp; @BOSSofGIVEAWAYS \n\u2714\ufe0fReply to this tweet saying \u201cdone\u201d when entered!\n\nEn\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 205572601,
+            "id_str": "205572601",
+            "name": "Ma'am Lab \ud83d\udc93",
+            "screen_name": "LabJessy",
+            "location": "Laguna",
+            "url": "http://facebook.com/jesmeraldlabrador",
+            "description": "Philippians 4:13 \ud83d\udc96\njcvp's \ud83d\udc91",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 463,
+            "friends_count": 399,
+            "listed_count": 0,
+            "favourites_count": 6500,
+            "statuses_count": 12265,
+            "created_at": "Thu Oct 21 04:52:34 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1085037164222545920/Zj3eD9XW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085037164222545920/Zj3eD9XW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/205572601/1546150562",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 02 19:15:26 +0000 2019",
+            "id": 1091777127710633984,
+            "id_str": "1091777127710633984",
+            "text": "iPhone X Giveaway!\ud83d\udd25 (2 Winners)\n\n\u2714\ufe0fRT\n\u2714\ufe0fFollow Us &amp; @BOSSofGIVEAWAYS \n\u2714\ufe0fReply to this tweet saying \u201cdone\u201d when ente\u2026 https://t.co/KA0SsGKsW6",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1079785493649330177,
+                "id_str": "1079785493649330177",
+                "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                "screen_name": "QueenGives",
+                "location": "dm for promo",
+                "url": "http://queen.com",
+                "description": "Daily Giveaway\u2019s - winners contacted via DM.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 12393,
+                "friends_count": 9095,
+                "listed_count": 2,
+                "favourites_count": 39,
+                "statuses_count": 103,
+                "created_at": "Mon Dec 31 17:04:57 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082004460384206849/Z7qqMrGy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079785493649330177/1547059415",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "iPhone X Giveaway!\ud83d\udd25 (2 Winners)\n\n\u2714\ufe0fRT\n\u2714\ufe0fFollow Us &amp; @BOSSofGIVEAWAYS \n\u2714\ufe0fReply to this tweet saying \u201cdone\u201d when entered!\n\nEnds in 24 Hours! https://t.co/QJDctyUp9Q",
+                "display_text_range": [
+                    0,
+                    142
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "BOSSofGIVEAWAYS",
+                            "name": "iphone Giveaways",
+                            "id": 2858686656,
+                            "id_str": "2858686656",
+                            "indices": [
+                                56,
+                                72
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1091777114305675264,
+                            "id_str": "1091777114305675264",
+                            "indices": [
+                                143,
+                                166
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DybFgEAXQAAccD-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DybFgEAXQAAccD-.jpg",
+                            "url": "https://t.co/QJDctyUp9Q",
+                            "display_url": "pic.twitter.com/QJDctyUp9Q",
+                            "expanded_url": "https://twitter.com/QueenGives/status/1091777127710633984/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1091777114305675264,
+                            "id_str": "1091777114305675264",
+                            "indices": [
+                                143,
+                                166
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DybFgEAXQAAccD-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DybFgEAXQAAccD-.jpg",
+                            "url": "https://t.co/QJDctyUp9Q",
+                            "display_url": "pic.twitter.com/QJDctyUp9Q",
+                            "expanded_url": "https://twitter.com/QueenGives/status/1091777127710633984/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 480,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 31,
+            "reply_count": 952,
+            "retweet_count": 979,
+            "favorite_count": 872,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/KA0SsGKsW6",
+                        "expanded_url": "https://twitter.com/i/web/status/1091777127710633984",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BOSSofGIVEAWAYS",
+                        "name": "iphone Giveaways",
+                        "id": 2858686656,
+                        "id_str": "2858686656",
+                        "indices": [
+                            56,
+                            72
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "QueenGives",
+                    "name": "Giveaway Queen \ud83d\udc78\ud83c\udffc",
+                    "id": 1079785493649330177,
+                    "id_str": "1079785493649330177",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "BOSSofGIVEAWAYS",
+                    "name": "iphone Giveaways",
+                    "id": 2858686656,
+                    "id_str": "2858686656",
+                    "indices": [
+                        72,
+                        88
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259689301"
+    } ,
+    {
+        "created_at": "Mon Feb 04 05:54:50 +0000 2019",
+        "id": 1092300428329525248,
+        "id_str": "1092300428329525248",
+        "text": "it\u2019s crazy how well 2 &amp; 3 year olds can work an iPhone\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1428806598,
+            "id_str": "1428806598",
+            "name": "ashleigh\ud83e\udd70",
+            "screen_name": "slimmerellaaaa",
+            "location": "dillardU\ud83d\udc99",
+            "url": "https://www.eventbrite.com/e/bleu-devil-classic-after-party-tickets-55315406871",
+            "description": "cobe&charles&tyrin\u2764\ufe0f\ud83d\udd4a tall queen\ud83d\udc78\ud83c\udffd",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2353,
+            "friends_count": 993,
+            "listed_count": 25,
+            "favourites_count": 13390,
+            "statuses_count": 181697,
+            "created_at": "Tue May 14 20:57:02 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "17EBA4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1087439356036562945/5Ru1J3yt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087439356036562945/5Ru1J3yt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428806598/1547702173",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549259690731"
+    }
+    ]
+    

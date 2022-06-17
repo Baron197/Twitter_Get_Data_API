@@ -1,0 +1,2183 @@
+{
+    "statuses": [
+        {
+            "created_at": "Wed Oct 17 08:59:44 +0000 2018",
+            "id": 1052484292851318784,
+            "id_str": "1052484292851318784",
+            "text": "RT @ParallelDots: India among top 15 in artificial intelligence research \n\nSource: @timesofindia \n\n#ArtificialIntelligence #AI #Automation\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ArtificialIntelligence",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    },
+                    {
+                        "text": "AI",
+                        "indices": [
+                            123,
+                            126
+                        ]
+                    },
+                    {
+                        "text": "Automation",
+                        "indices": [
+                            127,
+                            138
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ParallelDots",
+                        "name": "ParallelDots",
+                        "id": 2244217100,
+                        "id_str": "2244217100",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "timesofindia",
+                        "name": "Times of India",
+                        "id": 134758540,
+                        "id_str": "134758540",
+                        "indices": [
+                            83,
+                            96
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2409188870,
+                "id_str": "2409188870",
+                "name": "vishram sagar",
+                "screen_name": "vishramsagar",
+                "location": "india",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14,
+                "friends_count": 16,
+                "listed_count": 2,
+                "created_at": "Mon Mar 24 15:42:31 +0000 2014",
+                "favourites_count": 1128,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 621,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 08:30:20 +0000 2018",
+                "id": 1052476895894429697,
+                "id_str": "1052476895894429697",
+                "text": "India among top 15 in artificial intelligence research \n\nSource: @timesofindia \n\n#ArtificialIntelligence #AI\u2026 https://t.co/UEwn4F9HsE",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "ArtificialIntelligence",
+                            "indices": [
+                                81,
+                                104
+                            ]
+                        },
+                        {
+                            "text": "AI",
+                            "indices": [
+                                105,
+                                108
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "timesofindia",
+                            "name": "Times of India",
+                            "id": 134758540,
+                            "id_str": "134758540",
+                            "indices": [
+                                65,
+                                78
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/UEwn4F9HsE",
+                            "expanded_url": "https://twitter.com/i/web/status/1052476895894429697",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                110,
+                                133
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2244217100,
+                    "id_str": "2244217100",
+                    "name": "ParallelDots",
+                    "screen_name": "ParallelDots",
+                    "location": "Worldwide",
+                    "description": "We are an applied #AI #research group, doing our bit to transform the world by bringing AI at your fingertips. #NLP #textanalysis #machinelearning #deeplearning",
+                    "url": "https://t.co/NI59q6RS5o",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/NI59q6RS5o",
+                                    "expanded_url": "http://www.paralleldots.com/",
+                                    "display_url": "paralleldots.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2356,
+                    "friends_count": 544,
+                    "listed_count": 239,
+                    "created_at": "Fri Dec 13 17:28:53 +0000 2013",
+                    "favourites_count": 530,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1152,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "223E73",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/817349910978842624/LJEwbFYu_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/817349910978842624/LJEwbFYu_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244217100/1487340099",
+                    "profile_link_color": "306BD9",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:59:27 +0000 2018",
+            "id": 1052484221124587520,
+            "id_str": "1052484221124587520",
+            "text": "RT @BristowColin: Big Data: Planning for Peak Season -- Part 1: When Big Data Scales Out and Up\nRead more here: https://t.co/Gv8Mv8EDxD\n\n#B\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BristowColin",
+                        "name": "Colin Bristow",
+                        "id": 444522096,
+                        "id_str": "444522096",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Gv8Mv8EDxD",
+                        "expanded_url": "https://ift.tt/2QXGF1t",
+                        "display_url": "ift.tt/2QXGF1t",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://spences10.github.io\" rel=\"nofollow\">new-app-test</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 934160485993340933,
+                "id_str": "934160485993340933",
+                "name": "Robin Thomson",
+                "screen_name": "RobinTh0mson",
+                "location": "London, England",
+                "description": "Principal Consultant #Banking interested in #BigData #AI #ML",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 397,
+                "friends_count": 229,
+                "listed_count": 34,
+                "created_at": "Fri Nov 24 20:43:10 +0000 2017",
+                "favourites_count": 12956,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15580,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/966779723350147075/0BOyuXsg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/966779723350147075/0BOyuXsg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/934160485993340933/1511556352",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 16 20:30:52 +0000 2018",
+                "id": 1052295835218776064,
+                "id_str": "1052295835218776064",
+                "text": "Big Data: Planning for Peak Season -- Part 1: When Big Data Scales Out and Up\nRead more here:\u2026 https://t.co/u29mmJpFYi",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/u29mmJpFYi",
+                            "expanded_url": "https://twitter.com/i/web/status/1052295835218776064",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                95,
+                                118
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 444522096,
+                    "id_str": "444522096",
+                    "name": "Colin Bristow",
+                    "screen_name": "BristowColin",
+                    "location": "London, England",
+                    "description": "I work for #SAS in the UK with #Finance #Insurance #Business orgs to exploit #Analytics, #AI #ML #IoT #bigdata #tech",
+                    "url": "https://t.co/M4QmdgckIp",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/M4QmdgckIp",
+                                    "expanded_url": "https://www.linkedin.com/in/colinrbristow/",
+                                    "display_url": "linkedin.com/in/colinrbrist\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 9165,
+                    "friends_count": 7881,
+                    "listed_count": 131,
+                    "created_at": "Fri Dec 23 10:28:27 +0000 2011",
+                    "favourites_count": 1770,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 8235,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/692994884270198784/jQX64C1s_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/692994884270198784/jQX64C1s_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/444522096/1516303879",
+                    "profile_link_color": "ABB8C2",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 20,
+                "favorite_count": 22,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 20,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:59:15 +0000 2018",
+            "id": 1052484173930196992,
+            "id_str": "1052484173930196992",
+            "text": "RT @BristowColin: Big Data Shaping the Future of Ag Industry on the HAT Wednesday Morning Edition\nRead more here: https://t.co/i1O00N8LkU\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BristowColin",
+                        "name": "Colin Bristow",
+                        "id": 444522096,
+                        "id_str": "444522096",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/i1O00N8LkU",
+                        "expanded_url": "https://ift.tt/2Erla7O",
+                        "display_url": "ift.tt/2Erla7O",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://spences10.github.io\" rel=\"nofollow\">louiza_sokoloff</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 953289572464635904,
+                "id_str": "953289572464635904",
+                "name": "Louiza Sokoloff",
+                "screen_name": "SokoloffLouiza",
+                "location": "Athens, GA",
+                "description": "@work life is hard, #analytics is easy",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 202,
+                "friends_count": 132,
+                "listed_count": 17,
+                "created_at": "Tue Jan 16 15:35:20 +0000 2018",
+                "favourites_count": 15737,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 16762,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/953290327879749634/edX_BxGA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/953290327879749634/edX_BxGA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/953289572464635904/1516117121",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 07:55:05 +0000 2018",
+                "id": 1052468024115126272,
+                "id_str": "1052468024115126272",
+                "text": "Big Data Shaping the Future of Ag Industry on the HAT Wednesday Morning Edition\nRead more here:\u2026 https://t.co/MoBU9Z29RM",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/MoBU9Z29RM",
+                            "expanded_url": "https://twitter.com/i/web/status/1052468024115126272",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 444522096,
+                    "id_str": "444522096",
+                    "name": "Colin Bristow",
+                    "screen_name": "BristowColin",
+                    "location": "London, England",
+                    "description": "I work for #SAS in the UK with #Finance #Insurance #Business orgs to exploit #Analytics, #AI #ML #IoT #bigdata #tech",
+                    "url": "https://t.co/M4QmdgckIp",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/M4QmdgckIp",
+                                    "expanded_url": "https://www.linkedin.com/in/colinrbristow/",
+                                    "display_url": "linkedin.com/in/colinrbrist\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 9165,
+                    "friends_count": 7881,
+                    "listed_count": 131,
+                    "created_at": "Fri Dec 23 10:28:27 +0000 2011",
+                    "favourites_count": 1770,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 8235,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/692994884270198784/jQX64C1s_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/692994884270198784/jQX64C1s_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/444522096/1516303879",
+                    "profile_link_color": "ABB8C2",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 5,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:59:11 +0000 2018",
+            "id": 1052484153973780486,
+            "id_str": "1052484153973780486",
+            "text": "RT @murphthesurf: @BellaFlokarti @Pammieoz @ScottMorrisonMP Thank goodness he won\u2019t be PM much longer. The man is from outer space. \ud83d\udc7d He\u2019s\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "murphthesurf",
+                        "name": "murphthesurf",
+                        "id": 1010831961995108353,
+                        "id_str": "1010831961995108353",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "BellaFlokarti",
+                        "name": "Bella flokarti",
+                        "id": 733543639335325697,
+                        "id_str": "733543639335325697",
+                        "indices": [
+                            18,
+                            32
+                        ]
+                    },
+                    {
+                        "screen_name": "Pammieoz",
+                        "name": "Pammieoz",
+                        "id": 257028825,
+                        "id_str": "257028825",
+                        "indices": [
+                            33,
+                            42
+                        ]
+                    },
+                    {
+                        "screen_name": "ScottMorrisonMP",
+                        "name": "Scott Morrison",
+                        "id": 34116377,
+                        "id_str": "34116377",
+                        "indices": [
+                            43,
+                            59
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 257028825,
+                "id_str": "257028825",
+                "name": "Pammieoz",
+                "screen_name": "Pammieoz",
+                "location": " Runnymede VIC 3559",
+                "description": "Wife and Nanna of Four Beautiful Girls ..Trying to keep up with technology and keeping an open mind. Smile always it confuses people.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1594,
+                "friends_count": 1273,
+                "listed_count": 181,
+                "created_at": "Thu Feb 24 15:35:00 +0000 2011",
+                "favourites_count": 174709,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 224911,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/972053337360093184/0vh8GrKi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/972053337360093184/0vh8GrKi_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/257028825/1354538720",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 08:58:36 +0000 2018",
+                "id": 1052484010352377856,
+                "id_str": "1052484010352377856",
+                "text": "@BellaFlokarti @Pammieoz @ScottMorrisonMP Thank goodness he won\u2019t be PM much longer. The man is from outer space. \ud83d\udc7d\u2026 https://t.co/bUVNgEyUzo",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "BellaFlokarti",
+                            "name": "Bella flokarti",
+                            "id": 733543639335325697,
+                            "id_str": "733543639335325697",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        },
+                        {
+                            "screen_name": "Pammieoz",
+                            "name": "Pammieoz",
+                            "id": 257028825,
+                            "id_str": "257028825",
+                            "indices": [
+                                15,
+                                24
+                            ]
+                        },
+                        {
+                            "screen_name": "ScottMorrisonMP",
+                            "name": "Scott Morrison",
+                            "id": 34116377,
+                            "id_str": "34116377",
+                            "indices": [
+                                25,
+                                41
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/bUVNgEyUzo",
+                            "expanded_url": "https://twitter.com/i/web/status/1052484010352377856",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1052391951868121089,
+                "in_reply_to_status_id_str": "1052391951868121089",
+                "in_reply_to_user_id": 733543639335325697,
+                "in_reply_to_user_id_str": "733543639335325697",
+                "in_reply_to_screen_name": "BellaFlokarti",
+                "user": {
+                    "id": 1010831961995108353,
+                    "id_str": "1010831961995108353",
+                    "name": "murphthesurf",
+                    "screen_name": "murphthesurf",
+                    "location": "Down Under ",
+                    "description": "A cheeky girl with attitude",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 319,
+                    "friends_count": 826,
+                    "listed_count": 2,
+                    "created_at": "Sun Jun 24 10:28:14 +0000 2018",
+                    "favourites_count": 2858,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1452,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1010833066036641793/u8ovaovT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010833066036641793/u8ovaovT_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "0073b76548e5984f",
+                    "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+                    "place_type": "city",
+                    "name": "Sydney",
+                    "full_name": "Sydney, New South Wales",
+                    "country_code": "AU",
+                    "country": "Australia",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.520928608,
+                                    -34.1183470085
+                                ],
+                                [
+                                    151.343020992,
+                                    -34.1183470085
+                                ],
+                                [
+                                    151.343020992,
+                                    -33.578140996
+                                ],
+                                [
+                                    150.520928608,
+                                    -33.578140996
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:58:42 +0000 2018",
+            "id": 1052484032905207808,
+            "id_str": "1052484032905207808",
+            "text": "RT @IainLJBrown: Big Data Shaping the Future of Ag Industry on the HAT Wednesday Morning Edition\n\nRead more here: https://t.co/RV2RLrNz9L\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "IainLJBrown",
+                        "name": "Iain Brown, PhD",
+                        "id": 467513287,
+                        "id_str": "467513287",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/RV2RLrNz9L",
+                        "expanded_url": "https://ift.tt/2Erla7O",
+                        "display_url": "ift.tt/2Erla7O",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://spences10.github.io\" rel=\"nofollow\">fedora_rapp</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 969593261479419905,
+                "id_str": "969593261479419905",
+                "name": "Fedora Rapp",
+                "screen_name": "fedora_rapp",
+                "location": "\u0420\u043e\u0441\u0441\u0438\u044f",
+                "description": "Coffee buff. Bacon enthusiast. Avid creator. Food practitioner. Social media geek.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 240,
+                "friends_count": 89,
+                "listed_count": 24,
+                "created_at": "Fri Mar 02 15:20:22 +0000 2018",
+                "favourites_count": 14302,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 14336,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/969594259212066817/tv1D_WNF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/969594259212066817/tv1D_WNF_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/969593261479419905/1520004490",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 07:57:06 +0000 2018",
+                "id": 1052468530669645824,
+                "id_str": "1052468530669645824",
+                "text": "Big Data Shaping the Future of Ag Industry on the HAT Wednesday Morning Edition\n\nRead more here:\u2026 https://t.co/GHk693gmcC",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/GHk693gmcC",
+                            "expanded_url": "https://twitter.com/i/web/status/1052468530669645824",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                98,
+                                121
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 467513287,
+                    "id_str": "467513287",
+                    "name": "Iain Brown, PhD",
+                    "screen_name": "IainLJBrown",
+                    "location": "London",
+                    "description": "Head of #DataScience @SASSoftware | Adjunct Prof @UniSouthampton | Author | #DataScientist #AI #ML #DL #NLP #Risk #IoT #BigData | Opinions my own",
+                    "url": "https://t.co/wo8jxLIetd",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wo8jxLIetd",
+                                    "expanded_url": "https://www.linkedin.com/in/iainljbrown/",
+                                    "display_url": "linkedin.com/in/iainljbrown/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 125675,
+                    "friends_count": 122412,
+                    "listed_count": 317,
+                    "created_at": "Wed Jan 18 15:10:25 +0000 2012",
+                    "favourites_count": 1077,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 22529,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/987784403081363458/AoG10MG0_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/987784403081363458/AoG10MG0_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/467513287/1524341683",
+                    "profile_link_color": "3B7CBF",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 6,
+                "favorite_count": 7,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:58:36 +0000 2018",
+            "id": 1052484010352377856,
+            "id_str": "1052484010352377856",
+            "text": "@BellaFlokarti @Pammieoz @ScottMorrisonMP Thank goodness he won\u2019t be PM much longer. The man is from outer space. \ud83d\udc7d\u2026 https://t.co/bUVNgEyUzo",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BellaFlokarti",
+                        "name": "Bella flokarti",
+                        "id": 733543639335325697,
+                        "id_str": "733543639335325697",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "Pammieoz",
+                        "name": "Pammieoz",
+                        "id": 257028825,
+                        "id_str": "257028825",
+                        "indices": [
+                            15,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "ScottMorrisonMP",
+                        "name": "Scott Morrison",
+                        "id": 34116377,
+                        "id_str": "34116377",
+                        "indices": [
+                            25,
+                            41
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bUVNgEyUzo",
+                        "expanded_url": "https://twitter.com/i/web/status/1052484010352377856",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1052391951868121089,
+            "in_reply_to_status_id_str": "1052391951868121089",
+            "in_reply_to_user_id": 733543639335325697,
+            "in_reply_to_user_id_str": "733543639335325697",
+            "in_reply_to_screen_name": "BellaFlokarti",
+            "user": {
+                "id": 1010831961995108353,
+                "id_str": "1010831961995108353",
+                "name": "murphthesurf",
+                "screen_name": "murphthesurf",
+                "location": "Down Under ",
+                "description": "A cheeky girl with attitude",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 319,
+                "friends_count": 826,
+                "listed_count": 2,
+                "created_at": "Sun Jun 24 10:28:14 +0000 2018",
+                "favourites_count": 2858,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1452,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1010833066036641793/u8ovaovT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010833066036641793/u8ovaovT_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "0073b76548e5984f",
+                "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+                "place_type": "city",
+                "name": "Sydney",
+                "full_name": "Sydney, New South Wales",
+                "country_code": "AU",
+                "country": "Australia",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                150.520928608,
+                                -34.1183470085
+                            ],
+                            [
+                                151.343020992,
+                                -34.1183470085
+                            ],
+                            [
+                                151.343020992,
+                                -33.578140996
+                            ],
+                            [
+                                150.520928608,
+                                -33.578140996
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:57:24 +0000 2018",
+            "id": 1052483708417015810,
+            "id_str": "1052483708417015810",
+            "text": "RT @ParallelDots: The Transformation of Healthcare with AI and Machine Learning\n\nSource: @InformationWeek \n\n#ArtificialIntelligence #AI #Au\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ArtificialIntelligence",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    },
+                    {
+                        "text": "AI",
+                        "indices": [
+                            132,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ParallelDots",
+                        "name": "ParallelDots",
+                        "id": 2244217100,
+                        "id_str": "2244217100",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "InformationWeek",
+                        "name": "InformationWeek",
+                        "id": 12615582,
+                        "id_str": "12615582",
+                        "indices": [
+                            89,
+                            105
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2409188870,
+                "id_str": "2409188870",
+                "name": "vishram sagar",
+                "screen_name": "vishramsagar",
+                "location": "india",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14,
+                "friends_count": 16,
+                "listed_count": 2,
+                "created_at": "Mon Mar 24 15:42:31 +0000 2014",
+                "favourites_count": 1128,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 621,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 06:30:20 +0000 2018",
+                "id": 1052446696997875712,
+                "id_str": "1052446696997875712",
+                "text": "The Transformation of Healthcare with AI and Machine Learning\n\nSource: @InformationWeek \n\n#ArtificialIntelligence\u2026 https://t.co/h3KOjf7ROm",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "ArtificialIntelligence",
+                            "indices": [
+                                90,
+                                113
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "InformationWeek",
+                            "name": "InformationWeek",
+                            "id": 12615582,
+                            "id_str": "12615582",
+                            "indices": [
+                                71,
+                                87
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/h3KOjf7ROm",
+                            "expanded_url": "https://twitter.com/i/web/status/1052446696997875712",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2244217100,
+                    "id_str": "2244217100",
+                    "name": "ParallelDots",
+                    "screen_name": "ParallelDots",
+                    "location": "Worldwide",
+                    "description": "We are an applied #AI #research group, doing our bit to transform the world by bringing AI at your fingertips. #NLP #textanalysis #machinelearning #deeplearning",
+                    "url": "https://t.co/NI59q6RS5o",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/NI59q6RS5o",
+                                    "expanded_url": "http://www.paralleldots.com/",
+                                    "display_url": "paralleldots.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2356,
+                    "friends_count": 544,
+                    "listed_count": 239,
+                    "created_at": "Fri Dec 13 17:28:53 +0000 2013",
+                    "favourites_count": 530,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1152,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "223E73",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/817349910978842624/LJEwbFYu_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/817349910978842624/LJEwbFYu_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244217100/1487340099",
+                    "profile_link_color": "306BD9",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:54:45 +0000 2018",
+            "id": 1052483040721739776,
+            "id_str": "1052483040721739776",
+            "text": "RT @rtehrani: Cloud Computing and VPN: Businesses Embrace Remote Access https://t.co/s0q7ewPOhD\n\n#AI #machinelearning #nlp #alexa #deeplear\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AI",
+                        "indices": [
+                            97,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "machinelearning",
+                        "indices": [
+                            101,
+                            117
+                        ]
+                    },
+                    {
+                        "text": "nlp",
+                        "indices": [
+                            118,
+                            122
+                        ]
+                    },
+                    {
+                        "text": "alexa",
+                        "indices": [
+                            123,
+                            129
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rtehrani",
+                        "name": "Rich Tehrani @LicensingLive, Nov 12-13 #SanJose",
+                        "id": 5654932,
+                        "id_str": "5654932",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/s0q7ewPOhD",
+                        "expanded_url": "http://bit.ly/2OqHhQe",
+                        "display_url": "bit.ly/2OqHhQe",
+                        "indices": [
+                            72,
+                            95
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3382138047,
+                "id_str": "3382138047",
+                "name": "The Hippo Shoe",
+                "screen_name": "TheHippoShoe",
+                "location": "Centurion, South Africa",
+                "description": "Ex-game ranger, who learnt that mostly you must stand your ground, but sometimes you need to RUN!! @ColorSTREAMedia Mickey@bet635sport.net",
+                "url": "https://t.co/3cGochjdhr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/3cGochjdhr",
+                                "expanded_url": "http://www.bet635sport.net",
+                                "display_url": "bet635sport.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8440,
+                "friends_count": 9212,
+                "listed_count": 355,
+                "created_at": "Sat Jul 18 20:14:32 +0000 2015",
+                "favourites_count": 676,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 85150,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/769531755145592833/j5vlLiqU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/769531755145592833/j5vlLiqU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3382138047/1437250688",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 07:50:00 +0000 2018",
+                "id": 1052466744177152000,
+                "id_str": "1052466744177152000",
+                "text": "Cloud Computing and VPN: Businesses Embrace Remote Access https://t.co/s0q7ewPOhD\n\n#AI #machinelearning #nlp #alexa\u2026 https://t.co/2cJeKa7hM4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "AI",
+                            "indices": [
+                                83,
+                                86
+                            ]
+                        },
+                        {
+                            "text": "machinelearning",
+                            "indices": [
+                                87,
+                                103
+                            ]
+                        },
+                        {
+                            "text": "nlp",
+                            "indices": [
+                                104,
+                                108
+                            ]
+                        },
+                        {
+                            "text": "alexa",
+                            "indices": [
+                                109,
+                                115
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/s0q7ewPOhD",
+                            "expanded_url": "http://bit.ly/2OqHhQe",
+                            "display_url": "bit.ly/2OqHhQe",
+                            "indices": [
+                                58,
+                                81
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2cJeKa7hM4",
+                            "expanded_url": "https://twitter.com/i/web/status/1052466744177152000",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 5654932,
+                    "id_str": "5654932",
+                    "name": "Rich Tehrani @LicensingLive, Nov 12-13 #SanJose",
+                    "screen_name": "rtehrani",
+                    "location": "Trumbull, CT",
+                    "description": "CEO TMC: #Futurist #Influencer #Keynote #Speaker #Cloud #IoT #Blockchain #Cybersecurity #VoIP #CRM #UCaaS #BigData #Analytics #AI #MachineLearning #SDWAN #IIoT",
+                    "url": "https://t.co/jXncTWevnI",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/jXncTWevnI",
+                                    "expanded_url": "http://www.tehrani.com",
+                                    "display_url": "tehrani.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 20697,
+                    "friends_count": 22533,
+                    "listed_count": 732,
+                    "created_at": "Mon Apr 30 14:30:41 +0000 2007",
+                    "favourites_count": 11115,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 76174,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000447877184/f7896fca0648407dd797c817d4481e5b_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000447877184/f7896fca0648407dd797c817d4481e5b_normal.jpeg",
+                    "profile_link_color": "0000FF",
+                    "profile_sidebar_border_color": "87BC44",
+                    "profile_sidebar_fill_color": "E0FF92",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:54:31 +0000 2018",
+            "id": 1052482979769905154,
+            "id_str": "1052482979769905154",
+            "text": "RT @IainLJBrown: Don't fall for these 3 myths about AI, machine learning\n\nRead more here: https://t.co/goDBOzfrfe\n\n#MachineLearning #ML #Da\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MachineLearning",
+                        "indices": [
+                            115,
+                            131
+                        ]
+                    },
+                    {
+                        "text": "ML",
+                        "indices": [
+                            132,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "IainLJBrown",
+                        "name": "Iain Brown, PhD",
+                        "id": 467513287,
+                        "id_str": "467513287",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/goDBOzfrfe",
+                        "expanded_url": "https://ift.tt/2RVKh55",
+                        "display_url": "ift.tt/2RVKh55",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://spences10.github.io\" rel=\"nofollow\">nkruma_ignatov</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 961605272962727936,
+                "id_str": "961605272962727936",
+                "name": "Nkruma Ignatov",
+                "screen_name": "NkrumaIgnatov",
+                "location": "Ghana",
+                "description": "#Data driven analyst. Opinions my own. #Science",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 185,
+                "friends_count": 106,
+                "listed_count": 13,
+                "created_at": "Thu Feb 08 14:18:57 +0000 2018",
+                "favourites_count": 9500,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9979,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/961607171040477185/NLyoQV4x_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/961607171040477185/NLyoQV4x_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/961605272962727936/1518099981",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 17 08:39:10 +0000 2018",
+                "id": 1052479119219417088,
+                "id_str": "1052479119219417088",
+                "text": "Don't fall for these 3 myths about AI, machine learning\n\nRead more here: https://t.co/goDBOzfrfe\n\n#MachineLearning\u2026 https://t.co/a9n7GhR2IH",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "MachineLearning",
+                            "indices": [
+                                98,
+                                114
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/goDBOzfrfe",
+                            "expanded_url": "https://ift.tt/2RVKh55",
+                            "display_url": "ift.tt/2RVKh55",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/a9n7GhR2IH",
+                            "expanded_url": "https://twitter.com/i/web/status/1052479119219417088",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 467513287,
+                    "id_str": "467513287",
+                    "name": "Iain Brown, PhD",
+                    "screen_name": "IainLJBrown",
+                    "location": "London",
+                    "description": "Head of #DataScience @SASSoftware | Adjunct Prof @UniSouthampton | Author | #DataScientist #AI #ML #DL #NLP #Risk #IoT #BigData | Opinions my own",
+                    "url": "https://t.co/wo8jxLIetd",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wo8jxLIetd",
+                                    "expanded_url": "https://www.linkedin.com/in/iainljbrown/",
+                                    "display_url": "linkedin.com/in/iainljbrown/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 125675,
+                    "friends_count": 122412,
+                    "listed_count": 317,
+                    "created_at": "Wed Jan 18 15:10:25 +0000 2012",
+                    "favourites_count": 1077,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 22529,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/987784403081363458/AoG10MG0_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/987784403081363458/AoG10MG0_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/467513287/1524341683",
+                    "profile_link_color": "3B7CBF",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Oct 17 08:52:39 +0000 2018",
+            "id": 1052482510511255552,
+            "id_str": "1052482510511255552",
+            "text": "@SarahRubyWrites NLP apparently",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SarahRubyWrites",
+                        "name": "#LetThemGo",
+                        "id": 808815304382021632,
+                        "id_str": "808815304382021632",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1052441057357692934,
+            "in_reply_to_status_id_str": "1052441057357692934",
+            "in_reply_to_user_id": 808815304382021632,
+            "in_reply_to_user_id_str": "808815304382021632",
+            "in_reply_to_screen_name": "SarahRubyWrites",
+            "user": {
+                "id": 630679523,
+                "id_str": "630679523",
+                "name": "Cathryn \ud83c\udff3\ufe0f\u200d\ud83c\udf08Yes",
+                "screen_name": "stickymeringue",
+                "location": "",
+                "description": "I must be a leftie greenie, I hate greed, racism, sexism, bigotry, corruption and the destruction of the environment",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 900,
+                "friends_count": 1764,
+                "listed_count": 47,
+                "created_at": "Mon Jul 09 01:36:23 +0000 2012",
+                "favourites_count": 24829,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 26959,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/674703648748793856/ws0HBL6J_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/674703648748793856/ws0HBL6J_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/630679523/1449696859",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.1,
+        "max_id": 1052484292851318784,
+        "max_id_str": "1052484292851318784",
+        "next_results": "?max_id=1052482510511255551&q=NLP&lang=en&count=10&include_entities=1&result_type=recent",
+        "query": "NLP",
+        "refresh_url": "?since_id=1052484292851318784&q=NLP&lang=en&result_type=recent&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

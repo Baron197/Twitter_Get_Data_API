@@ -1,0 +1,2258 @@
+[
+    {
+        "created_at": "Fri Feb 08 07:20:40 +0000 2019",
+        "id": 1093771581497720835,
+        "id_str": "1093771581497720835",
+        "text": "RT @quadrismegistus: For my chapter on personification, I'm exploring ways machine learning can help us trace the 'human likeness' of non-h\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 248832978,
+            "id_str": "248832978",
+            "name": "ouatouaszat",
+            "screen_name": "ouatouaszat",
+            "location": "Paris, France",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 8,
+            "friends_count": 153,
+            "listed_count": 0,
+            "favourites_count": 186,
+            "statuses_count": 125,
+            "created_at": "Mon Feb 07 20:34:30 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237748133/expo-mafalda-a-la-cite-bd-d-angouleme-01_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237748133/expo-mafalda-a-la-cite-bd-d-angouleme-01_normal.JPG",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Feb 07 21:58:31 +0000 2019",
+            "id": 1093630109863403521,
+            "id_str": "1093630109863403521",
+            "text": "For my chapter on personification, I'm exploring ways machine learning can help us trace the 'human likeness' of no\u2026 https://t.co/Py5tG0QWqj",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 247594540,
+                "id_str": "247594540",
+                "name": "Ryan Heuser",
+                "screen_name": "quadrismegistus",
+                "location": "Oakland, CA",
+                "url": "http://ryanheuser.org",
+                "description": "English PhD candidate @ Stanford. Uses dark digital magic to write about forms of abstraction in eighteenth-century literature and early capitalist culture.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1336,
+                "friends_count": 1550,
+                "listed_count": 45,
+                "favourites_count": 6310,
+                "statuses_count": 2327,
+                "created_at": "Sat Feb 05 03:59:05 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/955139089623220224/F3oDzbDa_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/955139089623220224/F3oDzbDa_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/247594540/1513268507",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "For my chapter on personification, I'm exploring ways machine learning can help us trace the 'human likeness' of non-human nouns across history. Given only which verbs a noun like 'nation' is a subject or object of, how human-like does the noun appear to the model? https://t.co/AeTRhMOrjB",
+                "display_text_range": [
+                    0,
+                    265
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1093627183325622272,
+                            "id_str": "1093627183325622272",
+                            "indices": [
+                                266,
+                                289
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dy1YIQLVsAA5qbc.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dy1YIQLVsAA5qbc.jpg",
+                            "url": "https://t.co/AeTRhMOrjB",
+                            "display_url": "pic.twitter.com/AeTRhMOrjB",
+                            "expanded_url": "https://twitter.com/quadrismegistus/status/1093630109863403521/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 908,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 515,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1784,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1093627213230964736,
+                            "id_str": "1093627213230964736",
+                            "indices": [
+                                266,
+                                289
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dy1YJ_lVAAAvEv9.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dy1YJ_lVAAAvEv9.jpg",
+                            "url": "https://t.co/AeTRhMOrjB",
+                            "display_url": "pic.twitter.com/AeTRhMOrjB",
+                            "expanded_url": "https://twitter.com/quadrismegistus/status/1093630109863403521/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 515,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1784,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 908,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1093627183325622272,
+                            "id_str": "1093627183325622272",
+                            "indices": [
+                                266,
+                                289
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dy1YIQLVsAA5qbc.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dy1YIQLVsAA5qbc.jpg",
+                            "url": "https://t.co/AeTRhMOrjB",
+                            "display_url": "pic.twitter.com/AeTRhMOrjB",
+                            "expanded_url": "https://twitter.com/quadrismegistus/status/1093630109863403521/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 908,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 515,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1784,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1093627213230964736,
+                            "id_str": "1093627213230964736",
+                            "indices": [
+                                266,
+                                289
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dy1YJ_lVAAAvEv9.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dy1YJ_lVAAAvEv9.jpg",
+                            "url": "https://t.co/AeTRhMOrjB",
+                            "display_url": "pic.twitter.com/AeTRhMOrjB",
+                            "expanded_url": "https://twitter.com/quadrismegistus/status/1093630109863403521/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 515,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1784,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 908,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 20,
+            "favorite_count": 56,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Py5tG0QWqj",
+                        "expanded_url": "https://twitter.com/i/web/status/1093630109863403521",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "quadrismegistus",
+                    "name": "Ryan Heuser",
+                    "id": 247594540,
+                    "id_str": "247594540",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610440979"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:21:40 +0000 2019",
+        "id": 1093771829901049856,
+        "id_str": "1093771829901049856",
+        "text": "RT @InfotechReport: How to Enhance Machine Learning Models https://t.co/ovgq0Tw9ZI #MachineLearning #InformationTechnology #InfotechReport",
+        "source": "<a href=\"http://web2news.com\" rel=\"nofollow\">Machine Learning Digest</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 869794196294520832,
+            "id_str": "869794196294520832",
+            "name": "Machine Learning",
+            "screen_name": "machinelearn_d",
+            "location": "The Earth",
+            "url": null,
+            "description": "Machine Learning Digest.  Powered by http://SimbaSystems.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6857,
+            "friends_count": 0,
+            "listed_count": 156,
+            "favourites_count": 2,
+            "statuses_count": 179489,
+            "created_at": "Wed May 31 05:54:31 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/869962597424025601/3NHd0kZ__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/869962597424025601/3NHd0kZ__normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Feb 08 07:00:00 +0000 2019",
+            "id": 1093766378404937729,
+            "id_str": "1093766378404937729",
+            "text": "How to Enhance Machine Learning Models https://t.co/ovgq0Tw9ZI #MachineLearning #InformationTechnology #InfotechReport",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3017434554,
+                "id_str": "3017434554",
+                "name": "The.Infotech.Report",
+                "screen_name": "InfotechReport",
+                "location": "California, USA",
+                "url": "http://infotech.report/",
+                "description": "http://Infotech.Report is an extensive resource library for the IT industry, bringing you the latest market studies, research reports and product information.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 165,
+                "friends_count": 183,
+                "listed_count": 12,
+                "favourites_count": 41,
+                "statuses_count": 1596,
+                "created_at": "Thu Feb 12 14:31:38 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/777747082329272325/wadb5e65_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/777747082329272325/wadb5e65_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3017434554/1461758253",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MachineLearning",
+                        "indices": [
+                            63,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "InformationTechnology",
+                        "indices": [
+                            80,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "InfotechReport",
+                        "indices": [
+                            103,
+                            118
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ovgq0Tw9ZI",
+                        "expanded_url": "https://infotech.report/view-resource.aspx?id=10270",
+                        "display_url": "infotech.report/view-resource.\u2026",
+                        "indices": [
+                            39,
+                            62
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MachineLearning",
+                    "indices": [
+                        83,
+                        99
+                    ]
+                },
+                {
+                    "text": "InformationTechnology",
+                    "indices": [
+                        100,
+                        122
+                    ]
+                },
+                {
+                    "text": "InfotechReport",
+                    "indices": [
+                        123,
+                        138
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ovgq0Tw9ZI",
+                    "expanded_url": "https://infotech.report/view-resource.aspx?id=10270",
+                    "display_url": "infotech.report/view-resource.\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "InfotechReport",
+                    "name": "The.Infotech.Report",
+                    "id": 3017434554,
+                    "id_str": "3017434554",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610500203"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:21:55 +0000 2019",
+        "id": 1093771892815650816,
+        "id_str": "1093771892815650816",
+        "text": "Why are Machine Learning Projects so Hard to Manage? https://t.co/JsFzdoJApM",
+        "source": "<a href=\"http://dynamicsignal.com/\" rel=\"nofollow\">Dynamic Signal</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 768433384586485760,
+            "id_str": "768433384586485760",
+            "name": "Christian Engel",
+            "screen_name": "christi19962006",
+            "location": "Frankfurt am Main, Hessen",
+            "url": "https://www.linkedin.com/in/engelchristian?trk=nav_responsive_tab_profile",
+            "description": "Advisor for all #DataScience and #ArtificialIntelligence approaches in Banking - pushing the #AnalyticalFactory, playing #football, loving my #guitar Paula",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 592,
+            "friends_count": 511,
+            "listed_count": 53,
+            "favourites_count": 401,
+            "statuses_count": 1600,
+            "created_at": "Wed Aug 24 13:02:50 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "de",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770996073628364800/GY1LNEB4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/770996073628364800/GY1LNEB4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/768433384586485760/1499682695",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JsFzdoJApM",
+                    "expanded_url": "http://bit.ly/2Bu4kkF",
+                    "display_url": "bit.ly/2Bu4kkF",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610515203"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:22:23 +0000 2019",
+        "id": 1093772013339054081,
+        "id_str": "1093772013339054081",
+        "text": "Data Science Engineer - Machine/Deep Learning - Harnham - [ \ud83d\udccb More Info  https://t.co/x1uk8euXBs ] #BigData\u2026 https://t.co/WN6NY2B5wS",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://www.waseemly.com\" rel=\"nofollow\">SocialTweetHP</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 929740814657441792,
+            "id_str": "929740814657441792",
+            "name": "Jobs In BigData",
+            "screen_name": "workinbigdata",
+            "location": "United Kingdom",
+            "url": null,
+            "description": "All the best jobs in #BigData #Hadoop #DataScience #Solr",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 40,
+            "friends_count": 36,
+            "listed_count": 0,
+            "favourites_count": 3,
+            "statuses_count": 106938,
+            "created_at": "Sun Nov 12 16:00:58 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929764064447918081/7crFKAgA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929764064447918081/7crFKAgA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/929740814657441792/1510507923",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Data Science Engineer - Machine/Deep Learning - Harnham - [ \ud83d\udccb More Info  https://t.co/x1uk8euXBs ] #BigData #DataScience #Database  #DataScience #jobs #Hiring #Careers # # #Cryptocurrency #Blockchain #BTC https://t.co/V5ywyqdOKi",
+            "display_text_range": [
+                0,
+                204
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BigData",
+                        "indices": [
+                            99,
+                            107
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            108,
+                            120
+                        ]
+                    },
+                    {
+                        "text": "Database",
+                        "indices": [
+                            121,
+                            130
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            132,
+                            144
+                        ]
+                    },
+                    {
+                        "text": "jobs",
+                        "indices": [
+                            145,
+                            150
+                        ]
+                    },
+                    {
+                        "text": "Hiring",
+                        "indices": [
+                            151,
+                            158
+                        ]
+                    },
+                    {
+                        "text": "Careers",
+                        "indices": [
+                            159,
+                            167
+                        ]
+                    },
+                    {
+                        "text": "Cryptocurrency",
+                        "indices": [
+                            172,
+                            187
+                        ]
+                    },
+                    {
+                        "text": "Blockchain",
+                        "indices": [
+                            188,
+                            199
+                        ]
+                    },
+                    {
+                        "text": "BTC",
+                        "indices": [
+                            200,
+                            204
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/x1uk8euXBs",
+                        "expanded_url": "http://j.mp/2WLoa3U",
+                        "display_url": "j.mp/2WLoa3U",
+                        "indices": [
+                            73,
+                            96
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1093772011569074176,
+                        "id_str": "1093772011569074176",
+                        "indices": [
+                            205,
+                            228
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3b2XbW0AAespn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3b2XbW0AAespn.jpg",
+                        "url": "https://t.co/V5ywyqdOKi",
+                        "display_url": "pic.twitter.com/V5ywyqdOKi",
+                        "expanded_url": "https://twitter.com/workinbigdata/status/1093772013339054081/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093772011569074176,
+                        "id_str": "1093772011569074176",
+                        "indices": [
+                            205,
+                            228
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3b2XbW0AAespn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3b2XbW0AAespn.jpg",
+                        "url": "https://t.co/V5ywyqdOKi",
+                        "display_url": "pic.twitter.com/V5ywyqdOKi",
+                        "expanded_url": "https://twitter.com/workinbigdata/status/1093772013339054081/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BigData",
+                    "indices": [
+                        99,
+                        107
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/x1uk8euXBs",
+                    "expanded_url": "http://j.mp/2WLoa3U",
+                    "display_url": "j.mp/2WLoa3U",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                },
+                {
+                    "url": "https://t.co/WN6NY2B5wS",
+                    "expanded_url": "https://twitter.com/i/web/status/1093772013339054081",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610543938"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:22:45 +0000 2019",
+        "id": 1093772102119743488,
+        "id_str": "1093772102119743488",
+        "text": "RT @shiffman: Build your own KNN \"teachable machine\" with @ml5js and @TensorFlow.js.\n\n\ud83d\udcfd\ufe0f: https://t.co/TJxczRlzkB\n\ud83d\udcfd\ufe0f: https://t.co/MMhCfnkX\u2026",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 321699282,
+            "id_str": "321699282",
+            "name": "Eun Kang",
+            "screen_name": "eunxkang",
+            "location": "\ub300\ud55c\ubbfc\uad6d",
+            "url": "http://eunxkang.me",
+            "description": "Game Designer \u2194 Human-Computer Interaction \u2194 Creative coder #SailorMoon #artgame",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 42,
+            "friends_count": 505,
+            "listed_count": 0,
+            "favourites_count": 283,
+            "statuses_count": 367,
+            "created_at": "Wed Jun 22 00:25:34 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "ko",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1070905247545978880/XQYVwXpg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070905247545978880/XQYVwXpg_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Feb 07 18:19:10 +0000 2019",
+            "id": 1093574906602770433,
+            "id_str": "1093574906602770433",
+            "text": "Build your own KNN \"teachable machine\" with @ml5js and @TensorFlow.js.\n\n\ud83d\udcfd\ufe0f: https://t.co/TJxczRlzkB\n\ud83d\udcfd\ufe0f:\u2026 https://t.co/M1Q98RcXas",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14587429,
+                "id_str": "14587429",
+                "name": "Daniel Shiffman",
+                "screen_name": "shiffman",
+                "location": "New York, NY",
+                "url": "https://www.youtube.com/user/shiffman",
+                "description": "I am not qualified for any of this.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 40108,
+                "friends_count": 1207,
+                "listed_count": 1034,
+                "favourites_count": 15238,
+                "statuses_count": 11538,
+                "created_at": "Tue Apr 29 17:08:46 +0000 2008",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/913100879204556800/Ou9CxY1c_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/913100879204556800/Ou9CxY1c_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14587429/1506535282",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Build your own KNN \"teachable machine\" with @ml5js and @TensorFlow.js.\n\n\ud83d\udcfd\ufe0f: https://t.co/TJxczRlzkB\n\ud83d\udcfd\ufe0f: https://t.co/MMhCfnkXA4\n\ud83d\udcfd\ufe0f: https://t.co/5kv2Cc3CKX\n\nThank you @nsthorat and @yining_shi for the helpful resources!\n\n\ud83d\udcd6 https://t.co/TMpSbdX967\n\ud83c\udfeb https://t.co/gfxm0BDlux https://t.co/gI0Gm0oULf",
+                "display_text_range": [
+                    0,
+                    272
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TJxczRlzkB",
+                            "expanded_url": "https://youtu.be/KTNqXwkLuM4",
+                            "display_url": "youtu.be/KTNqXwkLuM4",
+                            "indices": [
+                                76,
+                                99
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/MMhCfnkXA4",
+                            "expanded_url": "https://youtu.be/Mwo5_bUVhlA",
+                            "display_url": "youtu.be/Mwo5_bUVhlA",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/5kv2Cc3CKX",
+                            "expanded_url": "https://youtu.be/JWsKay58Z2g",
+                            "display_url": "youtu.be/JWsKay58Z2g",
+                            "indices": [
+                                132,
+                                155
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/TMpSbdX967",
+                            "expanded_url": "https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js",
+                            "display_url": "beta.observablehq.com/@nsthorat/how-\u2026",
+                            "indices": [
+                                223,
+                                246
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/gfxm0BDlux",
+                            "expanded_url": "https://github.com/yining1023/machine-learning-for-the-web",
+                            "display_url": "github.com/yining1023/mac\u2026",
+                            "indices": [
+                                249,
+                                272
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ml5js",
+                            "name": "ml5js",
+                            "id": 1004199092115902465,
+                            "id_str": "1004199092115902465",
+                            "indices": [
+                                44,
+                                50
+                            ]
+                        },
+                        {
+                            "screen_name": "TensorFlow",
+                            "name": "TensorFlow",
+                            "id": 254107028,
+                            "id_str": "254107028",
+                            "indices": [
+                                55,
+                                66
+                            ]
+                        },
+                        {
+                            "screen_name": "nsthorat",
+                            "name": "Nikhil Thorat",
+                            "id": 1118579966,
+                            "id_str": "1118579966",
+                            "indices": [
+                                167,
+                                176
+                            ]
+                        },
+                        {
+                            "screen_name": "yining_shi",
+                            "name": "Yining Shi",
+                            "id": 2459436104,
+                            "id_str": "2459436104",
+                            "indices": [
+                                181,
+                                192
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1093574733201895424,
+                            "id_str": "1093574733201895424",
+                            "indices": [
+                                273,
+                                296
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093574733201895424/pu/img/lrSalwSDof2AO0uT.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093574733201895424/pu/img/lrSalwSDof2AO0uT.jpg",
+                            "url": "https://t.co/gI0Gm0oULf",
+                            "display_url": "pic.twitter.com/gI0Gm0oULf",
+                            "expanded_url": "https://twitter.com/shiffman/status/1093574906602770433/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 11434,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/640x360/tlTVRtEWd9QHsiTm.mp4?tag=6"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/320x180/3pLK_sN6CgLaP58E.mp4?tag=6"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/1280x720/0n03HJwVBr8ON8HW.mp4?tag=6"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/pl/Hwh6q0faMJ14gQ2m.m3u8?tag=6"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1093574733201895424,
+                            "id_str": "1093574733201895424",
+                            "indices": [
+                                273,
+                                296
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093574733201895424/pu/img/lrSalwSDof2AO0uT.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093574733201895424/pu/img/lrSalwSDof2AO0uT.jpg",
+                            "url": "https://t.co/gI0Gm0oULf",
+                            "display_url": "pic.twitter.com/gI0Gm0oULf",
+                            "expanded_url": "https://twitter.com/shiffman/status/1093574906602770433/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 11434,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/640x360/tlTVRtEWd9QHsiTm.mp4?tag=6"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/320x180/3pLK_sN6CgLaP58E.mp4?tag=6"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/vid/1280x720/0n03HJwVBr8ON8HW.mp4?tag=6"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1093574733201895424/pu/pl/Hwh6q0faMJ14gQ2m.m3u8?tag=6"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 24,
+            "favorite_count": 131,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/TJxczRlzkB",
+                        "expanded_url": "https://youtu.be/KTNqXwkLuM4",
+                        "display_url": "youtu.be/KTNqXwkLuM4",
+                        "indices": [
+                            76,
+                            99
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/M1Q98RcXas",
+                        "expanded_url": "https://twitter.com/i/web/status/1093574906602770433",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ml5js",
+                        "name": "ml5js",
+                        "id": 1004199092115902465,
+                        "id_str": "1004199092115902465",
+                        "indices": [
+                            44,
+                            50
+                        ]
+                    },
+                    {
+                        "screen_name": "TensorFlow",
+                        "name": "TensorFlow",
+                        "id": 254107028,
+                        "id_str": "254107028",
+                        "indices": [
+                            55,
+                            66
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TJxczRlzkB",
+                    "expanded_url": "https://youtu.be/KTNqXwkLuM4",
+                    "display_url": "youtu.be/KTNqXwkLuM4",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "shiffman",
+                    "name": "Daniel Shiffman",
+                    "id": 14587429,
+                    "id_str": "14587429",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "ml5js",
+                    "name": "ml5js",
+                    "id": 1004199092115902465,
+                    "id_str": "1004199092115902465",
+                    "indices": [
+                        58,
+                        64
+                    ]
+                },
+                {
+                    "screen_name": "TensorFlow",
+                    "name": "TensorFlow",
+                    "id": 254107028,
+                    "id_str": "254107028",
+                    "indices": [
+                        69,
+                        80
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610565105"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:22:48 +0000 2019",
+        "id": 1093772118171492352,
+        "id_str": "1093772118171492352",
+        "text": "Machine Learning-Powered Search Ranking of Airbnb Experiences  https://t.co/lz1vAMv686",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 70185181,
+            "id_str": "70185181",
+            "name": "Ra\u00fal Amigo",
+            "screen_name": "raulamigo",
+            "location": "Miami, FL",
+            "url": "http://instagram.com/raulamigo/",
+            "description": "Entrepreneur, Founder of UMUNTU, CX Evangelist, digital pioneer, Author of the book Beyond Customer Experience",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1284,
+            "friends_count": 1357,
+            "listed_count": 84,
+            "favourites_count": 1085,
+            "statuses_count": 3617,
+            "created_at": "Sun Aug 30 18:51:05 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "B0D1C6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "141210",
+            "profile_sidebar_border_color": "FF8861",
+            "profile_sidebar_fill_color": "FF9D57",
+            "profile_text_color": "DAE8E3",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/861419895673769985/fC7_3Qky_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/861419895673769985/fC7_3Qky_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70185181/1462721867",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lz1vAMv686",
+                    "expanded_url": "https://link.medium.com/t06YTvaq4T",
+                    "display_url": "link.medium.com/t06YTvaq4T",
+                    "indices": [
+                        63,
+                        86
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610568932"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:23:11 +0000 2019",
+        "id": 1093772212312653824,
+        "id_str": "1093772212312653824",
+        "text": "How AI and Machine Learning are conquering the world. #artificialintelligence #machinelearning https://t.co/npAmNDWjvG",
+        "display_text_range": [
+            0,
+            94
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1935424784,
+            "id_str": "1935424784",
+            "name": "StartupTalky",
+            "screen_name": "startuptalky",
+            "location": "Bengaluru, India",
+            "url": "http://www.startuptalky.com",
+            "description": "StartupTalky is one of the largest and lively communities for entrepreneurs to connect with like minded entrepreneurs, learn and grow together.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 287,
+            "friends_count": 644,
+            "listed_count": 5,
+            "favourites_count": 70,
+            "statuses_count": 597,
+            "created_at": "Fri Oct 04 20:36:51 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "F96C13",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091605432785928192/HnMpN2KI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091605432785928192/HnMpN2KI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935424784/1548923548",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "artificialintelligence",
+                    "indices": [
+                        54,
+                        77
+                    ]
+                },
+                {
+                    "text": "machinelearning",
+                    "indices": [
+                        78,
+                        94
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1093772177084764162,
+                    "id_str": "1093772177084764162",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3cAABX0AIwa4l.png",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3cAABX0AIwa4l.png",
+                    "url": "https://t.co/npAmNDWjvG",
+                    "display_url": "pic.twitter.com/npAmNDWjvG",
+                    "expanded_url": "https://twitter.com/startuptalky/status/1093772212312653824/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1357,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 795,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1093772177084764162,
+                    "id_str": "1093772177084764162",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3cAABX0AIwa4l.png",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3cAABX0AIwa4l.png",
+                    "url": "https://t.co/npAmNDWjvG",
+                    "display_url": "pic.twitter.com/npAmNDWjvG",
+                    "expanded_url": "https://twitter.com/startuptalky/status/1093772212312653824/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1357,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 795,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610591377"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:23:28 +0000 2019",
+        "id": 1093772283758268416,
+        "id_str": "1093772283758268416",
+        "text": "RT @HPCwire: Entire industries, too, such as oil and gas, are reorienting their business models to accommodate how AI and machine learning\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 992302615177248770,
+            "id_str": "992302615177248770",
+            "name": "Joseph Hsieh",
+            "screen_name": "JosephHsieh6",
+            "location": "Heidelberg, Deutschland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 118,
+            "friends_count": 162,
+            "listed_count": 0,
+            "favourites_count": 9926,
+            "statuses_count": 10455,
+            "created_at": "Fri May 04 07:19:14 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/993412741636415488/UdQZC34O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/993412741636415488/UdQZC34O_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/992302615177248770/1525683029",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Oct 26 16:36:14 +0000 2018",
+            "id": 1055860666773336064,
+            "id_str": "1055860666773336064",
+            "text": "Entire industries, too, such as oil and gas, are reorienting their business models to accommodate how AI and machin\u2026 https://t.co/Eo4lEn1jeT",
+            "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 26057108,
+                "id_str": "26057108",
+                "name": "HPCwire",
+                "screen_name": "HPCwire",
+                "location": "San Diego, CA",
+                "url": "http://www.hpcwire.com/",
+                "description": "@TomTaborHPC @JRussonHPC @TiffanyTrader",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 15142,
+                "friends_count": 348,
+                "listed_count": 743,
+                "favourites_count": 415,
+                "statuses_count": 17687,
+                "created_at": "Mon Mar 23 18:22:16 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "1F4684",
+                "profile_sidebar_fill_color": "E5E5E5",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/108814485/hpcwireavatar_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/108814485/hpcwireavatar_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/26057108/1509657096",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Entire industries, too, such as oil and gas, are reorienting their business models to accommodate how AI and machine learning are changing their game.\n\nYet making AI a realistic part of your company\u2019s IT strategy requires a comprehensive, purpose-built portfolio for AI.",
+                "display_text_range": [
+                    0,
+                    270
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 8,
+            "reply_count": 19,
+            "retweet_count": 623,
+            "favorite_count": 8490,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Eo4lEn1jeT",
+                        "expanded_url": "https://twitter.com/i/web/status/1055860666773336064",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "scopes": {
+                "followers": false
+            },
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HPCwire",
+                    "name": "HPCwire",
+                    "id": 26057108,
+                    "id_str": "26057108",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610608411"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:23:32 +0000 2019",
+        "id": 1093772300023984129,
+        "id_str": "1093772300023984129",
+        "text": "New top story on Hacker News: Nurx Is Hiring a Head of Machine Learning https://t.co/IOMTB76zpx\u2026 https://t.co/W4P2qt4Ucz",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 395820312,
+            "id_str": "395820312",
+            "name": "News towers",
+            "screen_name": "newstowers1",
+            "location": "New York, USA",
+            "url": "http://www.newstowers.com.ng",
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 20,
+            "friends_count": 61,
+            "listed_count": 0,
+            "favourites_count": 14,
+            "statuses_count": 2745,
+            "created_at": "Sat Oct 22 09:16:24 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1081861435116998656/exrshh_U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081861435116998656/exrshh_U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/395820312/1546770914",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "New top story on Hacker News: Nurx Is Hiring a Head of Machine Learning https://t.co/IOMTB76zpx https://t.co/cijHfzL08R https://t.co/ChDpqZSlgr",
+            "display_text_range": [
+                0,
+                119
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IOMTB76zpx",
+                        "expanded_url": "http://bit.ly/2BqCbLo",
+                        "display_url": "bit.ly/2BqCbLo",
+                        "indices": [
+                            72,
+                            95
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/cijHfzL08R",
+                        "expanded_url": "http://www.newstowers.com.ng",
+                        "display_url": "newstowers.com.ng",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1093772299868794880,
+                        "id_str": "1093772299868794880",
+                        "indices": [
+                            120,
+                            143
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3cHJbXcAAmc-T.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3cHJbXcAAmc-T.jpg",
+                        "url": "https://t.co/ChDpqZSlgr",
+                        "display_url": "pic.twitter.com/ChDpqZSlgr",
+                        "expanded_url": "https://twitter.com/newstowers1/status/1093772300023984129/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 420,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 494,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 494,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093772299868794880,
+                        "id_str": "1093772299868794880",
+                        "indices": [
+                            120,
+                            143
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3cHJbXcAAmc-T.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3cHJbXcAAmc-T.jpg",
+                        "url": "https://t.co/ChDpqZSlgr",
+                        "display_url": "pic.twitter.com/ChDpqZSlgr",
+                        "expanded_url": "https://twitter.com/newstowers1/status/1093772300023984129/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 420,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 494,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 494,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IOMTB76zpx",
+                    "expanded_url": "http://bit.ly/2BqCbLo",
+                    "display_url": "bit.ly/2BqCbLo",
+                    "indices": [
+                        72,
+                        95
+                    ]
+                },
+                {
+                    "url": "https://t.co/W4P2qt4Ucz",
+                    "expanded_url": "https://twitter.com/i/web/status/1093772300023984129",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610612289"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:23:56 +0000 2019",
+        "id": 1093772399525257217,
+        "id_str": "1093772399525257217",
+        "text": "RT @freakonometrics: \"Fondations of Machine Learning\" part 2 https://t.co/YSc2e4x5Cv (a little bit theoretical, on \"learnable\" functions, o\u2026",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1015251239460921350,
+            "id_str": "1015251239460921350",
+            "name": "Bedabrata Choudhury",
+            "screen_name": "BedabrataChoud1",
+            "location": "Los Angeles, CA",
+            "url": null,
+            "description": "Computer Science Student. Retweets(and tweets) are semi-serious. \ud83e\udd16\ud83e\udd16",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 73,
+            "friends_count": 630,
+            "listed_count": 0,
+            "favourites_count": 1594,
+            "statuses_count": 392,
+            "created_at": "Fri Jul 06 15:08:52 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1077811790392700928/4Si2d-PK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077811790392700928/4Si2d-PK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015251239460921350/1548133763",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Feb 08 03:20:39 +0000 2019",
+            "id": 1093711179166420992,
+            "id_str": "1093711179166420992",
+            "text": "\"Fondations of Machine Learning\" part 2 https://t.co/YSc2e4x5Cv (a little bit theoretical, on \"learnable\" functions\u2026 https://t.co/VVQlUO4WPy",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": 1092969716170117120,
+            "in_reply_to_status_id_str": "1092969716170117120",
+            "in_reply_to_user_id": 105530526,
+            "in_reply_to_user_id_str": "105530526",
+            "in_reply_to_screen_name": "freakonometrics",
+            "user": {
+                "id": 105530526,
+                "id_str": "105530526",
+                "name": "Arthur Charpentier \u2744",
+                "screen_name": "freakonometrics",
+                "location": "Montr\u00e9al, Qu\u00e9bec",
+                "url": "https://freakonometrics.github.io/",
+                "description": "Artisan de la donn\u00e9e. Surreptitious economist & born-again mathematician. Fellow actuary & (coffee and) data addict.  Professor & researcher in Montr\u00e9al, Canada",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 23799,
+                "friends_count": 12382,
+                "listed_count": 1222,
+                "favourites_count": 22034,
+                "statuses_count": 51986,
+                "created_at": "Sat Jan 16 16:46:15 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "554E5C",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_tile": true,
+                "profile_link_color": "587D83",
+                "profile_sidebar_border_color": "F4F3C8",
+                "profile_sidebar_fill_color": "A8CFB9",
+                "profile_text_color": "5BABAA",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/947792239501160448/HUFZgVrV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/947792239501160448/HUFZgVrV_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/105530526/1483826733",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\"Fondations of Machine Learning\" part 2 https://t.co/YSc2e4x5Cv (a little bit theoretical, on \"learnable\" functions, oracle, and PAC...) Next time, we'll talk about iterative learning...",
+                "display_text_range": [
+                    0,
+                    186
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/YSc2e4x5Cv",
+                            "expanded_url": "https://freakonometrics.hypotheses.org/57745",
+                            "display_url": "freakonometrics.hypotheses.org/57745",
+                            "indices": [
+                                40,
+                                63
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YSc2e4x5Cv",
+                        "expanded_url": "https://freakonometrics.hypotheses.org/57745",
+                        "display_url": "freakonometrics.hypotheses.org/57745",
+                        "indices": [
+                            40,
+                            63
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/VVQlUO4WPy",
+                        "expanded_url": "https://twitter.com/i/web/status/1093711179166420992",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YSc2e4x5Cv",
+                    "expanded_url": "https://freakonometrics.hypotheses.org/57745",
+                    "display_url": "freakonometrics.hypotheses.org/57745",
+                    "indices": [
+                        61,
+                        84
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "freakonometrics",
+                    "name": "Arthur Charpentier \u2744",
+                    "id": 105530526,
+                    "id_str": "105530526",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610636012"
+    }
+    ]
+    

@@ -1,0 +1,1900 @@
+[
+    {
+        "created_at": "Wed Oct 17 06:46:22 +0000 2018",
+        "id": 1052450732069318656,
+        "id_str": "1052450732069318656",
+        "text": "Scuffles Break Out at Indian Temple Town Over Entry of Menstrual Age Women https://t.co/DlFIksecJM #iverIn\u2026 https://t.co/GQ9zdyW7B6",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41552379,
+            "id_str": "41552379",
+            "name": "CityFXbroker \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+            "screen_name": "iversue",
+            "location": "London",
+            "url": "https://twitter.com/iversue",
+            "description": "I help\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbbcomps&ppl handle their FX\ud83d\udcb6\ud83d\udcb4\ud83d\udcb5\ud83d\udcb7Forward Hedging\u2795\ud83d\udcb3 I love fashion,food,art and NEWTECH!#data #btc #AI #citywomen #friendly #lifestyle #biz\ud83d\ude0e",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1184,
+            "friends_count": 1179,
+            "listed_count": 15,
+            "favourites_count": 79,
+            "statuses_count": 4799,
+            "created_at": "Thu May 21 08:27:13 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "4B0082",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/474627269017616384/PCKea0TX_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/474627269017616384/PCKea0TX_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41552379/1401993729",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Scuffles Break Out at Indian Temple Town Over Entry of Menstrual Age Women https://t.co/DlFIksecJM #iverIn #ivercity October 16, 2018 at 09:42PM #yOgA #citywomen https://t.co/cpvhskCwBp",
+            "display_text_range": [
+                0,
+                161
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "iverIn",
+                        "indices": [
+                            99,
+                            106
+                        ]
+                    },
+                    {
+                        "text": "ivercity",
+                        "indices": [
+                            107,
+                            116
+                        ]
+                    },
+                    {
+                        "text": "yOgA",
+                        "indices": [
+                            145,
+                            150
+                        ]
+                    },
+                    {
+                        "text": "citywomen",
+                        "indices": [
+                            151,
+                            161
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/DlFIksecJM",
+                        "expanded_url": "https://www.nytimes.com/reuters/2018/10/17/world/asia/17reuters-india-court-temple.html?partner=IFTTT",
+                        "display_url": "nytimes.com/reuters/2018/1\u2026",
+                        "indices": [
+                            75,
+                            98
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1052450731490496513,
+                        "id_str": "1052450731490496513",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DpsOXToXUAER2Nw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DpsOXToXUAER2Nw.jpg",
+                        "url": "https://t.co/cpvhskCwBp",
+                        "display_url": "pic.twitter.com/cpvhskCwBp",
+                        "expanded_url": "https://twitter.com/iversue/status/1052450732069318656/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 538,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 357,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 538,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1052450731490496513,
+                        "id_str": "1052450731490496513",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DpsOXToXUAER2Nw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DpsOXToXUAER2Nw.jpg",
+                        "url": "https://t.co/cpvhskCwBp",
+                        "display_url": "pic.twitter.com/cpvhskCwBp",
+                        "expanded_url": "https://twitter.com/iversue/status/1052450732069318656/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 538,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 357,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 538,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "iverIn",
+                    "indices": [
+                        99,
+                        106
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DlFIksecJM",
+                    "expanded_url": "https://www.nytimes.com/reuters/2018/10/17/world/asia/17reuters-india-court-temple.html?partner=IFTTT",
+                    "display_url": "nytimes.com/reuters/2018/1\u2026",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                },
+                {
+                    "url": "https://t.co/GQ9zdyW7B6",
+                    "expanded_url": "https://twitter.com/i/web/status/1052450732069318656",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758782771"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:32 +0000 2018",
+        "id": 1052450773219590145,
+        "id_str": "1052450773219590145",
+        "text": "Trail run with the pooch and yoga. \n*breeeeeaaatheeeeee*",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 293440597,
+            "id_str": "293440597",
+            "name": "J",
+            "screen_name": "Adventurooga",
+            "location": "United Kingdom",
+            "url": null,
+            "description": "Health Consultant by day; Adventurer, Snowboarder, Traveller, Climber, and Cyclist by night.  \"If I had a hammer I'd smash the patriarchy\".",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 330,
+            "friends_count": 250,
+            "listed_count": 11,
+            "favourites_count": 497,
+            "statuses_count": 19043,
+            "created_at": "Thu May 05 10:50:45 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026841984340779008/hxONdAKu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026841984340779008/hxONdAKu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/293440597/1364157011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758792582"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:34 +0000 2018",
+        "id": 1052450781071376385,
+        "id_str": "1052450781071376385",
+        "text": "@TradesTalk A bit of yoga #TradesTalk",
+        "display_text_range": [
+            12,
+            37
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1052440381340696582,
+        "in_reply_to_status_id_str": "1052440381340696582",
+        "in_reply_to_user_id": 856863015068676096,
+        "in_reply_to_user_id_str": "856863015068676096",
+        "in_reply_to_screen_name": "TradesTalk",
+        "user": {
+            "id": 767738190572683266,
+            "id_str": "767738190572683266",
+            "name": "PlumbMaid",
+            "screen_name": "plumbmaid",
+            "location": "Cornwall",
+            "url": "http://www.plumbmaid.co.uk",
+            "description": "Plumbing & Heating work from qualified plumber and artist. Gas work with Peter Jones Plumbing & Heating #wras #insured #dbs #domestic #commercial #gassafe",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 680,
+            "friends_count": 800,
+            "listed_count": 15,
+            "favourites_count": 2943,
+            "statuses_count": 1292,
+            "created_at": "Mon Aug 22 15:00:23 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/767739949630296064/MlYJ_ozW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/767739949630296064/MlYJ_ozW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/767738190572683266/1471878627",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TradesTalk",
+                    "indices": [
+                        26,
+                        37
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TradesTalk",
+                    "name": "#TradesTalk",
+                    "id": 856863015068676096,
+                    "id_str": "856863015068676096",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758794454"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:36 +0000 2018",
+        "id": 1052450789770387460,
+        "id_str": "1052450789770387460",
+        "text": "RT @KripaSh65065519: #UniqueWayToMendYoungMinds\nhttps://t.co/qoZfS8NPHt\n\nToday's young generation seems to be very exhausted with work and\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3505933886,
+            "id_str": "3505933886",
+            "name": "Kokila Bhatnagar",
+            "screen_name": "KokilaBhatnagar",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 821,
+            "friends_count": 308,
+            "listed_count": 4,
+            "favourites_count": 30292,
+            "statuses_count": 25502,
+            "created_at": "Wed Sep 09 16:16:09 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701010584049836032/2m8QADhJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701010584049836032/2m8QADhJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3505933886/1472196752",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 12:53:18 +0000 2018",
+            "id": 1052180683463041025,
+            "id_str": "1052180683463041025",
+            "text": "#UniqueWayToMendYoungMinds\nhttps://t.co/qoZfS8NPHt\n\nToday's young generation seems to be very exhausted with work a\u2026 https://t.co/eydtmSIMDN",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1050662468765212677,
+                "id_str": "1050662468765212677",
+                "name": "Kripa Sharma",
+                "screen_name": "KripaSh65065519",
+                "location": null,
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 11,
+                "friends_count": 97,
+                "listed_count": 0,
+                "favourites_count": 193,
+                "statuses_count": 219,
+                "created_at": "Fri Oct 12 08:20:27 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "#UniqueWayToMendYoungMinds\nhttps://t.co/qoZfS8NPHt\n\nToday's young generation seems to be very exhausted with work and studies pressure. This Diwali Shivir will help one get rid of mental and physical and attain peace by doing meditation and yoga taught by Sant Shri Asharamji Bapu",
+                "display_text_range": [
+                    0,
+                    280
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "UniqueWayToMendYoungMinds",
+                            "indices": [
+                                0,
+                                26
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/qoZfS8NPHt",
+                            "expanded_url": "https://youtu.be/Sy9CzNxG2FE",
+                            "display_url": "youtu.be/Sy9CzNxG2FE",
+                            "indices": [
+                                27,
+                                50
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 14,
+            "retweet_count": 28,
+            "favorite_count": 29,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "UniqueWayToMendYoungMinds",
+                        "indices": [
+                            0,
+                            26
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/qoZfS8NPHt",
+                        "expanded_url": "https://youtu.be/Sy9CzNxG2FE",
+                        "display_url": "youtu.be/Sy9CzNxG2FE",
+                        "indices": [
+                            27,
+                            50
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/eydtmSIMDN",
+                        "expanded_url": "https://twitter.com/i/web/status/1052180683463041025",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "UniqueWayToMendYoungMinds",
+                    "indices": [
+                        21,
+                        47
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/qoZfS8NPHt",
+                    "expanded_url": "https://youtu.be/Sy9CzNxG2FE",
+                    "display_url": "youtu.be/Sy9CzNxG2FE",
+                    "indices": [
+                        48,
+                        71
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "KripaSh65065519",
+                    "name": "Kripa Sharma",
+                    "id": 1050662468765212677,
+                    "id_str": "1050662468765212677",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758796528"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:41 +0000 2018",
+        "id": 1052450808665661440,
+        "id_str": "1052450808665661440",
+        "text": "Good luck @magnetize - looking forward to supporting this with Kate Percy\u2019s Go Bites. You\u2019ll get a pack at the end\u2026 https://t.co/3d4pseiA6Z",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18002497,
+            "id_str": "18002497",
+            "name": "Kate Percy\u2019s Go Faster Food",
+            "screen_name": "gofasterfood",
+            "location": "Bristol, UK",
+            "url": "http://www.gofasterfood.com",
+            "description": "Founded by Kate Percy. Find her delicious GoBites\u00ae & recipe books at http://www.gofasterfood.com @holland_barrett @Tesco @WHSmith. #RealFoodFuelsYouBetter\u00ae",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4771,
+            "friends_count": 3789,
+            "listed_count": 157,
+            "favourites_count": 11654,
+            "statuses_count": 10728,
+            "created_at": "Tue Dec 09 21:08:12 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "96CD36",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/920268449628282880/7hWdQsdu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/920268449628282880/7hWdQsdu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18002497/1533978906",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1010087544233562112,
+        "quoted_status_id_str": "1010087544233562112",
+        "quoted_status": {
+            "created_at": "Fri Jun 22 09:10:11 +0000 2018",
+            "id": 1010087544233562112,
+            "id_str": "1010087544233562112",
+            "text": "Natural History Museum (NHM): Sleepovers. Murder-mystery evenings. Yoga...\nhttps://t.co/rbzoSeq7ie\nFundraising:\nNHM\u2026 https://t.co/fQ3NvXDz2X",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 13532132,
+                "id_str": "13532132",
+                "name": "Abi Akanwo",
+                "screen_name": "magnetize",
+                "location": "England, UK",
+                "url": "http://laughsandmutterings.blogspot.co.uk/",
+                "description": "Covering : Computing, Engineering, Photography, Science, Technology (and their) Applications",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1732,
+                "friends_count": 2002,
+                "listed_count": 177,
+                "favourites_count": 3331,
+                "statuses_count": 8074,
+                "created_at": "Fri Feb 15 21:33:39 +0000 2008",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1034771342086885376/emi2ZZbG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034771342086885376/emi2ZZbG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/13532132/1535543640",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Natural History Museum (NHM): Sleepovers. Murder-mystery evenings. Yoga...\nhttps://t.co/rbzoSeq7ie\nFundraising:\nNHM: Race for nature\n\"10k run around Hyde Park to support the Museum's vital work.\"\nhttps://t.co/PCd3Db5kGP\n20 Oct.\n#naturalhistorymuseum #events",
+                "display_text_range": [
+                    0,
+                    257
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "naturalhistorymuseum",
+                            "indices": [
+                                228,
+                                249
+                            ]
+                        },
+                        {
+                            "text": "events",
+                            "indices": [
+                                250,
+                                257
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/rbzoSeq7ie",
+                            "expanded_url": "http://www.nhm.ac.uk/visit/exhibitions/events.html?utm_content=header-cta&utm_campaign=evening-events&utm_medium=email&utm_source=1213318_ma-events-afterhours-20180621&dm_i=2XEG,Q07A,3ZNXFV,2NFFP,1",
+                            "display_url": "nhm.ac.uk/visit/exhibiti\u2026",
+                            "indices": [
+                                75,
+                                98
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/PCd3Db5kGP",
+                            "expanded_url": "http://www.nhm.ac.uk/events/race-for-nature.html?utm_content=pod4-cta&utm_campaign=race-for-nature&utm_medium=email&utm_source=1213318_ma-events-afterhours-20180621&dm_i=2XEG,Q07A,3ZNXFV,2NFFP,1",
+                            "display_url": "nhm.ac.uk/events/race-fo\u2026",
+                            "indices": [
+                                196,
+                                219
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rbzoSeq7ie",
+                        "expanded_url": "http://www.nhm.ac.uk/visit/exhibitions/events.html?utm_content=header-cta&utm_campaign=evening-events&utm_medium=email&utm_source=1213318_ma-events-afterhours-20180621&dm_i=2XEG,Q07A,3ZNXFV,2NFFP,1",
+                        "display_url": "nhm.ac.uk/visit/exhibiti\u2026",
+                        "indices": [
+                            75,
+                            98
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/fQ3NvXDz2X",
+                        "expanded_url": "https://twitter.com/i/web/status/1010087544233562112",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/N7qV0LiZR1",
+            "expanded": "https://twitter.com/magnetize/status/1010087544233562112",
+            "display": "twitter.com/magnetize/stat\u2026"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Good luck @magnetize - looking forward to supporting this with Kate Percy\u2019s Go Bites. You\u2019ll get a pack at the end \ud83d\ude0a\ud83d\udc4d\ud83c\udffb",
+            "display_text_range": [
+                0,
+                118
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "magnetize",
+                        "name": "Abi Akanwo",
+                        "id": 13532132,
+                        "id_str": "13532132",
+                        "indices": [
+                            10,
+                            20
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3d4pseiA6Z",
+                    "expanded_url": "https://twitter.com/i/web/status/1052450808665661440",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "magnetize",
+                    "name": "Abi Akanwo",
+                    "id": 13532132,
+                    "id_str": "13532132",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758801033"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:46 +0000 2018",
+        "id": 1052450829947625474,
+        "id_str": "1052450829947625474",
+        "text": "Chilled view of the camp from the line-up \ud83d\ude0e\n#beachfrontsurfcamp \n#onthedoorstep \n#sionsurfcamp #surf #surfcamp\u2026 https://t.co/XZN6pEbmXG",
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2390400696,
+            "id_str": "2390400696",
+            "name": "Sion Surf Camp",
+            "screen_name": "sionsurflanka",
+            "location": "Ahangama, Sri Lanka",
+            "url": "http://www.sionsurfcamp.com",
+            "description": "Beach front surf camp, cafe and bar",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 385,
+            "friends_count": 280,
+            "listed_count": 1,
+            "favourites_count": 80,
+            "statuses_count": 119,
+            "created_at": "Sat Mar 15 04:38:23 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/509642658344472576/uQwn6N8X_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/509642658344472576/uQwn6N8X_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2390400696/1460871931",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                5.96502806,
+                80.37910938
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                80.37910938,
+                5.96502806
+            ]
+        },
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Chilled view of the camp from the line-up \ud83d\ude0e\n#beachfrontsurfcamp \n#onthedoorstep \n#sionsurfcamp #surf #surfcamp #surflessons #surfing # yoga  #beach #waves #holiday #SriLanka\u2026 https://t.co/6EdMAIRZYD",
+            "display_text_range": [
+                0,
+                198
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "beachfrontsurfcamp",
+                        "indices": [
+                            44,
+                            63
+                        ]
+                    },
+                    {
+                        "text": "onthedoorstep",
+                        "indices": [
+                            65,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "sionsurfcamp",
+                        "indices": [
+                            81,
+                            94
+                        ]
+                    },
+                    {
+                        "text": "surf",
+                        "indices": [
+                            95,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "surfcamp",
+                        "indices": [
+                            101,
+                            110
+                        ]
+                    },
+                    {
+                        "text": "surflessons",
+                        "indices": [
+                            111,
+                            123
+                        ]
+                    },
+                    {
+                        "text": "surfing",
+                        "indices": [
+                            124,
+                            132
+                        ]
+                    },
+                    {
+                        "text": "beach",
+                        "indices": [
+                            141,
+                            147
+                        ]
+                    },
+                    {
+                        "text": "waves",
+                        "indices": [
+                            148,
+                            154
+                        ]
+                    },
+                    {
+                        "text": "holiday",
+                        "indices": [
+                            155,
+                            163
+                        ]
+                    },
+                    {
+                        "text": "SriLanka",
+                        "indices": [
+                            164,
+                            173
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/6EdMAIRZYD",
+                        "expanded_url": "https://www.instagram.com/p/BpBlE85FgPs/?utm_source=ig_twitter_share&igshid=1mlqeiz2n4c3y",
+                        "display_url": "instagram.com/p/BpBlE85FgPs/\u2026",
+                        "indices": [
+                            175,
+                            198
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "beachfrontsurfcamp",
+                    "indices": [
+                        44,
+                        63
+                    ]
+                },
+                {
+                    "text": "onthedoorstep",
+                    "indices": [
+                        65,
+                        79
+                    ]
+                },
+                {
+                    "text": "sionsurfcamp",
+                    "indices": [
+                        81,
+                        94
+                    ]
+                },
+                {
+                    "text": "surf",
+                    "indices": [
+                        95,
+                        100
+                    ]
+                },
+                {
+                    "text": "surfcamp",
+                    "indices": [
+                        101,
+                        110
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/XZN6pEbmXG",
+                    "expanded_url": "https://twitter.com/i/web/status/1052450829947625474",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758806107"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:49 +0000 2018",
+        "id": 1052450843830743040,
+        "id_str": "1052450843830743040",
+        "text": "gangbang my wife greek sex amateur milf cock cum teen pov big butts yoga fuck upskirt fuck hot free porn romantic p\u2026 https://t.co/Nwgbw4DERr",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1051931776896065536,
+            "id_str": "1051931776896065536",
+            "name": "Sarah Bobo",
+            "screen_name": "SarahBo69261287",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 0,
+            "friends_count": 0,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 21,
+            "created_at": "Mon Oct 15 20:24:14 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051943129425694721/8Dkmzzlk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051943129425694721/8Dkmzzlk_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "gangbang my wife greek sex amateur milf cock cum teen pov big butts yoga fuck upskirt fuck hot free porn romantic porn electro orgasm indian couple sex https://t.co/jmUdbCVBjw",
+            "display_text_range": [
+                0,
+                175
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1034756626299924481,
+                        "id_str": "1034756626299924481",
+                        "indices": [
+                            152,
+                            175
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1034756626299924481/pu/img/cFq9hkkyfKRo_VZR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1034756626299924481/pu/img/cFq9hkkyfKRo_VZR.jpg",
+                        "url": "https://t.co/jmUdbCVBjw",
+                        "display_url": "pic.twitter.com/jmUdbCVBjw",
+                        "expanded_url": "https://twitter.com/xdategirl/status/1034756834379411456/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 14000,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/1280x720/wLzxnziSOJq_Cnj2.mp4?tag=5"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/640x360/KeZjehOpykTyAdFO.mp4?tag=5"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/pl/jXsQrMXn_Ecje8k1.m3u8?tag=5"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/320x180/Cbp8q9__M-JL4mzJ.mp4?tag=5"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1034756834379411456,
+                        "source_status_id_str": "1034756834379411456",
+                        "source_user_id": 1027281872982880260,
+                        "source_user_id_str": "1027281872982880260"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1034756626299924481,
+                        "id_str": "1034756626299924481",
+                        "indices": [
+                            152,
+                            175
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1034756626299924481/pu/img/cFq9hkkyfKRo_VZR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1034756626299924481/pu/img/cFq9hkkyfKRo_VZR.jpg",
+                        "url": "https://t.co/jmUdbCVBjw",
+                        "display_url": "pic.twitter.com/jmUdbCVBjw",
+                        "expanded_url": "https://twitter.com/xdategirl/status/1034756834379411456/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 14000,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/1280x720/wLzxnziSOJq_Cnj2.mp4?tag=5"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/640x360/KeZjehOpykTyAdFO.mp4?tag=5"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/pl/jXsQrMXn_Ecje8k1.m3u8?tag=5"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1034756626299924481/pu/vid/320x180/Cbp8q9__M-JL4mzJ.mp4?tag=5"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1034756834379411456,
+                        "source_status_id_str": "1034756834379411456",
+                        "source_user_id": 1027281872982880260,
+                        "source_user_id_str": "1027281872982880260"
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Nwgbw4DERr",
+                    "expanded_url": "https://twitter.com/i/web/status/1052450843830743040",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758809417"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:50 +0000 2018",
+        "id": 1052450849224560640,
+        "id_str": "1052450849224560640",
+        "text": "RT @HareKrishna_hkr: Bhakti yoga is aimed at going back to Godhead &amp; entering His special planet in order to render loving service to the S\u2026",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 75514149,
+            "id_str": "75514149",
+            "name": "GoodLord God Krishna",
+            "screen_name": "krish4ever",
+            "location": "New Delhi, India",
+            "url": "http://lord-kalki.blogspot.in/",
+            "description": "For I am the Lord & the Lord am I. Not kidding. Try me out. I am all yours. Fully. Love of God & God of Love, The Only One, Krishna (Kalyug ka Kishen - KALKI)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1852,
+            "friends_count": 2185,
+            "listed_count": 111,
+            "favourites_count": 2071,
+            "statuses_count": 4718,
+            "created_at": "Sat Sep 19 09:28:37 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3020850925/839bc4d502f5791c220ffbaa7a409e80_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3020850925/839bc4d502f5791c220ffbaa7a409e80_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75514149/1355644991",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 13 09:27:34 +0000 2018",
+            "id": 1006830426000769024,
+            "id_str": "1006830426000769024",
+            "text": "Bhakti yoga is aimed at going back to Godhead &amp; entering His special planet in order to render loving service to th\u2026 https://t.co/lEaiUMgrdy",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 296180211,
+                "id_str": "296180211",
+                "name": "HareKrsnaRevolution",
+                "screen_name": "HareKrishna_hkr",
+                "location": "Mumbai, India",
+                "url": "http://HareKrishnaRevolution.wordpress.com",
+                "description": "Putting Krishna In The Centre - Our activities are guided by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada - Activities managed by Niraj Bidawatka",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 6774,
+                "friends_count": 18,
+                "listed_count": 28,
+                "favourites_count": 93,
+                "statuses_count": 2045,
+                "created_at": "Tue May 10 10:08:38 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "0099CC",
+                "profile_sidebar_border_color": "FFF8AD",
+                "profile_sidebar_fill_color": "F6FFD1",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1346763536/CM2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346763536/CM2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/296180211/1401565201",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Bhakti yoga is aimed at going back to Godhead &amp; entering His special planet in order to render loving service to the Supreme Lord. https://t.co/YZJ1P18Q4u",
+                "display_text_range": [
+                    0,
+                    134
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1006830407889743872,
+                            "id_str": "1006830407889743872",
+                            "indices": [
+                                135,
+                                158
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dfj66-tUcAAzjaP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dfj66-tUcAAzjaP.jpg",
+                            "url": "https://t.co/YZJ1P18Q4u",
+                            "display_url": "pic.twitter.com/YZJ1P18Q4u",
+                            "expanded_url": "https://twitter.com/HareKrishna_hkr/status/1006830426000769024/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 800,
+                                    "h": 592,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 800,
+                                    "h": 592,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 503,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1006830407889743872,
+                            "id_str": "1006830407889743872",
+                            "indices": [
+                                135,
+                                158
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dfj66-tUcAAzjaP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dfj66-tUcAAzjaP.jpg",
+                            "url": "https://t.co/YZJ1P18Q4u",
+                            "display_url": "pic.twitter.com/YZJ1P18Q4u",
+                            "expanded_url": "https://twitter.com/HareKrishna_hkr/status/1006830426000769024/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 800,
+                                    "h": 592,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 800,
+                                    "h": 592,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 503,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 18,
+            "favorite_count": 62,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lEaiUMgrdy",
+                        "expanded_url": "https://twitter.com/i/web/status/1006830426000769024",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HareKrishna_hkr",
+                    "name": "HareKrsnaRevolution",
+                    "id": 296180211,
+                    "id_str": "296180211",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758810703"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:46:57 +0000 2018",
+        "id": 1052450876047220736,
+        "id_str": "1052450876047220736",
+        "text": "public sex blowjob japanese asian lesbians make out and strip naked yoga pants getting fucked kashmiri  https://t.co/ECi6EV4Ous",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3392264247,
+            "id_str": "3392264247",
+            "name": "Elina",
+            "screen_name": "evgeniuspetrov",
+            "location": "Rio de Janeiro, Brasil",
+            "url": "https://goo.gl/EB8HPi",
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 699,
+            "friends_count": 0,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 30640,
+            "created_at": "Tue Jul 28 16:40:21 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "ru",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1046303145830359040/N4w7Pd8I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046303145830359040/N4w7Pd8I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3392264247/1538293062",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1047440609861144577,
+                    "id_str": "1047440609861144577",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DolBr2IXkAEzW3k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DolBr2IXkAEzW3k.jpg",
+                    "url": "https://t.co/ECi6EV4Ous",
+                    "display_url": "pic.twitter.com/ECi6EV4Ous",
+                    "expanded_url": "https://twitter.com/evgeniuspetrov/status/1047440627569512449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1365,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1047440627569512449,
+                    "source_status_id_str": "1047440627569512449",
+                    "source_user_id": 3392264247,
+                    "source_user_id_str": "3392264247"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1047440609861144577,
+                    "id_str": "1047440609861144577",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DolBr2IXkAEzW3k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DolBr2IXkAEzW3k.jpg",
+                    "url": "https://t.co/ECi6EV4Ous",
+                    "display_url": "pic.twitter.com/ECi6EV4Ous",
+                    "expanded_url": "https://twitter.com/evgeniuspetrov/status/1047440627569512449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1365,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1047440627569512449,
+                    "source_status_id_str": "1047440627569512449",
+                    "source_user_id": 3392264247,
+                    "source_user_id_str": "3392264247"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758817098"
+    } ,
+    {
+        "created_at": "Wed Oct 17 06:47:02 +0000 2018",
+        "id": 1052450899279454210,
+        "id_str": "1052450899279454210",
+        "text": "Living the creative life is so much more than pushing paint on the page!  ... https://t.co/dRCmpSBRij",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 253424247,
+            "id_str": "253424247",
+            "name": "Kathryn Sturges",
+            "screen_name": "kathrynsturges",
+            "location": "Des Moines, IA",
+            "url": "http://www.kathrynsturges.com",
+            "description": "I love to blog about spirituality and art! Stop by my website for inspiration and tutorials for artists.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1638,
+            "friends_count": 1518,
+            "listed_count": 37,
+            "favourites_count": 1058,
+            "statuses_count": 928,
+            "created_at": "Thu Feb 17 06:21:44 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1044431897651163136/Pd_j-_Dc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044431897651163136/Pd_j-_Dc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/253424247/1537846906",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dRCmpSBRij",
+                    "expanded_url": "http://www.kathrynsturges.com/home/2018/10/13/moving-my-body-with-yoga",
+                    "display_url": "kathrynsturges.com/home/2018/10/1\u2026",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1539758822637"
+    }
+    ]
+    

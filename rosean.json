@@ -1,0 +1,2078 @@
+[
+    {
+        "created_at": "Tue Oct 16 16:15:20 +0000 2018",
+        "id": 1052231527453487105,
+        "id_str": "1052231527453487105",
+        "text": "@skhxxbi131 Gak percaya",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "skhxxbi131",
+                    "name": "Hanbin",
+                    "id": 908396854634676224,
+                    "id_str": "908396854634676224",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052209930474643457,
+        "in_reply_to_status_id_str": "1052209930474643457",
+        "in_reply_to_user_id": 908396854634676224,
+        "in_reply_to_user_id_str": "908396854634676224",
+        "in_reply_to_screen_name": "skhxxbi131",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 14:07:46 +0000 2018",
+        "id": 1052199423457910784,
+        "id_str": "1052199423457910784",
+        "text": "Gue mau hibernasi. Bye all",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 14:07:24 +0000 2018",
+        "id": 1052199333410426881,
+        "id_str": "1052199333410426881",
+        "text": "( guys gausa temenin Rena sampe dia selese ngerjain PR )",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:44:48 +0000 2018",
+        "id": 1052193646685052928,
+        "id_str": "1052193646685052928",
+        "text": "Gatau kalo no mt sobat",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052193602745524225,
+        "in_reply_to_status_id_str": "1052193602745524225",
+        "in_reply_to_user_id": 901139471315247104,
+        "in_reply_to_user_id_str": "901139471315247104",
+        "in_reply_to_screen_name": "ROSEANNE1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:44:38 +0000 2018",
+        "id": 1052193602745524225,
+        "id_str": "1052193602745524225",
+        "text": "Mon maap",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "nl"
+    },
+    {
+        "created_at": "Tue Oct 16 13:44:12 +0000 2018",
+        "id": 1052193493597057024,
+        "id_str": "1052193493597057024",
+        "text": "@skhxxbi131 Sayang, sayang mau nanya. Sayang sebenernya sayang gak sama sayang? Soalnya sayang sayang banget sama s\u2026 https://t.co/Zlf1CI6EsV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "skhxxbi131",
+                    "name": "Hanbin",
+                    "id": 908396854634676224,
+                    "id_str": "908396854634676224",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Zlf1CI6EsV",
+                    "expanded_url": "https://twitter.com/i/web/status/1052193493597057024",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051791860753096704,
+        "in_reply_to_status_id_str": "1051791860753096704",
+        "in_reply_to_user_id": 908396854634676224,
+        "in_reply_to_user_id_str": "908396854634676224",
+        "in_reply_to_screen_name": "skhxxbi131",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:43:28 +0000 2018",
+        "id": 1052193311019003904,
+        "id_str": "1052193311019003904",
+        "text": "@JIHOON1TES Jihoon kita jarang ngobrol ya",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JIHOON1TES",
+                    "name": "Jihoon.",
+                    "id": 824916519742115840,
+                    "id_str": "824916519742115840",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052154078019473408,
+        "in_reply_to_status_id_str": "1052154078019473408",
+        "in_reply_to_user_id": 824916519742115840,
+        "in_reply_to_user_id_str": "824916519742115840",
+        "in_reply_to_screen_name": "JIHOON1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:43:15 +0000 2018",
+        "id": 1052193257118097420,
+        "id_str": "1052193257118097420",
+        "text": "@BINNIE1TES BIAR JODOH",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BINNIE1TES",
+                    "name": "\u212c.",
+                    "id": 820194510386831360,
+                    "id_str": "820194510386831360",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052161911033217025,
+        "in_reply_to_status_id_str": "1052161911033217025",
+        "in_reply_to_user_id": 820194510386831360,
+        "in_reply_to_user_id_str": "820194510386831360",
+        "in_reply_to_screen_name": "BINNIE1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:43:04 +0000 2018",
+        "id": 1052193209797902339,
+        "id_str": "1052193209797902339",
+        "text": "@JAE1TES Apakah ini Jae baru atau Jae lama yang pindah akun?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JAE1TES",
+                    "name": "\uc81c\uc774\ubc15",
+                    "id": 980047367863861248,
+                    "id_str": "980047367863861248",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052168259804454912,
+        "in_reply_to_status_id_str": "1052168259804454912",
+        "in_reply_to_user_id": 980047367863861248,
+        "in_reply_to_user_id_str": "980047367863861248",
+        "in_reply_to_screen_name": "JAE1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:42:47 +0000 2018",
+        "id": 1052193137244815360,
+        "id_str": "1052193137244815360",
+        "text": "RT @MINHYUN1TES: Rena kunaon",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MINHYUN1TES",
+                    "name": "Minhyun",
+                    "id": 1622494652,
+                    "id_str": "1622494652",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Oct 16 13:42:24 +0000 2018",
+            "id": 1052193041589497856,
+            "id_str": "1052193041589497856",
+            "text": "Rena kunaon",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1622494652,
+                "id_str": "1622494652",
+                "name": "Minhyun",
+                "screen_name": "MINHYUN1TES",
+                "location": "On The Corner Where You Live",
+                "description": "[RP/1995] He's the definition of an angel disguised as human becoming Hwang Minhyun, who has talent to capture your heart. Affiliated with NU'EST and Wanna One.",
+                "url": "https://t.co/Gts2FTwqYi",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Gts2FTwqYi",
+                                "expanded_url": "https://twitter.com/wannaone_twt",
+                                "display_url": "twitter.com/wannaone_twt",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 231,
+                "friends_count": 40,
+                "listed_count": 1,
+                "created_at": "Fri Jul 26 09:11:14 +0000 2013",
+                "favourites_count": 905,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 16996,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1052165072741576705/4M6GoFSa_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052165072741576705/4M6GoFSa_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622494652/1538726575",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tl"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tl"
+    },
+    {
+        "created_at": "Tue Oct 16 13:42:42 +0000 2018",
+        "id": 1052193115300220928,
+        "id_str": "1052193115300220928",
+        "text": "@RENA1TES Km kok ngelunjak!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052192868733861888,
+        "in_reply_to_status_id_str": "1052192868733861888",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Oct 16 13:41:38 +0000 2018",
+        "id": 1052192847091257344,
+        "id_str": "1052192847091257344",
+        "text": "@KYULKYUNG1TES Arigathanks gozaimuch",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KYULKYUNG1TES",
+                    "name": "kyulkyung",
+                    "id": 954864082024243200,
+                    "id_str": "954864082024243200",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052192037456367617,
+        "in_reply_to_status_id_str": "1052192037456367617",
+        "in_reply_to_user_id": 954864082024243200,
+        "in_reply_to_user_id_str": "954864082024243200",
+        "in_reply_to_screen_name": "KYULKYUNG1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Oct 16 13:41:14 +0000 2018",
+        "id": 1052192749666021376,
+        "id_str": "1052192749666021376",
+        "text": "@RENA1TES Mon maap lg hiatus",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1052192505070927872,
+        "in_reply_to_status_id_str": "1052192505070927872",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Mon Oct 15 13:57:36 +0000 2018",
+        "id": 1051834478186754048,
+        "id_str": "1051834478186754048",
+        "text": "@DOYOUNG1TES Kamseupay. Iyuh iyuuh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DOYOUNG1TES",
+                    "name": "doy",
+                    "id": 935723644667551751,
+                    "id_str": "935723644667551751",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051795812127100928,
+        "in_reply_to_status_id_str": "1051795812127100928",
+        "in_reply_to_user_id": 935723644667551751,
+        "in_reply_to_user_id_str": "935723644667551751",
+        "in_reply_to_screen_name": "DOYOUNG1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Mon Oct 15 13:57:23 +0000 2018",
+        "id": 1051834422532571136,
+        "id_str": "1051834422532571136",
+        "text": "@NAKYUNG1TES HAHAHAHAHAHAHAHAHAHA. JAHAT BANGET DIBUANG, DISUMBANGIN AJA BIAR JADI PAHALA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NAKYUNG1TES",
+                    "name": "Nakko Lee.",
+                    "id": 3118578237,
+                    "id_str": "3118578237",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051805798223859712,
+        "in_reply_to_status_id_str": "1051805798223859712",
+        "in_reply_to_user_id": 3118578237,
+        "in_reply_to_user_id_str": "3118578237",
+        "in_reply_to_screen_name": "NAKYUNG1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Mon Oct 15 13:56:59 +0000 2018",
+        "id": 1051834322943074304,
+        "id_str": "1051834322943074304",
+        "text": "@RENA1TES Iya soalnya sy tetangga km",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051817103781650435,
+        "in_reply_to_status_id_str": "1051817103781650435",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Mon Oct 15 13:56:32 +0000 2018",
+        "id": 1051834211743621120,
+        "id_str": "1051834211743621120",
+        "text": "@RENA1TES Orang galak emg gasadar kalo dirinya galak",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051817131103244289,
+        "in_reply_to_status_id_str": "1051817131103244289",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Mon Oct 15 13:56:16 +0000 2018",
+        "id": 1051834142227197952,
+        "id_str": "1051834142227197952",
+        "text": "@RENA1TES Sowsweet",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051817158106263552,
+        "in_reply_to_status_id_str": "1051817158106263552",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 15 13:56:11 +0000 2018",
+        "id": 1051834122685931520,
+        "id_str": "1051834122685931520",
+        "text": "@YEHANA1TES Heeeee",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YEHANA1TES",
+                    "name": "\u3156hana.",
+                    "id": 1048901459742343169,
+                    "id_str": "1048901459742343169",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051819973012672514,
+        "in_reply_to_status_id_str": "1051819973012672514",
+        "in_reply_to_user_id": 1048901459742343169,
+        "in_reply_to_user_id_str": "1048901459742343169",
+        "in_reply_to_screen_name": "YEHANA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Oct 15 13:56:05 +0000 2018",
+        "id": 1051834098245763072,
+        "id_str": "1051834098245763072",
+        "text": "@RENA1TES Byk bgt lo ngetwat",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RENA1TES",
+                    "name": "Rena.",
+                    "id": 812235824284647424,
+                    "id_str": "812235824284647424",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1051829085930831872,
+        "in_reply_to_status_id_str": "1051829085930831872",
+        "in_reply_to_user_id": 812235824284647424,
+        "in_reply_to_user_id_str": "812235824284647424",
+        "in_reply_to_screen_name": "RENA1TES",
+        "user": {
+            "id": 901139471315247104,
+            "id_str": "901139471315247104",
+            "name": "Rosie on Hiatus.",
+            "screen_name": "ROSEANNE1TES",
+            "location": "",
+            "description": "Awas Hanbin galak.",
+            "url": "https://t.co/2eMipHkuJp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2eMipHkuJp",
+                            "expanded_url": "http://Instagram.com/roses_are_rosie",
+                            "display_url": "Instagram.com/roses_are_rosie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110,
+            "friends_count": 37,
+            "listed_count": 2,
+            "created_at": "Fri Aug 25 17:49:27 +0000 2017",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051791639478337537/Nyg5Lflm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901139471315247104/1534811440",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    }
+]
